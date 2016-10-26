@@ -1,26 +1,27 @@
 #-*- coding: utf-8 -*-
 
-from wand.image import Image
 import os
-from pytesseract import image_to_string
-from PIL import Image as pillow
+from subprocess import Popen, PIPE
 
-
-imageTest = "C:\\Users\\Greg\\Pictures\\textbookPhotos\\Geography\\1784-1822 Rev Jedidiah Morse\\1784 (1784) Geography Made Easy\\IMG_0654.jpg"
+__location__ = os.path.dirname(os.path.realpath(__file__))
 
 images = "C:\\Users\\Greg\\Pictures\\textbookPhotos"
 
-	
-grayDir = os.path.join(images, "grayscale")
-bwDir = os.path.join(images, "bw")
 
-if not os.path.isdir(grayDir):
-	os.mkdir(grayDir)
-if not os.path.isdir(bwDir):
-	os.mkdir(bwDir)
+fileTotal = 0
+for root, dirs, files in os.walk(images):
+	for file in files:
+		fileTotal = fileTotal + 1
 
-grayImg = os.path.join(grayDir, os.path.basename(imageTest))
-bwImg = os.path.join(bwDir,  os.path.basename(imageTest))
-
-
-text = image_to_string(pillow.open(grayImg))
+fileCount = 0
+for root, dirs, files in os.walk(images):
+	for file in files:
+		fileCount = fileCount + 1
+		path = os.path.join(root, file)
+		outpath = os.path.join(__location__, "ocr", os.path.basename(root))
+		if not os.path.isdir(outpath):
+			os.mkdir(outpath)
+		print ("Reading file " + str(fileCount) + " of " + str(fileTotal))
+		process = Popen(['tesseract', path, os.path.join(outpath, file)], stdout=PIPE, stderr=PIPE)
+		stdout, stderr = process.communicate()
+		
