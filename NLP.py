@@ -24,42 +24,31 @@ for root, dirs, files in os.walk(dataPath):
 		print ("Reading file " + str(fileCount) + " of " + str(fileTotal))
 
 		#for testing
-		if file == "IMG_1120.JPG.txt":
+		#if 1 == 1:
 
-			dataFile = open(text, 'r')
-			sourceText = dataFile.read()
+		dataFile = open(text, 'r')
+		sourceText = dataFile.read()
 
-			dataFile = open(os.path.join(outPath, "entities.csv"), "a")
-			for tagged in st.tag(wordToke.tokenize(sourceText)):
-				print (tagged)
+		orgs = open(os.path.join(outPath, "organizations.csv"), "a")
+		peeps = open(os.path.join(outPath, "people.csv"), "a")
+		places = open(os.path.join(outPath, "locations.csv"), "a")
+		for tagged in st.tag(wordToke.tokenize(sourceText)):
+			print (tagged)
+			if tagged[1] == 'ORGANIZATION':
+				orgs.write("\n" + tagged[0] + "|" + os.path.basename(root) + "|" + file)
+
+			if tagged[1] == 'PERSON':
+				peeps.write("\n" + tagged[0] + "|" + os.path.basename(root) + "|" + file)
+
+			if tagged[1] == 'LOCATION':
+				places.write("\n" + tagged[0] + "|" + os.path.basename(root) + "|" + file)
 
 
 
 
-			#out.write(output)
+		
 
-			dataFile.close()
-			out.close()
-"""
-for tagged in st.tag(wordToke.tokenize(sourceText)):
-	print (tagged)
-
-	org = []
-	person = []
-
-	wasOrg = False
-	wasPerson = False
-	if tagged[1] == 'ORGANIZATION':
-		csvrow['organization'] = tagged[0]
-		wasOrg = True
-		print wasOrg
-
-	if tagged[1] == 'PERSON':
-		csvrow['person'] = tagged[0]
-		wasPerson = True
-		print wasPerson
-
-	if wasOrg or wasPerson:
-		tweetWriter.writerow(csvrow)
-print ('\n')
-"""
+		dataFile.close()
+		orgs.close()
+		peeps.close()
+		places.close()
