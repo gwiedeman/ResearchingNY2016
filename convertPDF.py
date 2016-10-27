@@ -1,5 +1,5 @@
 import os
-import subprocess
+from subprocess import Popen, PIPE
 
 pdfDir = "/media/bcadmin/wwwroot/asp_issues"
 outDir = "/home/bcadmin/Projects/RNYImages/asp"
