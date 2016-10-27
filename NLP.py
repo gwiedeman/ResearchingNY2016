@@ -33,7 +33,7 @@ for root, dirs, files in os.walk(dataPath):
 		peeps = open(os.path.join(outPath, "people.csv"), "a")
 		places = open(os.path.join(outPath, "locations.csv"), "a")
 		for tagged in st.tag(wordToke.tokenize(sourceText)):
-			print (tagged)
+			#print (tagged)
 			if tagged[1] == 'ORGANIZATION':
 				orgs.write("\n" + tagged[0] + "|" + os.path.basename(root) + "|" + file)
 
@@ -52,3 +52,9 @@ for root, dirs, files in os.walk(dataPath):
 		orgs.close()
 		peeps.close()
 		places.close()
+
+import shutil
+upDir = "/media/bcadmin/wwwroot/eresources/UA_requests"
+shutil.copy2(os.path.join(outPath, "organizations.csv"), upDir)
+shutil.copy2(os.path.join(outPath, "people.csv"), upDir)
+shutil.copy2(os.path.join(outPath, "locations.csv"), upDir)
