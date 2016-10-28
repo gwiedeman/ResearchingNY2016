@@ -1,0 +1,2561 @@
+From 1537940447085338710@xxx Thu Jun 23 15:05:04 +0000 2016
+X-GM-THRID: 1537940447085338710
+X-Gmail-Labels: Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.159.32.15 with SMTP id 15csp580555uam;
+        Thu, 23 Jun 2016 08:05:04 -0700 (PDT)
+X-Received: by 10.157.4.16 with SMTP id 16mr6654866otc.125.1466694304548;
+        Thu, 23 Jun 2016 08:05:04 -0700 (PDT)
+Return-Path: <bounces+2174857-9bfb-ualbanymodernpoliticalarchives=gmail.com@em1.nationsend17.com>
+Received: from o41.email.nationbuilder.com (o41.email.nationbuilder.com. [167.89.27.106])
+        by mx.google.com with ESMTPS id c21si463641oih.139.2016.06.23.08.05.03
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 23 Jun 2016 08:05:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+2174857-9bfb-ualbanymodernpoliticalarchives=gmail.com@em1.nationsend17.com designates 167.89.27.106 as permitted sender) client-ip=167.89.27.106;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@nationsend17.com;
+       dkim=pass header.i=@sendgrid.info;
+       spf=pass (google.com: domain of bounces+2174857-9bfb-ualbanymodernpoliticalarchives=gmail.com@em1.nationsend17.com designates 167.89.27.106 as permitted sender) smtp.mailfrom=bounces+2174857-9bfb-ualbanymodernpoliticalarchives=gmail.com@em1.nationsend17.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=nationsend17.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=BeeuigGZPJdu1Ki9nlNH5zrV8qM=; b=B/S8StW1hyr2A9Op76jlF97
+	9SdHN3jsMgQBhH968xk09NFMyqYoudiMM9eVBjxR9rkVxwJF2CaZ3IKriCbNaHHu
+	+xJArqinU74MtVtCvYc2pnpBTW28WQMsLWmkRxEZpd/4uEk+Zo6/qti+In34ePgq
+	db31t/d6o5lFVNGjBVpw=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding:x-feedback-id; 
+	s=smtpapi; bh=BeeuigGZPJdu1Ki9nlNH5zrV8qM=; b=XVJaOi6UrLISVvptW/
+	1gdE2iyjo7+16ZXX+Xofb1X5x7PIgszCjV1cOKJx4SrKpW3WLShi5dubfidQ2hrr
+	yb6q1tuBSIZL99404WBOLXhmDcfICvSAomLYApQ9LTwU6RmfZHvYNDfiO7UdSmOh
+	w6rhQDoac3YV6Rzuu2S0MnkD8=
+Received: by filter0849p1mdw1.sendgrid.net with SMTP id filter0849p1mdw1.24950.576BFA8E28
+        2016-06-23 15:04:46.211835329 +0000 UTC
+Received: from nationbuilder.com (ip-162-219-220-2.rdns.3dna.io [162.219.220.2])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id gaFpzlzXQ3mKOZi5u_HFgw
+	for <ualbanymodernpoliticalarchives@gmail.com>; Thu, 23 Jun 2016 15:04:45.875 +0000 (UTC)
+Date: Thu, 23 Jun 2016 11:04:45 -0400
+From: Tom Reed for Congress <tomreed@tomreedforcongress.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Message-ID: <576bfa8dae705_2f8bbc5318256df@worker1.nbuild.prd.atl.3dna.io.mail>
+Subject: Thank you for joining
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_576bfa8da4089_2f8bbc5318255c4";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+x-nb-auto-response: true
+X-SG-EID: SqjvO0W0lMmuFOX35leEpmn6BG8Ex+jE0LvJL0mW9zCH/iHj/ejQ9vfI4oO+1JnIe20SaT6UdqC9SH
+ yzyKYqFo/aqYqZLi5EiRd11BU77W/bkZS0Pj3wat5zKp3E7Sy//sKi57xVfsCIQz7yIW/bxx44x522
+ n5yp9Q+AfXlGdSliCr2Pu4e/gPXeXnwkVsuPPCRgDVnZSuEtsLD/wcc1ch1A7ys8HdMkP8gQZWxNKm
+ ot4b3KOuswICDR+ptLqEOWljf2MiM4sXzlOPMTCBMJzg==
+X-SG-ID: ergCm67lDnBhVT3kRglCddUw/R9IoBihff6bL2ZJm1YsKovzo3s2GcdeRY5iO+Jg
+X-Feedback-ID: 2174857:3T3qFIZqwIc9wkVKe5GPrxFVM9IcRhU9hGpYENIoVhY=:cpKUUQDSxnBTcwD4PW5nIuuRlZnGcfy3Zc6LiULAAK/7/CYXUkZm8sbRmPTwcJUS:SG
+
+----==_mimepart_576bfa8da4089_2f8bbc5318255c4
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Friend --=C2=A0
+
+Thank you for joining our campaign.=C2=A0Together we will fix Washington, a=
+nd make a difference for western New York.
+
+I hope you'll take a moment to=C2=A0watch and share my latest web video <ht=
+tp://www.youtube.com/watch?v=3DqzDmGavPbxw>=C2=A0with your friends, family =
+and neighbors.
+
+And if you haven't already,=C2=A0please like my campaign on Facebook <https=
+://www.facebook.com/VoteTomReed>.
+
+Thank you for your support.
+
+- Tom
+
+Tom Reed for Congress
+http://www.tomreedforcongress.com/
+
+
+
+-=3D-=3D-
+This email was sent to ualbanymodernpoliticalarchives@gmail.com.  To stop r=
+eceiving updates on this page: http://www.tomreedforcongress.com/forms/page=
+_unsubscribes/141?e=3D3d0da9d59ad494d2c3e341bd913b1860
+Tom Reed for Congress - PO Box 94, Corning, NY 14830, United States=20
+-=3D-=3D-
+
+Created with NationBuilder - http://nationbuilder.com/=
+
+----==_mimepart_576bfa8da4089_2f8bbc5318255c4
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html><head><title></title>
+<style type=3D"text/css">
+body, td, font { font-size: 10pt; }
+td p { margin: 0em; }
+p { margin: 1em 0em; }
+td div p { margin: 1em 0em; }
+</style>
+</head><body marginheight=3D5 topmargin=3D5>
+<font face=3D"Arial, Verdana, sans-serif" size=3D2>
+=09
+Friend --=C2=A0<br><br>Thank you for joining our campaign.=C2=A0Together we=
+ will fix Washington, and make a difference for western New York.<br><br>I =
+hope you'll take a moment to=C2=A0<a href=3D"http://www.youtube.com/watch?v=
+=3DqzDmGavPbxw">watch and share my latest web video</a>=C2=A0with your frie=
+nds, family and neighbors.<br><br>And if you haven't already,=C2=A0<a href=
+=3D"https://www.facebook.com/VoteTomReed">please like my campaign on Facebo=
+ok</a>.<br><br>Thank you for your support.<br><br>- Tom<br><br>Tom Reed for=
+ Congress<br><a href=3D"http://www.tomreedforcongress.com/">http://www.tomr=
+eedforcongress.com/</a>
+
+<br/><br/>
+-=3D-=3D-<br/>
+This email was sent to ualbanymodernpoliticalarchives@gmail.com.
+
+	To stop receiving updates on this page, <a href=3D"http://www.tomreedforco=
+ngress.com/forms/page_unsubscribes/141?e=3D3d0da9d59ad494d2c3e341bd913b1860=
+">unfollow here</a>.
+
+<br/>
+Tom Reed for Congress &middot; PO Box 94, Corning, NY 14830, United States=
+=20
+<br/><br/>
+Created with <a href=3D"http://nationbuilder.com/">NationBuilder</a>, softw=
+are for leaders.
+</font>
+</body></html>=
+
+----==_mimepart_576bfa8da4089_2f8bbc5318255c4--
+
+From 1537962478603583568@xxx Thu Jun 23 20:55:15 +0000 2016
+X-GM-THRID: 1537962478603583568
+X-Gmail-Labels: Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.159.32.15 with SMTP id 15csp729736uam;
+        Thu, 23 Jun 2016 13:55:15 -0700 (PDT)
+X-Received: by 10.36.118.19 with SMTP id z19mr2695451itb.44.1466715315654;
+        Thu, 23 Jun 2016 13:55:15 -0700 (PDT)
+Return-Path: <bounce_1275877-1683-143279690-17331545_T@bounce.myngp.com>
+Received: from mailout833.ngpweb.com (mailout833.ngpweb.com. [192.82.209.197])
+        by mx.google.com with ESMTPS id f97si911727ioj.189.2016.06.23.13.55.15
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 23 Jun 2016 13:55:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce_1275877-1683-143279690-17331545_t@bounce.myngp.com designates 192.82.209.197 as permitted sender) client-ip=192.82.209.197;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@bounce.myngp.com;
+       spf=pass (google.com: domain of bounce_1275877-1683-143279690-17331545_t@bounce.myngp.com designates 192.82.209.197 as permitted sender) smtp.mailfrom=bounce_1275877-1683-143279690-17331545_T@bounce.myngp.com
+Return-Path: <bounce_1275877-1683-143279690-17331545_T@bounce.myngp.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=bounce.myngp.com; s=ngpweb3; c=simple/simple;
+	q=dns/txt; i=@bounce.myngp.com; t=1466712912;
+	h=Sender:From:Subject:List-Unsubscribe:Date:To:Reply-To:Message-ID:MIME-Version:
+	Content-Type;
+	bh=g9OlbwoUUukITWUksiqcxntgU9o=;
+	b=zHRQTlF7lwSudDScaA2jU5y5OCeAJgvTUntep0QdhdscG8fnQ1UoCEYm+wbEogh7
+	L5og39evNJcKJxnfQAdbquMA8qw3t06XuCKRSv2ldZDTLXtF2RGe+SivT2HmkD1D
+	SHykA2VLEnf2IAHW+G4dYefxdjRYeRxWp4fCIkS/jbc=;
+X-MSFBL: AJyKjrP3VPs5LAyCHt67xsdLIeMXTxiO7WtGZhqNf0w=|eyJiIjoibWFpbG91dDg
+	zMyIsInUiOiJib3VuY2VfMTI3NTg3Ny0xNjgzLTE0MzI3OTY5MC0xNzMzMTU0NV9
+	UIiwiciI6InVhbGJhbnltb2Rlcm5wb2xpdGljYWxhcmNoaXZlc0BnbWFpbC5jb20
+	iLCJnIjoiZGVmYXVsdCJ9
+Received: from [10.11.74.42] ([10.11.74.42:51079] helo=NSV11TIBCE002)
+	by asv11mtam002.ngpweb.com (envelope-from <bounce_1275877-1683-143279690-17331545_T@bounce.myngp.com>)
+	(ecelerity 4.2.1.51032 r(Core:4.2.1.4)) with ESMTP
+	id AD/17-09576-0534C675; Thu, 23 Jun 2016 16:15:12 -0400
+X-CampaignID: 1683
+X-BroadcastID: 1275877
+X-ContactID: 17331545
+X-Binding: mailout833
+Sender: "Joe Crowley " <bounce@bounce.myngp.com>
+List-Unsubscribe: <http://images.myngp.com/unsubscribe.aspx?crypt=Casv%2frrJxGBaypubQ1N7lgUWYDPwdIhKDw8ziWZq4lw1xSTOSJRpXw%3d%3d>
+Reply-To: info@crowleyforcongress.com
+From: "Joe Crowley " <info@crowleyforcongress.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Message-ID: <d1f4a4c8c75c410aafdacc8199b04dd1@crowleyforcongress.com>
+Date: Thu, 23 Jun 2016 16:15:08 -0400
+Subject: invitation for you:
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----AF7289BDFE224DF9AC07038A911C301F"
+
+------AF7289BDFE224DF9AC07038A911C301F
+Content-type: text/plain; charset=Windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+UAlbany,
+
+
+Do you have plans for this weekend?
+
+
+My family and I are going to be enjoying the great American tradition o=
+f grilling, cold beer and soccer in The Garden at Studio Square, and we=
+ would love to see you there this Sunday at 3:00 pm=2E Tickets start at=
+ $35 per person, RSVP by clicking here=2E (bit=2Ely/beergarden2016)
+
+
+We=92ve got a lot to fix in our country=2E From fighting for gun violen=
+ce prevention to protecting Social Security and Medicare, we need stron=
+g Democrats in Washington=2E On Sunday, I hope we can discuss this and =
+how Democrats can take back Congress this November=2E
+
+
+Can you join me this Sunday at The Garden at Studio Square? Make sure t=
+o RSVP by clicking here=2E (bit=2Ely/beergarden2016)
+
+
+Can=92t wait to see you,
+Joe Crowley=20
+
+Paid for by Crowley for Congress
+
+8456 Grand Avenue
+Elmhurst, NY 11373
+
+Forward to a Friend - https://www=2Emyngp=2Ecom/NgpWeb/app/tools/broadc=
+ast/broadcastforward=2Easpx?value1=3D143279690&value2=3D1683&value3=3D1=
+54268&NB=3Dtrue
+
+To unsubscribe from this mailing list, click here - http://images=2Emyn=
+gp=2Ecom/unsubscribe=2Easpx?crypt=3DCasv%2frrJxGBaypubQ1N7lgUWYDPwdIhKD=
+w8ziWZq4lw1xSTOSJRpXw%3d%3d
+
+Powered by NGP VAN, Inc=2E
+
+
+------AF7289BDFE224DF9AC07038A911C301F
+Content-type: text/html; charset=Windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<body><style>
+    body {font-family: Arial; font-size: 10pt}
+    body {font-family: helvetica; font-size: 10pt}
+</style>
+<p>
+</p>
+<div style=3D"text-align: left;"><span style=3D"font-size: 12pt;">
+UAlbany,
+<br>
+<br>
+Do you have plans for this weekend?
+<br>
+<br>
+My family and I are going to be enjoying the great American tradition o=
+f grilling, cold beer and soccer in The Garden at Studio Square, and we=
+ would love to see you there this Sunday at 3:00 pm=2E Tickets start at=
+ $35 per person, <strong><a href=3D"bit=2Ely/beergarden2016">RSVP by cl=
+icking here=2E</a></strong>
+<br>
+<br>
+We&rsquo;ve got a lot to fix in our country=2E From fighting for gun vi=
+olence prevention to protecting Social Security and Medicare, we need s=
+trong Democrats in Washington=2E On Sunday, I hope we can discuss this =
+and how Democrats can take back Congress this November=2E
+<br>
+<br>
+<strong>
+<a href=3D"bit=2Ely/beergarden2016">Can you join me this Sunday at The =
+Garden at Studio Square? Make sure to RSVP by clicking here=2E</a></str=
+ong><br>
+<br>
+Can&rsquo;t wait to see you,<br>
+Joe Crowley
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</span></div> <br><br><center><table><tr><td align=3D"center" style=3D"=
+border: 1px solid black">Paid for by Crowley for Congress</td></tr></ta=
+ble></center><BR><BR><font style=3D"FONT-SIZE: x-small; FONT-FAMILY: Ar=
+ial; COLOR: SILVER"><CENTER>8456 Grand Avenue<BR>Elmhurst,&nbsp;NY&nbsp=
+;11373</CENTER></FONT><img id=3D"trackingimage" src=3D"http://images=2E=
+myngp=2Ecom/images/newtracker=2Easpx?CampaignID=3D1683&MailID=3D1432796=
+90" height=3D1 width=3D1 border=3D0><br><table width=3D100% align=3D"ce=
+nter"><tr><td align=3D"center"><font style=3D"FONT-SIZE: x-small; FONT-=
+FAMILY: Verdana; COLOR: #696969; FONT-VARIANT: small-caps"><a href=3D"h=
+ttp://images=2Emyngp=2Ecom/LinkTracker=2Easpx?crypt=3DIVi0ax2%2b6UDLpC3=
+olJXC457kkjv9LkTjvDXRuLbXMKT3SLPHL8f66seeqvDN0HKv0yZtvicTJBHji0Rx3fpXm%=
+2fh2PIGbpA56ZmM8ZFXvbp1NGeD8qcDsppJfQufYNAiO%2f3aS9exDIfk8BpV7YwPM3XHOR=
+63r%2bQVbw%2fTpm3Je94GbXyhT0Bu%2fjTa2YAmikakWJXmmFTz0yZIfMTZAEm8r0y%2fW=
+AdbP2JS2PYzkCVF9zjN8D7xbh6ipF%2fHrCgRlLeHFLSTlU%2b01hQY%3d"><img id=3D"=
+forward" src=3D"https://www=2Emyngp=2Ecom/broadcast/images/fwdbutton=2E=
+gif" alt=3D"Forward this message to a friend" height=3D"28" width=3D"14=
+5" border=3D0></a></font></td></tr><tr><td align=3D"center"><font style=
+=3D"FONT-SIZE: x-small; FONT-FAMILY: Verdana; COLOR: #696969; FONT-VARI=
+ANT: small-caps">To unsubscribe from this mailing list, click <a href=3D=
+"http://images=2Emyngp=2Ecom/LinkTracker=2Easpx?crypt=3DIVi0ax2%2b6UBSi=
+nc%2fCPYaKYRb7nJwUTqAdkVV5jnwolBsNyHdRvID%2bwEHO5DKXM8qtfmlTP%2bK12uT6y=
+YEujE922TsZUPKXz7UZaxnHogPIsB5ek4wuyJOlFo%2bD%2bD2KCQNdWmfrX2lR93zzs%2f=
+tYS8BbeD89UgrKiw%2b%2bRIEpeCC7FY0NysLygOS7YF25QAq5soxog8%2fsTkam5J1q7%2=
+fN2sj1O%2ffI%2b8bz58oC9oiCyskVlKQ%3d">here</a></font></td></tr><tr><td =
+align=3D"center"><font style=3D"FONT-SIZE: x-small; FONT-FAMILY: Verdan=
+a; COLOR: #696969; FONT-VARIANT: small-caps">Powered by <a href=3D"http=
+://images=2Emyngp=2Ecom/LinkTracker=2Easpx?crypt=3DIVi0ax2%2b6UBSinc%2f=
+CPYaKdzn%2fWO5xRpchVp1UnzNaiP3%2bkgPDsSmyIB1oXbqvnh8c4ySyrtLWIp%2b%2f3i=
+vU45i1rFqjfoEwX7rpr%2bJuk2BDSw%3d">NGP VAN, Inc=2E</a></font></td></tr>=
+</table></body>
+------AF7289BDFE224DF9AC07038A911C301F--
+
+
+From 1538566927554986020@xxx Thu Jun 30 13:02:42 +0000 2016
+X-GM-THRID: 1538566927554986020
+X-Gmail-Labels: Unread,Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.114.77.103 with SMTP id r7csp433854ldw;
+        Thu, 30 Jun 2016 06:02:43 -0700 (PDT)
+X-Received: by 10.107.62.195 with SMTP id l186mr2724872ioa.185.1467291763113;
+        Thu, 30 Jun 2016 06:02:43 -0700 (PDT)
+Return-Path: <bounce_1276905-4518-143447906-17331543_T@bounce.myngp.com>
+Received: from mailout692.ngpweb.com (mailout692.ngpweb.com. [192.82.209.56])
+        by mx.google.com with ESMTPS id a7si4295867iog.237.2016.06.30.06.02.42
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 30 Jun 2016 06:02:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce_1276905-4518-143447906-17331543_t@bounce.myngp.com designates 192.82.209.56 as permitted sender) client-ip=192.82.209.56;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@bounce.myngp.com;
+       spf=pass (google.com: domain of bounce_1276905-4518-143447906-17331543_t@bounce.myngp.com designates 192.82.209.56 as permitted sender) smtp.mailfrom=bounce_1276905-4518-143447906-17331543_T@bounce.myngp.com
+Return-Path: <bounce_1276905-4518-143447906-17331543_T@bounce.myngp.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=bounce.myngp.com; s=ngpweb3; c=simple/simple;
+	q=dns/txt; i=@bounce.myngp.com; t=1467291762;
+	h=Sender:From:Subject:List-Unsubscribe:Date:To:Reply-To:Message-ID:MIME-Version:
+	Content-Type;
+	bh=UkahiaKtJj7JYoQ/YdEfhsqC28o=;
+	b=/AH5VmyAJ2vaGv2ij/NP+LupT3pBISx+rJL2ebS/zusDkSTo+miwa43Ks6uqkHoc
+	JnbrhBpQdcvLwhYzjXNzC45+RxF5Tqq0Iu7ajn2OuWBf8SvhSZ3Azaje2uPONLSy
+	WbPYFGAQ6KxPOLwC8/fOKfRcejBjHeMi2kR6zHyv2Hw=;
+X-MSFBL: BNfpom9Z/ZzK7Hj/v3pQ+/+o7QP6lmwxcsN+SIs4D4o=|eyJiIjoibWFpbG91dDY
+	5MiIsImciOiJkZWZhdWx0Z3JvdXAwMSIsInIiOiJ1YWxiYW55bW9kZXJucG9saXR
+	pY2FsYXJjaGl2ZXNAZ21haWwuY29tIiwidSI6ImJvdW5jZV8xMjc2OTA1LTQ1MTg
+	tMTQzNDQ3OTA2LTE3MzMxNTQzX1QifQ==
+Received: from [10.11.74.33] ([10.11.74.33:60255] helo=NSV11TIAPP003)
+	by asv11mtam003.ngpweb.com (envelope-from <bounce_1276905-4518-143447906-17331543_T@bounce.myngp.com>)
+	(ecelerity 4.2.1.51032 r(Core:4.2.1.4)) with ESMTP
+	id F7/EB-32300-27815775; Thu, 30 Jun 2016 09:02:42 -0400
+X-CampaignID: 4518
+X-BroadcastID: 1276905
+X-ContactID: 17331543
+X-Binding: default
+Sender: "Grace Meng " <bounce@bounce.myngp.com>
+List-Unsubscribe: <http://images.myngp.com/unsubscribe.aspx?crypt=Casv%2frrJxGD6qtQsokmkV4QIrw%2f2xS2jY8A7j%2bKHrebxTYxF2P7RJg%3d%3d>
+Reply-To: grace@gracefornewyork.com
+From: "Grace Meng " <grace@gracefornewyork.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Message-ID: <3b0d6b2e004c4f568a99efdc869335d8@gracefornewyork.com>
+Date: Thu, 30 Jun 2016 09:02:36 -0400
+Subject: Following up
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----90DEE35E5DF945B7BA194CD194EA03D8"
+
+------90DEE35E5DF945B7BA194CD194EA03D8
+Content-type: text/plain; charset=Windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Just following up on my email from earlier this week, UAlbany=2E Today'=
+s the filing deadline, and we really can=92t afford to miss our goal=2E=
+ Hitting these goals allows me to keep fighting for important progress =
+in Congress, but right now I=92m coming up $2,900 short=2E Could you he=
+lp me get there?=A0
+
+Link: https://secure=2Eactblue=2Ecom/contribute/page/gracemeng?refcode=3D=
+20160629-ja-nd&amounts=3D5,25,50,100,250,500=A0
+
+
+Thank you so much,=A0
+
+
+Grace
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+
+
+This email was sent to ualbanymodernpoliticalarchives@gmail=2Ecom=2E=A0
+
+
+
+
+
+
+
+
+
+
+Contributions or gifts to Grace for New York are not tax deductible=2E=20
+
+Paid for by Grace for New York
+
+P=2EO=2E Box 656555
+Fresh Meadows, NY 11365
+
+To unsubscribe from this mailing list, click here - http://images=2Emyn=
+gp=2Ecom/unsubscribe=2Easpx?crypt=3DCasv%2frrJxGD6qtQsokmkV4QIrw%2f2xS2=
+jY8A7j%2bKHrebxTYxF2P7RJg%3d%3d
+
+Powered by NGP VAN, Inc=2E
+
+
+------90DEE35E5DF945B7BA194CD194EA03D8
+Content-type: text/html; charset=Windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<body><html>
+    <head>
+        <style>
+            body {font-family: Arial; font-size: 10pt}
+        </style>
+        <style type=3D"text/css">
+            body { background-color:#ffffff; }
+            /* Set background here and also below=2E */
+            div#background { background-color: #ffffff; background: url=
+(''); background-repeat: repeat; }
+            table#background_table_for_outlook { background-color: #fff=
+fff; background: url(''); background-repeat: repeat; }
+            div#preview { display:none; visibility:hidden; font-size:9p=
+x; color:#888888; text-align: left; width:100%; max-width:600px; min-wi=
+dth:300px; }
+            div#topper { width: 100%; min-width: 300px; }
+            table#max_width_for_outlook { margin: 0; padding: 0; }
+            div#container { width: 100%; min-width: 300px; margin: 0px;=
+ }
+            div#container {  } /* Remove for full-width message=2E Also=
+ need to edit HTML below as indicated=2E */
+            table#background_table_for_outlook { width: 100%; margin: 0=
+px; padding: 0px; }
+            div#header { width: 100%; padding-top:10px; padding-bottom:=
+ 0px; margin: 0 auto; }
+            div#header img { max-width: 100% !important; }
+            div#body { background-color:#ffffff; border: 1px solid #FFF=
+FFF; } /* Adjust content well border here=2E */
+            table#body_table_for_outlook { background-color: #ffffff; b=
+order: 1px solid #FFFFFF; } /* Adjust content well border here=2E */
+            div#footer { width: 100%; font-family: sans-serif; font-siz=
+e: 12px; line-height: 1=2E4em; margin: 0 auto; padding-top: 2em; color:=
+ #444444; }
+            =2Einner { margin: 10px; }
+            =2Eecxinner { padding: 10px; } /* =2ESupport for Outlook=2E=
+com */
+            img { border: 0; }
+            a { color: blue; }
+            a:hover, a:active { color: darkred; }
+            p { margin: 1em auto; }
+            div=2Econtent { font-family: sans-serif; font-size: 14px; l=
+ine-height: 1=2E4em; text-align: left; margin: 0; padding: 0; }
+            div=2Econtent img { max-width: 100%; height: auto; }
+            div=2Econtent img[align] { margin: 0 0 1em 1em; max-width: =
+45%; }
+            div#header p { margin: 0; }
+            div#body img#signature { margin: 5px 0; max-width: 100% !im=
+portant; max-height: auto; }
+            div#body_buttons { margin: 4em auto 2em auto; }
+            div#body_buttons p { margin: 2em auto; }
+            #contribute_btn {
+            mso-hide: all;
+            background-color:#a30a0d;
+            border:1px solid #b90f10;
+            }
+            div#unsub { margin: 0 auto 2em auto; }
+            @media only screen and (max-width: 480px) {
+            body[style] { background: #ffffff !important; }
+            div#background[style] { background: none !important; }
+            div#body[style] { border: 0px !important; border-bottom: 1p=
+x solid #fff !important; }
+            =2Einner[style] { margin: 0px !important; }
+            div#header[style] { background: url('https://www=2Emyngp=2E=
+com/BCEImages/UploadImages/4518/29133337-b32a-4dba-a7ef-670e9ff554cc=2E=
+png') center top no-repeat !important; background-size: contain !import=
+ant; width: 100% !important; max-width: 300px; height: 75px; margin: 0 =
+auto !important; padding: 0 !important; }
+            div#header img[class] { visibility: hidden; }
+            div=2Econtent[style] { font-size: 18px !important; line-hei=
+ght: 1=2E4em !important; }
+            div=2Econtent img[src] { max-width: 100%; height: auto; }
+            div=2Econtent img[align] { width: auto; height: auto; max-w=
+idth: 300px !important; max-height: 240px; float: right; display: block=
+; margin: 0 auto 0=2E5em auto !important; }
+            div=2Efloat-callout-mobile div=2Econtent img[align] { width=
+: auto; height: auto; max-width: 45% !important; max-height: 100% !impo=
+rtant; float: right; display: inline; margin: 0 0 0=2E5em 0=2E5em !impo=
+rtant; }
+            div=2Econtent[style] a { font-size: 20px; line-height: 1=2E=
+4em; }
+            div#footer[style] { background: none !important; }
+            }
+            /* 1=2E5 dpr */
+            @media (-webkit-min-device-pixel-ratio: 1=2E5), (min-resolu=
+tion: 144dpi) {
+            div#header[style] { background: url('https://www=2Emyngp=2E=
+com/BCEImages/UploadImages/4518/f3d854ae-b2be-4647-93e9-d3c2a2052807=2E=
+png') center top no-repeat !important; background-size: contain !import=
+ant; width: 100% !important; height: auto; margin: 0 auto !important; p=
+adding: 0 !important; }
+            div#header img[class] { visibility: hidden; }
+            }
+            /* 1=2E5 dpr */
+            @media (-webkit-min-device-pixel-ratio: 1) and (max-width: =
+480px), (min-resolution: 144dpi) and (max-width: 480px) {
+            div#header[style] { background: url('https://www=2Emyngp=2E=
+com/BCEImages/UploadImages/4518/f92999ea-7aa1-488b-a2b9-b47585054415=2E=
+png') center top no-repeat !important; background-size: contain !import=
+ant; width: 100% !important; max-width: 300px; height: 75px; margin: 0 =
+auto !important; padding: 0 !important; }
+            div#header img[class] { visibility: hidden; }
+            }
+        </style>
+    </head>
+    <body bgcolor=3D"#ffffff" style=3D"background-color:#ffffff;">
+        <center>
+        <!-- Set background here both in #background and #background_ta=
+ble_for_outlook and also above=2E -->
+        <div style=3D"background-color: #ffffff;background: url(''); ba=
+ckground-repeat: repeat;" bgcolor=3D"#ffffff" id=3D"background"><!--[if=
+ mso]>
+    <table id=3D"background_table_for_outlook" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff" style=3D"background-color:=
+ #ffffff; width: 100%; margin: 0px; padding: 0px;background: url(''); b=
+ackground-repeat: repeat;">
+=09<tr>
+=09    <td>
+=09    <![endif]-->  <!-- Section below sets max-width of 640px for var=
+ious Outlook 2007 and above=2E Remove this section to remove max-width =
+from email body=2E Also need to edit CSS above, edit DIV tag below and =
+remove Outlook-specific code at end of DOM=2E -->  <!--[if mso]>
+=09    <table id=3D"max_width_for_outlook" border=3D"0" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"margin: 0=
+; padding: 0;">
+=09=09<tr>
+=09=09    <td>
+=09=09    <![endif]-->
+        <div style=3D"width: 100%; min-width: 300px; margin: 0px;" id=3D=
+"container"><!-- Add class =2Efloat-callout-mobile to force callout gra=
+phics to float right on small screens=2E -->
+        <!-- Replace line above with the following to remove max-width =
+from email body=2E Also need to edit CSS and Outlook-specific section a=
+bove=2E -->
+        <!-- <div id=3D"container" style=3D"width: 100%; min-width: 300=
+px; margin: 0px;"> -->
+        <div style=3D"margin: 10px;" class=3D"inner">
+        <!-- Create main body content well=2E Opaque background in Outl=
+ook requires #body_table_for_outlook below=2E -->
+        <div style=3D"background-color:#ffffff; border: 1px solid #FFFF=
+FF; font-family: sans-serif; font-size: 14px; line-height: 1=2E4em; tex=
+t-align: left; margin: 0; padding: 0;" class=3D"content" id=3D"body">
+        <!--[if mso]>
+=09=09    <table id=3D"body_table_for_outlook" class=3D"content" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#ffffff" style=3D=
+"background-color: #ffffff; border: 1px solid #FFFFFF; font-family: san=
+s-serif; font-size: 14px; line-height: 1=2E4em; text-align: left; margi=
+n: 0; padding: 0;">
+=09=09=09<tr>
+=09=09=09    <td>
+=09=09=09    <![endif]-->
+        <div style=3D"margin: 10px;" class=3D"inner">
+        <p style=3D"margin: 1em auto;">Just following up on my email fr=
+om earlier this week, UAlbany=2E Today's the filing deadline, and we re=
+ally can&rsquo;t afford to miss our goal=2E Hitting these goals allows =
+me to keep fighting for important progress in Congress, but right now I=
+&rsquo;m coming up $2,900 short=2E Could you help me get there? Link:&n=
+bsp;<strong><a href=3D"http://images=2Emyngp=2Ecom/LinkTracker=2Easpx?c=
+rypt=3DIVi0ax2%2b6UDLpC3olJXC4yrvlLrY0tRLxH4Cf9vHXDnO6vP7PGO0%2boBiZsCX=
+LW0VZjWHXaO0RVl7%2fR2oWypYA3aDwK4iVl43xh%2fNQjg1LV3dKNNMKKlln8g%2fuOV8M=
+MWTESxqfyVOXsbJXvFiAA7uhG9S5KqkGlYLuPCjT6JTivJsNmovoaLc%2bOY0mI7aRQrrFj=
+aWmS0oIfT3F%2fYI%2bKomVj9JEw%2fQIcczRJsr45mjzBB1jKb17jk2Xg%3d%3d">https=
+://secure=2Eactblue=2Ecom/contribute/page/gracemeng</a></strong></p>
+        <p style=3D"margin: 1em auto;">Thank you so much, </p>
+        <p style=3D"margin: 1em auto;">Grace</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        <p style=3D"margin: 1em auto;">&nbsp;</p>
+        </div>
+        <!-- end =2Einner --> =09=09 =09=09=09<!--[if mso]>
+=09=09=09    </td>
+=09=09=09</tr>
+=09=09    </table>
+=09=09    <![endif]--> <!-- end #body_table_for_outlook -->
+        </div>
+        <!-- end #body -->
+        <div style=3D"width: 100%; font-family: sans-serif; font-size: =
+12px; line-height: 1=2E4em; margin: 0 auto; padding-top: 2em; color: #4=
+44444;" id=3D"footer">
+        <div style=3D"margin: 10px;" class=3D"inner">
+        <div style=3D"margin: 0 auto 2em auto;" id=3D"unsub"><center>
+        <p style=3D"margin: 1em auto;">This email was sent to ualbanymo=
+dernpoliticalarchives@gmail=2Ecom=2E</p>
+        </center></div>
+        <p style=3D"margin: 1em auto;text-align: center;"></p>
+        <center>
+        <p style=3D"margin: 1em auto;text-align: center;">Contributions=
+ or gifts to Grace for New York are not tax deductible=2E</p>
+        </center>
+        </div>
+        <!-- end =2Einner --></div>
+        <!-- end #footer --></div>
+        <!-- end #container =2Einner --></div>
+        <!-- end #container -->  <br>
+        <br>
+        <!-- Provides for bottom padding=2E -->  <!-- Section below clo=
+ses tags to set max-width of 600px for Outlook 2007 and above=2E Remove=
+ this section to remove max-width from email body=2E Also need to edit =
+CSS above, edit DIV tag above and remove Office-specific code above=2E =
+-->  <!--[if mso]>
+=09=09    </td>
+=09=09</tr>
+=09    </table>
+=09    <![endif]-->  <!--[if mso]>
+=09    </td>
+=09</tr>
+    </table>
+    <![endif]--> <!-- end #background_table_for_outlook --></div>
+        <!-- end #background -->  </center>
+    </body>
+</html> <br><br><center><table><tr><td align=3D"center" style=3D"border=
+: 1px solid black">Paid for by Grace for New York</td></tr></table></ce=
+nter><BR><BR><font style=3D"FONT-SIZE: x-small; FONT-FAMILY: Arial; COL=
+OR: SILVER"><CENTER>P=2EO=2E Box 656555<BR>Fresh Meadows,&nbsp;NY&nbsp;=
+11365</CENTER></FONT><img id=3D"trackingimage" src=3D"http://images=2Em=
+yngp=2Ecom/images/newtracker=2Easpx?CampaignID=3D4518&MailID=3D14344790=
+6" height=3D1 width=3D1 border=3D0><br><table width=3D100% align=3D"cen=
+ter"><tr><td align=3D"center"><font style=3D"FONT-SIZE: x-small; FONT-F=
+AMILY: Verdana; COLOR: #696969; FONT-VARIANT: small-caps">To unsubscrib=
+e from this mailing list, click <a href=3D"http://images=2Emyngp=2Ecom/=
+LinkTracker=2Easpx?crypt=3DIVi0ax2%2b6UBSinc%2fCPYaKYRb7nJwUTqAdkVV5jnw=
+olBsNyHdRvID%2bwEHO5DKXM8qtfmlTP%2bK12uT6yYEujE922TsZUPKXz7U9nHS4lBuWN9=
+CmftFdcU3zAe0gyupqO1U2Tjf6H%2fgzKkDMzsx64XQLniqyWzVvkMbuRzlNadgxQrSNC2c=
+3Ok1DXxdEpPAKohhrf5ICq3yOkuzDLemnYmxZavr2GkcggSiuD2AVf9YjONlSKXfUDuS9g%=
+3d%3d">here</a></font></td></tr><tr><td align=3D"center"><font style=3D=
+"FONT-SIZE: x-small; FONT-FAMILY: Verdana; COLOR: #696969; FONT-VARIANT=
+: small-caps">Powered by <a href=3D"http://images=2Emyngp=2Ecom/LinkTra=
+cker=2Easpx?crypt=3DIVi0ax2%2b6UBSinc%2fCPYaKdzn%2fWO5xRpchVp1UnzNaiP3%=
+2bkgPDsSmyDiN5xV6pcyhCOGhzZjbDZiJjqINmHXesfk1TZdo2qL9vi1AZ1YtqFM%3d">NG=
+P VAN, Inc=2E</a></font></td></tr></table></body>
+------90DEE35E5DF945B7BA194CD194EA03D8--
+
+
+From 1538571446356801681@xxx Thu Jun 30 14:14:32 +0000 2016
+X-GM-THRID: 1538571446356801681
+X-Gmail-Labels: Unread,Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.114.77.103 with SMTP id r7csp474302ldw;
+        Thu, 30 Jun 2016 07:14:32 -0700 (PDT)
+X-Received: by 10.157.50.130 with SMTP id u2mr10381597otb.129.1467296072715;
+        Thu, 30 Jun 2016 07:14:32 -0700 (PDT)
+Return-Path: <bounces+2265652-477d-ualbanymodernpoliticalarchives=gmail.com@em1.tomreedforcongress.com>
+Received: from o46.email.nationbuilder.com (o46.email.nationbuilder.com. [167.89.27.118])
+        by mx.google.com with ESMTPS id c26si2358457otc.271.2016.06.30.07.14.31
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 30 Jun 2016 07:14:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+2265652-477d-ualbanymodernpoliticalarchives=gmail.com@em1.tomreedforcongress.com designates 167.89.27.118 as permitted sender) client-ip=167.89.27.118;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@tomreedforcongress.com;
+       dkim=pass header.i=@sendgrid.info;
+       spf=pass (google.com: domain of bounces+2265652-477d-ualbanymodernpoliticalarchives=gmail.com@em1.tomreedforcongress.com designates 167.89.27.118 as permitted sender) smtp.mailfrom=bounces+2265652-477d-ualbanymodernpoliticalarchives=gmail.com@em1.tomreedforcongress.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=tomreedforcongress.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=s1; bh=8s5/w5+QFt5XxKPCIb5lSLe/hmA=; b=jTkXC0IHU5+xpye8R8kslpt
+	XzqmYYhtRkaMlU+ce9p/FdegGb+uaPEQpSMqGa9QgECaSz4gJSgbTwYvoi7rR74W
+	1CgV30Blf1YP7shYtDwTJNc6Lp6T2NlZbEO6HLEwavuJ8i3/6+Cfxi9VciUFUIEx
+	hrQWgN13VFKVKhKKON/E=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=8s5/w5+QFt5XxKPCIb5lSLe/hmA=; b=Zn61sASs6feus0XZUj
+	maBGm6ud+6RdQ5s4w0CwyiZJPAM6Yrrd0T0GdmBUlIeJwbMzO2GL/1aYwg37Ip+b
+	m0qTRPcNh8ZmlZ2Z0jvKveKJQP0vASMjN4n9/AdDOLlp72TMyPoB8Cia4/uzGPdn
+	bQ15NsDo0iWdzHakQZFmNjgXA=
+Received: by filter0882p1mdw1.sendgrid.net with SMTP id filter0882p1mdw1.15627.5775292141
+        2016-06-30 14:13:53.634031981 +0000 UTC
+Received: from nationbuilder.com (ec2-54-82-247-45.compute-1.amazonaws.com [54.82.247.45])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id Lay_qYhmRbuLdL9rxaRKVQ
+	for <sendingthrough@nationbuilder.com>; Thu, 30 Jun 2016 14:13:53.622 +0000 (UTC)
+Date: Thu, 30 Jun 2016 14:13:53 +0000
+From: Tom Reed for Congress <tomreed@tomreedforcongress.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Message-ID: <577529218214f_6e6945b850c958d5@asgworker-qmb2-i-a11e343d.nbuild.prd.useast1.3dna.io.mail>
+Subject: It's up to us, Friend.
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_577529201ecb4_6e69e432fc870ab";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <http://www.tomreedforcongress.com/unsubscribe>
+X-SG-EID: SqjvO0W0lMmuFOX35leEpmn6BG8Ex+jE0LvJL0mW9zCH/iHj/ejQ9vfI4oO+1JnIDH3kKiAqWKEqPl
+ rQHmW24lOptUtbhdQPjisT30Qu0qedoPg9hWD2eohFZf40mZan9GX4K7DUrdQCmNwURw2ysO2PlEYz
+ ZYA57k/nRdWglw3TBU3I4N9CVDjZ9KG6ZhkQ/s+WGOwdCRmpxyYiVG1gM0ETsSc9e7KZO7bvOZRBPu
+ Te/4NuDf+K6DqUWjGC+U+d7KD1FuaTsQ/mpmyUcXnogg==
+X-SG-ID: SolyLoj4M+6t0KZQOavh+I2L5HZLA5UySEAT43OEEEzM01tyaVYiuT4jCRQo+xAQLq5Bags7bpC40z
+ 9jQoTGxz4Kh9ZByD6QxlQnKxNhanOL/zvAoHtoJj5WK5BY2DoI+5Hivp248bd2bKVc+JROVO7iBguc
+ FGYG8m5+4uvDBu8=
+X-Feedback-ID: 2265652:OzFRrCPBQF8CED6lCstPKHwToWTyPvmzKnw+Z2aSgsM=:Xku786iRiDteq2fZbjaw06WWxMk07cMQWz1hIAqNXqA=:SG
+
+----==_mimepart_577529201ecb4_6e69e432fc870ab
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Friend --=20
+
+
+We need your help!=C2=A0We are closing in on a critical deadline. Tonight b=
+y midnight we need to raise another $4,000.=C2=A0
+
+Good leadership can make all the difference in our lives. I am fighting to =
+make sure that your interests are protected and fought for in Congress. But=
+, we need to elect leaders in November who will stand with the American peo=
+ple, not Washington bureaucrats.
+
+ <https://tomreed.nationbuilder.com/donate_post_gop_debate>
+This is critical right here in the Southern Tier, Finger Lakes and Western =
+New York. My opponent, DC John Plumb, is a former Obama aide who helped cre=
+ate Obama's unfair and dangerous policies. There's no doubt that he will co=
+ntinue Obama's agenda if elected, which is exactly why we cannot allow this=
+ to happen.
+
+Friend, can I count on you? Please click here to chip in $50 to show your s=
+upport. <https://tomreed.nationbuilder.com/donate_post_gop_debate>
+
+
+
+I am in Congress every day, fighting for the needs of New Yorkers, but I ne=
+ed to know you'll have my back in this election. We need to take action now=
+ to make sure the liberal agenda does not take hold of the leadership in th=
+is district. We need you! Please, make a contribution today so that I can s=
+tand strong against the liberal attacks! <https://tomreed.nationbuilder.com=
+/donate_post_gop_debate>
+
+
+Thank you for your continued support. I look forward to hearing from you th=
+roughout this campaign.=C2=A0
+
+Tom Reed for Congress
+http://www.tomreedforcongress.com/
+
+-=3D-=3D-
+Tom Reed for Congress - PO Box 94, Corning, NY 14830, United States=20
+This email was sent to ualbanymodernpoliticalarchives@gmail.com.  To stop r=
+eceiving emails: http://www.tomreedforcongress.com/unsubscribe
+-=3D-=3D-
+
+Created with NationBuilder - http://nationbuilder.com/=
+
+----==_mimepart_577529201ecb4_6e69e432fc870ab
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;
+charset=3DUTF-8">
+    <meta name=3D"viewport" content=3D"initial-scale=3D1.0">
+<!-- So that mobile webkit will display zoomed in -->
+    <meta name=3D"format-detection" content=3D"telephone=3Dno">
+<!-- disable auto telephone linking in iOS -->
+    <title>NationBuilder</title>
+    <style type=3D"text/css">
+
+        /* Resets:see reset.css for details */
+body{background-color:#ffffff;-webkit-text-size-adjust:none;
+-ms-text-size-adjust:none;}
+body{color:#333333;font-family:Times,'Times New
+Roman',serif;margin:0;padding:0;}
+table{border-spacing:0;border-collapse:collapse;border-spacing:0;}
+        table td{border-collapse:collapse;}
+        p{margin-bottom:1em;}
+        img{max-width:100%;}
+=20=20=20=20
+        /* Constrain email width for small screens */
+        @media screen and (max-width:600px) {
+            table[class=3D"container"] { width:100%!important; }
+        }
+
+        /* Give content more room on mobile */
+        @media screen and (max-width:480px) {
+          table[class=3D"container"] { width:100%!important; }
+            div[class=3D"body-content"]img { width:100%; }
+        #logo {margin-bottom: 17px; }
+        .container { margin-left: 10px;}=20
+        }
+
+        /* Styles for forcing columns to rows */
+        @media only screen and (max-width:600px) {
+
+            /* force container columns to (horizontal) blocks */
+            table[class=3D"container"] { width:100%!important; }
+        }
+
+    </style>
+</head>
+<body style=3D"margin:0; padding:0;" bgcolor=3D"#ffffff" leftmargin=3D"0"
+topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0">
+
+<!-- 100% wrapper -->
+<table border=3D"0" width=3D"100%" height=3D"100%" cellpadding=3D"0"
+cellspacing=3D"0" bgcolor=3D"#ffffff">
+  <tr>
+<td align=3D"center" valign=3D"top" bgcolor=3D"#ffffff"
+style=3D"background-color:#ffffff;">
+
+   <!-- ### 600PX CONTAINER ### -->
+<table width=3D"600" cellpadding=3D"0" cellspacing=3D"0"
+bgcolor=3D"#ffffff" style=3D"background-color:#ffffff;margin-top:30px;"
+class=3D"container">
+         <tr>
+<td><center><a
+href=3D"http://www.tomreedforcongress.com?e=3D3d0da9d59ad494d2c3e341bd913b1=
+860&amp;utm_source=3Dtomreed&amp;utm_medium=3Demail&amp;utm_campaign=3Dfund=
+raise_6_23&amp;n=3D1"><img
+src=3D"http://d3n8a8pro7vhmx.cloudfront.net/themes/52862c02a797ff57d7000031=
+/attachments/original/1384525062/Reed_Logos.png?1384525062"
+id=3D"logo" alt=3D"" style=3D"width:540px;"></a></center></td>
+         </tr>
+        <tr>
+<td style=3D"font-family:Times,'Times New
+Roman',serif;padding-left:15px;padding-right:15px;padding-top:30px;text-ali=
+gn:left;"
+class=3D"body-content">Friend -- <br>
+<p>We need your help!=C2=A0We are closing in on a critical deadline.
+Tonight by midnight we need to raise another $4,000.=C2=A0</p>
+<p>Good leadership can make all the difference in our lives. I am
+fighting to make sure that your interests are protected and fought for
+in Congress. But, we need to elect leaders in November who will stand
+with the American people, not Washington bureaucrats.</p>
+<p><a
+href=3D"https://tomreed.nationbuilder.com/donate_post_gop_debate?e=3D3d0da9=
+d59ad494d2c3e341bd913b1860&amp;utm_source=3Dtomreed&amp;utm_medium=3Demail&=
+amp;utm_campaign=3Dfundraise_6_23&amp;n=3D2"><img
+style=3D"display: block; margin-left: auto; margin-right: auto;"
+title=3D"Donate Now!"
+src=3D"http://d3n8a8pro7vhmx.cloudfront.net/tomreed/mailings/152/attachment=
+s/original/DON_NOW_(1).png?1466743248"
+alt=3D"DON_NOW_(1).png" width=3D"270" height=3D"50"></a><br>This is critical
+right here in the Southern Tier, Finger Lakes and Western New York. My
+opponent, DC John Plumb, is a former Obama aide who helped create
+Obama's unfair and dangerous policies. There's no doubt that he will
+continue Obama's agenda if elected, which is exactly why we cannot
+allow this to happen.<br><br>Friend, can I count on you? <a
+href=3D"https://tomreed.nationbuilder.com/donate_post_gop_debate?e=3D3d0da9=
+d59ad494d2c3e341bd913b1860&amp;utm_source=3Dtomreed&amp;utm_medium=3Demail&=
+amp;utm_campaign=3Dfundraise_6_23&amp;n=3D3"><strong>Please
+click here to chip in $50 to show your
+support.</strong></a><br><br></p>
+<p>I am in Congress every day, fighting for the needs of New Yorkers,
+but I need to know you'll have my back in this election. We need to
+take action now to make sure the liberal agenda does not take hold of
+the leadership in this district. <strong><a
+href=3D"https://tomreed.nationbuilder.com/donate_post_gop_debate?e=3D3d0da9=
+d59ad494d2c3e341bd913b1860&amp;utm_source=3Dtomreed&amp;utm_medium=3Demail&=
+amp;utm_campaign=3Dfundraise_6_23&amp;n=3D4">We
+need you! Please, make a contribution today so that I can stand strong
+against the liberal attacks!</a></strong></p>
+Thank you for your continued support. I look forward to hearing from
+you throughout this campaign.=C2=A0<br><br>Tom Reed for Congress<br><a
+href=3D"http://www.tomreedforcongress.com/?e=3D3d0da9d59ad494d2c3e341bd913b=
+1860&amp;utm_source=3Dtomreed&amp;utm_medium=3Demail&amp;utm_campaign=3Dfun=
+draise_6_23&amp;n=3D5">http://www.tomreedforcongress.com/</a>
+</td>
+        </tr>
+          <tr>
+<td style=3D"font-family:Times,'Times New
+Roman',serif;padding-left:15px;padding-right:15px;padding-top:30px;">
+=20=20=20=20=20=20=20
+<p
+style=3D"color:#333333;font-size:14px;line-height:1.5;">
+                <br>
+                </p>
+<center><span style=3D"border: 1px solid #000; padding: 10px;">Paid for
+by Tom Reed for Congress</span></center>
+                <br>
+<br>This email was sent to <a style=3D"color:#1488b9;"
+href=3D"ualbanymodernpoliticalarchives@gmail.com">ualbanymodernpoliticalarc=
+hives@gmail.com</a>.
+To stop receiving emails, <a style=3D"color:#1488b9;"
+href=3D"http://www.tomreedforcongress.com/unsubscribe?e=3D3d0da9d59ad494d2c=
+3e341bd913b1860&amp;utm_source=3Dtomreed&amp;utm_medium=3Demail&amp;utm_cam=
+paign=3Dfundraise_6_23&amp;n=3D6">click
+here</a>.
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                <br>You can also keep up with Tom Reed for Congress
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+on <a style=3D"color:#1488b9;"
+href=3D"http://www.tomreedforcongress.com/r?u=3Dhttp%3A%2F%2Ftwitter.com%2F=
+TomReedCongress&amp;e=3D3d0da9d59ad494d2c3e341bd913b1860&amp;utm_source=3Dt=
+omreed&amp;utm_medium=3Demail&amp;utm_campaign=3Dfundraise_6_23&amp;n=3D7">=
+Twitter</a>
+or <a style=3D"color:#1488b9;"
+href=3D"http://www.tomreedforcongress.com/r?u=3Dhttps%3A%2F%2Fwww.facebook.=
+com%2FVoteTomReed%2F&amp;e=3D3d0da9d59ad494d2c3e341bd913b1860&amp;utm_sourc=
+e=3Dtomreed&amp;utm_medium=3Demail&amp;utm_campaign=3Dfundraise_6_23&amp;n=
+=3D8">Facebook</a>.
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20
+            </td>
+          </tr>
+       </table>
+<p style=3D"font-family:Times,'Times New
+Roman',serif;color:#414141;font-size:13px;padding:0;line-height:1.6;text-al=
+ign:center;">Created
+with <a
+href=3D"http://www.tomreedforcongress.com/r?u=3Dhttp%3A%2F%2Fnationbuilder.=
+com&amp;e=3D3d0da9d59ad494d2c3e341bd913b1860&amp;utm_source=3Dtomreed&amp;u=
+tm_medium=3Demail&amp;utm_campaign=3Dfundraise_6_23&amp;n=3D9"
+style=3D"color:#1488b9">NationBuilder</a>, the essential toolkit for
+leaders.</p>
+   <!-- ### 600PX CONTAINER ###  -->
+    </td>
+  </tr>
+</table>
+<!--/100% wrapper-->
+<img
+src=3D"http://www.tomreedforcongress.com/r/o?e=3D3d0da9d59ad494d2c3e341bd91=
+3b1860&amp;utm_source=3Dtomreed&amp;utm_medium=3Demail&amp;utm_campaign=3Df=
+undraise_6_23"
+height=3D"1" width=3D"1" border=3D"0" alt=3D"">
+</body>
+</html>=
+
+----==_mimepart_577529201ecb4_6e69e432fc870ab--
+
+From 1542194486083084606@xxx Tue Aug 09 14:01:12 +0000 2016
+X-GM-THRID: 1542194486083084606
+X-Gmail-Labels: Unread,Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.114.5.228 with SMTP id v4csp527031ldv;
+        Tue, 9 Aug 2016 07:01:12 -0700 (PDT)
+X-Received: by 10.129.107.6 with SMTP id g6mr70027994ywc.252.1470751272129;
+        Tue, 09 Aug 2016 07:01:12 -0700 (PDT)
+Return-Path: <bounce_2500000241839968_pod12@bounce.myngp.com>
+Received: from mailout679.ngpweb.com (mailout679.ngpweb.com. [192.82.209.43])
+        by mx.google.com with ESMTPS id o65si21021220qkd.128.2016.08.09.07.01.11
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 09 Aug 2016 07:01:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce_2500000241839968_pod12@bounce.myngp.com designates 192.82.209.43 as permitted sender) client-ip=192.82.209.43;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@bounce.myngp.com;
+       spf=pass (google.com: domain of bounce_2500000241839968_pod12@bounce.myngp.com designates 192.82.209.43 as permitted sender) smtp.mailfrom=bounce_2500000241839968_pod12@bounce.myngp.com
+Return-Path: <bounce_2500000241839968_pod12@bounce.myngp.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=bounce.myngp.com; s=ngpweb3; c=simple/simple;
+	q=dns/txt; i=@bounce.myngp.com; t=1470751271;
+	h=Sender:From:Subject:List-Unsubscribe:Date:To:Reply-To:Message-ID:MIME-Version:
+	Content-Type;
+	bh=poGF0zgMZg7nZJz8n5qniv8hQSc=;
+	b=KWMHXJSsIwY/dB6g/Ik1A9HuqR5LUWjsx2ofW1PbLqlSB3LAMKOZuWKDizhJ34p/
+	qStS55zX5ImvZIKmML0q5t0qhktn877mf6yYepgzmPq7OorOQjYIHxo3Optd1XeU
+	JK86VSS3Y6H+4sicGzjX+jfoCeg9Oxl1OZbnVSs/pKk=;
+X-MSFBL: 3wQHZLNi5ng8AQjHockFfEUMJJup8BYbsu94D0Pt0ns=|eyJnIjoiZGVmYXVsdGd
+	yb3VwMDEiLCJ1IjoiYm91bmNlXzI1MDAwMDAyNDE4Mzk5NjhfcG9kMTIiLCJyIjo
+	idWFsYmFueW1vZGVybnBvbGl0aWNhbGFyY2hpdmVzQGdtYWlsLmNvbSIsImIiOiJ
+	tYWlsb3V0Njc5In0=
+Received: from [10.11.74.253] ([10.11.74.253:54640] helo=NSV11OBMAIL1203)
+	by asv11mtam003.ngpweb.com (envelope-from <bounce_2500000241839968_pod12@bounce.myngp.com>)
+	(ecelerity 4.2.1.51032 r(Core:4.2.1.4)) with ESMTP
+	id D4/9B-25541-722E9A75; Tue, 09 Aug 2016 10:01:11 -0400
+Sender: =?UTF-8?B?SmVmZiBMYXJpdmVl?= <bounce@bounce.myngp.com>
+X-Binding: default
+Reply-To: jeff@jerrynadler.com
+From: "Jeff Larivee" <jeff@jerrynadler.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Message-ID: <86e49632f93743318436f9c8ed018abb@jerrynadler.com>
+Date: Tue, 09 Aug 2016 10:00:52 -0400
+Subject: Invitation: Congressman Nadler's Summer Soiree 9/19
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----64187A9D137841F4A097468C525F705B"
+
+------64187A9D137841F4A097468C525F705B
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+For more information or to RSVP, please contact Jeff Larivee at 202-821=
+-5203 or Jeff@jerrynadler=2Ecom=2E
+
+
+
+=C2=A0
+
+=C2=A0
+
+
+
+
+Nadler for Congress
+131 Varick Street, Suite 1017
+PO Box 40
+New York NY 10013 United States
+
+Contributions or gifts to Nadler for Congress are not tax deductible=2E=
+ Federal law requires us to use our best efforts to collect and report =
+the name, mailing address, occupation, and name of employer of individu=
+als whose contributions exceed $200 in an election cycle=2E Contributio=
+ns are limited to $10,000 per PAC per election cycle ($5,000 primary an=
+d $5,000 general) and $5,400 per individual per election cycle ($2,700 =
+primary and $2,700 general)=2E Contributions from the general treasury =
+funds of corporations, labor unions, and national banks are prohibited=2E=
+ Federal contractors and foreign nationals who are not admitted for per=
+manent residence in the United States are prohibited from making contri=
+butions=2E All contributions must be from personal funds and may not be=
+ reimbursed or paid by any other person=2E
+
+
+
+
+
+Paid for by Nadler for Congress
+
+
+
+
+
+If you believe you received this message in error or wish to no longer =
+receive email from us, please https://act=2Emyngp=2Ecom/el/694887243941=
+5769088/-6902334207568050176=2E
+------64187A9D137841F4A097468C525F705B
+Content-type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div>
+=09<p>
+=09=09For more information or to RSVP, please contact Jeff Larivee at <=
+a href=3D"https://act=2Emyngp=2Ecom/el/6948872439415769088/-68302766135=
+30122240" target=3D"_blank" value=3D"+12028215203">202-821-5203</a> or =
+<a href=3D"https://act=2Emyngp=2Ecom/el/6948872439415769088/-6758219019=
+492194304">Jeff@jerrynadler=2Ecom</a>=2E</p>
+=09<p>
+=09=09<a data-ask-amount-type=3D"LastContributionAmount" data-default-a=
+sk-amount=3D"" data-fastaction-bankcard-user-text=3D"Click here to inst=
+antly give=2E" data-form-type=3D"ContributionForm" href=3D"https://act=2E=
+myngp=2Ecom/el/6948872439415769088/-6686161425454266368?am=3D&amp;recip=
+ientId=3DfEolcayCLvcqCy5d0Qch3&email=3Dualbanymodernpoliticalarchives@g=
+mail=2Ecom&amp;"><img alt=3D"" height=3D"636" src=3D"https://d1kxpthy2j=
+2ikk=2Ecloudfront=2Enet/Uploads/9106/images/NadlerSummerSoiree2016=2Ejp=
+eg" style=3D" " width=3D"454" /></a></p>
+=09<div>
+=09=09&nbsp;</div>
+=09<div>
+=09=09&nbsp;</div>
+</div>
+<div>
+=09</div>
+<p class=3D"orginfo">
+=09<div style=3D'text-align: center;' class=3D'org-address-info'>Nadler=
+ for Congress<br/>131 Varick Street, Suite 1017<br/>PO Box 40<br/>New Y=
+ork NY 10013 United States</div></p>
+<p style=3D"font-family: arial, sans-serif; font-size: 12=2E8px; margin=
+-left: 9pt;">
+=09<span style=3D"font-size: 9pt; font-family: 'Times New Roman';">Cont=
+ributions or gifts to Nadler for Congress are not tax deductible=2E Fed=
+eral law requires us to use our best efforts to collect and report the =
+name, mailing address, occupation, and name of employer of individuals =
+whose contributions exceed $200 in an election cycle=2E Contributions a=
+re limited to $10,000 per PAC per election cycle ($5,000 primary and $5=
+,000 general) and $5,400 per individual per election cycle ($2,700 prim=
+ary and $2,700 general)=2E Contributions from the general treasury fund=
+s of corporations, labor unions, and national banks are prohibited=2E F=
+ederal contractors and foreign nationals who are not admitted for perma=
+nent residence in the United States are prohibited from making contribu=
+tions=2E All contributions must be from personal funds and may not be r=
+eimbursed or paid by any other person=2E</span></p>
+<center style=3D"font-family: arial, sans-serif; font-size: 12=2E8px;">
+=09<table>
+=09=09<tbody>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"margin: 0px; border-style: solid; border-color=
+: black;">
+=09=09=09=09=09Paid for by Nadler for Congress</td>
+=09=09=09</tr>
+=09=09</tbody>
+=09</table>
+</center>
+<p class=3D"unsubscribelink">
+=09If you believe you received this message in error or wish to no long=
+er receive email from us, please  <a href=3D"https://act=2Emyngp=2Ecom/=
+el/6948872439415769088/-6902334207568050176" class=3D"unsubscribe-link"=
+>unsubscribe</a>=2E</p>
+<img src=3D'https://act=2Emyngp=2Ecom/el/6948872439415769088/-819937090=
+0250753024' />
+------64187A9D137841F4A097468C525F705B--
+
+
+From 1543022321153554951@xxx Thu Aug 18 17:19:17 +0000 2016
+X-GM-THRID: 1543022321153554951
+X-Gmail-Labels: Unread,Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.114.5.228 with SMTP id v4csp348205ldv;
+        Thu, 18 Aug 2016 10:19:17 -0700 (PDT)
+X-Received: by 10.36.83.213 with SMTP id n204mr785820itb.61.1471540757253;
+        Thu, 18 Aug 2016 10:19:17 -0700 (PDT)
+Return-Path: <3FO61VwgTAIs23-6t40Dprr39287.v33v0t.r31@gaia.bounces.google.com>
+Received: from mail-it0-f71.google.com (mail-it0-f71.google.com. [209.85.214.71])
+        by mx.google.com with ESMTPS id a185si3323964iog.146.2016.08.18.10.19.17
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 18 Aug 2016 10:19:17 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3fo61vwgtais23-6t40dprr39287.v33v0t.r31@gaia.bounces.google.com designates 209.85.214.71 as permitted sender) client-ip=209.85.214.71;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@accounts.google.com;
+       spf=pass (google.com: domain of 3fo61vwgtais23-6t40dprr39287.v33v0t.r31@gaia.bounces.google.com designates 209.85.214.71 as permitted sender) smtp.mailfrom=3FO61VwgTAIs23-6t40Dprr39287.v33v0t.r31@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=accounts.google.com
+Received: by mail-it0-f71.google.com with SMTP id j124so1401ith.1
+        for <ualbanymodernpoliticalarchives@gmail.com>; Thu, 18 Aug 2016 10:19:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20120806;
+        h=mime-version:date:feedback-id:message-id:subject:from:to;
+        bh=rm9in/V4D4bWM5WQzmKBdT46QM010dF3lDt6KcGQHWU=;
+        b=fjCaxmT9VHei7Pmisuz8RuO9sG2SsLHn9gUfcSxe1jAEw7i/xPyxmzM+VyKlVotqgP
+         GEtOdJYPK65xwejJxMTAZ86ECs+TKzTldUs9YJ89ct0MwbIM/s+jskDLbo6f3dZfH/28
+         0TVdz4Ujp1VIh7rzGujsxNvVaVqKtC6Kv7OyHjQWHkj+0ScdIvMtnogojyqF1hx/hp+Q
+         kD46/sL04AnaL+Y7n2bhUT7lKln0aKQVNrm7ug0r3UaTbIi/sx4K3xNoiquFVA7Zs1mu
+         Lb2WqWYBf8a4YIs77tnR0Wn1aKnX5S7pI20yGGATBq7k+tbi+zLVLNdei+ZOUiEHLYhU
+         Zj4A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:feedback-id:message-id:subject
+         :from:to;
+        bh=rm9in/V4D4bWM5WQzmKBdT46QM010dF3lDt6KcGQHWU=;
+        b=WgW4/NaEnAP9DCGuwrbbi1VaNTGs5z0aIrXHNoJJUDt3vl1yOzXYoTTxLNnLjF6oiV
+         w/jupvtQksQrMpFLz+/5TGcGakUKEWr+SwX5pINK57/U5s1gIM+jDfs4peT954i+q1JT
+         De9tZGElv9wtUAXxw00Hvb8z+D7cvqFphcWeEOsrrDSsnlqw35tOm5nRpEInZs1O1BRt
+         naOB1oyeFvCIOit7iBsttJsf2f3oWD+I1Qa5SfnVgOWt6iCETru9pdfQM4Ecg0ElUXVy
+         Tf+a6Z7jTyDBxgrGpgzZVV/4Lz07kUdEo2Mk4mrxsJ/hLEGOIe1/5Aj9iD2duUsSOgB2
+         P0XQ==
+X-Gm-Message-State: AEkooussvxCsvN917yM5fIQql9UeUgT3XuTxLbQNtw5c3ZTT3blg5BwrzVvQRNw/Ri+t6BZYJlQmGEGTpF8ZkjWQ
+MIME-Version: 1.0
+X-Received: by 10.36.48.73 with SMTP id q70mr460994itq.7.1471540756888; Thu,
+ 18 Aug 2016 10:19:16 -0700 (PDT)
+Date: Thu, 18 Aug 2016 17:19:12 +0000 (UTC)
+X-Notifications: XEAAAAB9fFpIIVyrVtjb1yFuyn0E
+X-Account-Notification-Type: 27-anexp:lbe3-R2_B
+Feedback-ID: 27-anexp:lbe3-R2_B:account-notifier
+Message-ID: <GzXnFJY8PLnZyvXR_aNdLw@notifications.google.com>
+Subject: Review blocked sign-in attempt
+From: Google <no-reply@accounts.google.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Content-Type: multipart/alternative; boundary=001a11c01a00163c47053a5bc8d8
+
+--001a11c01a00163c47053a5bc8d8
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+UmV2aWV3IGJsb2NrZWQgc2lnbi1pbiBhdHRlbXB0DQoNCg0KDQpIaSBVQWxiYW55LA0KR29vZ2xl
+IGp1c3QgYmxvY2tlZCBzb21lb25lIGZyb20gc2lnbmluZyBpbnRvIHlvdXIgR29vZ2xlIEFjY291
+bnQNCnVhbGJhbnltb2Rlcm5wb2xpdGljYWxhcmNoaXZlc0BnbWFpbC5jb20gZnJvbSBhbiBhcHAg
+dGhhdCBtYXkgcHV0IHlvdXINCmFjY291bnQgYXQgcmlzay4NCg0KTGVzcyBzZWN1cmUgYXBwDQpU
+aHVyc2RheSwgQXVndXN0IDE4LCAyMDE2IDE6MTkgUE0gKEVhc3Rlcm4gRGF5bGlnaHQgVGltZSkN
+CkFsYmFueSwgTlksIFVTQSoqRG9uJ3QgcmVjb2duaXplIHRoaXMgYWN0aXZpdHk/Kg0KSWYgeW91
+IGRpZG4ndCByZWNlbnRseSByZWNlaXZlIGFuIGVycm9yIHdoaWxlIHRyeWluZyB0byBhY2Nlc3Mg
+YSBHb29nbGUNCnNlcnZpY2UsIGxpa2UgR21haWwsIGZyb20gYSBub24tR29vZ2xlIGFwcGxpY2F0
+aW9uLCBzb21lb25lIG1heSBoYXZlIHlvdXINCnBhc3N3b3JkLg0KDQpTRUNVUkUgWU9VUiBBQ0NP
+VU5UDQo8aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL0FjY291bnRDaG9vc2VyP0VtYWlsPXVh
+bGJhbnltb2Rlcm5wb2xpdGljYWxhcmNoaXZlc0BnbWFpbC5jb20mY29udGludWU9aHR0cHM6Ly9z
+ZWN1cml0eS5nb29nbGUuY29tL3NldHRpbmdzL3NlY3VyaXR5L3NlY3VyZWFjY291bnQ/ZnQlM0Qy
+JTI2cmZuJTNEMjclMjZyZm5jJTNEMSUyNmFzYWUlM0QyJTI2YW5leHAlM0RsYmUzLVIyX0I+DQoN
+CipBcmUgeW91IHRoZSBvbmUgd2hvIHRyaWVkIHNpZ25pbmcgaW4/Kg0KR29vZ2xlIHdpbGwgY29u
+dGludWUgdG8gYmxvY2sgc2lnbi1pbiBhdHRlbXB0cyBmcm9tIHRoZSBhcHAgeW91J3JlIHVzaW5n
+Lg0KVG8gY29udGludWUgdXNpbmcgdGhpcyBhcHAsIHlvdSBjYW4gYWxsb3cgYWNjZXNzIHRvIGxl
+c3Mgc2VjdXJlIGFwcHMsIGJ1dA0KeW91ciBhY2NvdW50IG1heSBiZSBtb3JlIHZ1bG5lcmFibGUu
+DQoNCkFMTE9XIEFDQ0VTUw0KPGh0dHBzOi8vYWNjb3VudHMuZ29vZ2xlLmNvbS9BY2NvdW50Q2hv
+b3Nlcj9FbWFpbD11YWxiYW55bW9kZXJucG9saXRpY2FsYXJjaGl2ZXNAZ21haWwuY29tJmNvbnRp
+bnVlPWh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vc2V0dGluZ3Mvc2VjdXJpdHkvbGVzc3NlY3VyZWFw
+cHM/cmZuJTNEMjclMjZyZm5jJTNEMSUyNmFzYWUlM0QyJTI2YW5leHAlM0RsYmUzLVIyX0I+DQoN
+Cg0KDQpCZXN0LA0KVGhlIEdvb2dsZSBBY2NvdW50cyB0ZWFtDQoNCg0KDQoqVGhlIGxvY2F0aW9u
+IGlzIGFwcHJveGltYXRlIGFuZCBkZXRlcm1pbmVkIGJ5IHRoZSBJUCBhZGRyZXNzIGl0IHdhcyBj
+b21pbmcNCmZyb20uDQoNClRoaXMgZW1haWwgY2FuJ3QgcmVjZWl2ZSByZXBsaWVzLiBGb3IgbW9y
+ZSBpbmZvcm1hdGlvbiwgdmlzaXQgdGhlIEdvb2dsZQ0KQWNjb3VudHMgSGVscCBDZW50ZXIgPGh0
+dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL2FjY291bnRzL2Fuc3dlci82MDEwMjU1Pi4NCg0KDQoN
+CllvdSByZWNlaXZlZCB0aGlzIG1hbmRhdG9yeSBlbWFpbCBzZXJ2aWNlIGFubm91bmNlbWVudCB0
+byB1cGRhdGUgeW91IGFib3V0DQppbXBvcnRhbnQgY2hhbmdlcyB0byB5b3VyIEdvb2dsZSBwcm9k
+dWN0IG9yIGFjY291bnQuDQrCqSAyMDE2IEdvb2dsZSBJbmMuLCAxNjAwIEFtcGhpdGhlYXRyZSBQ
+YXJrd2F5LCBNb3VudGFpbiBWaWV3LCBDQSA5NDA0MywgVVNBDQo=
+--001a11c01a00163c47053a5bc8d8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en"><head><meta name=3D"format-detection" content=3D"date=3Dn=
+o"><meta name=3D"format-detection" content=3D"email=3Dno"></head><body styl=
+e=3D"margin: 0; padding: 0;" bgcolor=3D"#FFFFFF"><table width=3D"100%" heig=
+ht=3D"100%" style=3D"min-width: 348px;" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0"><tr height=3D"32px"></tr><tr align=3D"center"><td width=3D"32=
+px"></td><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"max-width: 600px;"><tr><td><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0"><tr><td align=3D"left"><img width=3D"92" height=
+=3D"32" src=3D"https://www.gstatic.com/accountalerts/email/googlelogo_color=
+_188x64dp.png" style=3D"display: block; width: 92px; height: 32px;"></td><t=
+d align=3D"right"><img width=3D"32" height=3D"32" style=3D"display: block; =
+width: 32px; height: 32px;" src=3D"https://www.gstatic.com/accountalerts/em=
+ail/shield.png"></td></tr></table></td></tr><tr height=3D"16"></tr><tr><td>=
+<table bgcolor=3D"#D94235" width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px so=
+lid #E0E0E0; border-bottom: 0; border-top-left-radius: 3px; border-top-righ=
+t-radius: 3px;"><tr><td height=3D"72px" colspan=3D"3"></td></tr><tr><td wid=
+th=3D"32px"></td><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,s=
+ans-serif; font-size: 24px; color: #FFFFFF; line-height: 1.25;">Review bloc=
+ked sign-in attempt</td><td width=3D"32px"></td></tr><tr><td height=3D"18px=
+" colspan=3D"3"></td></tr></table></td></tr><tr><td><table bgcolor=3D"#FAFA=
+FA" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"min-width: 332px; max-width: 600px; border: 1px solid #F0F0F0; border-b=
+ottom: 1px solid #C0C0C0; border-top: 0; border-bottom-left-radius: 3px; bo=
+rder-bottom-right-radius: 3px;"><tr height=3D"16px"><td width=3D"32px" rows=
+pan=3D"3"></td><td></td><td width=3D"32px" rowspan=3D"3"></td></tr><tr><td>=
+<table style=3D"min-width: 300px;" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0"><tr><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-=
+serif; font-size: 13px; color: #202020; line-height: 1.5;">Hi UAlbany,</td>=
+</tr><tr><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-seri=
+f; font-size: 13px; color: #202020; line-height: 1.5;">Google just blocked =
+someone from signing into your Google Account ualbanymodernpoliticalarchive=
+s@gmail.com from an app that may put your account at risk.<table border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" style=3D"margin-top: 16px; margin-bo=
+ttom: 16px;"><tr valign=3D"top"><td width=3D"16px" ></td><td style=3D"line-=
+height: 1.2;"><span style=3D"font-family: Roboto-Regular,Helvetica,Arial,sa=
+ns-serif; font-size: 16px; color: #202020;">Less secure app</span><br><span=
+ style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size=
+: 13px; color: #727272;">Thursday, August 18, 2016 1:19 PM (Eastern Dayligh=
+t Time)<br>Albany, NY, USA*</span></td></tr></table><b>Don&#39;t recognize =
+this activity?</b><br>If you didn't recently receive an error while trying =
+to access a Google service, like Gmail, from a non-Google application, some=
+one may have your password.<br><br><a href=3D"https://accounts.google.com/A=
+ccountChooser?Email=3Dualbanymodernpoliticalarchives@gmail.com&amp;continue=
+=3Dhttps://security.google.com/settings/security/secureaccount?ft%3D2%26rfn=
+%3D27%26rfnc%3D1%26asae%3D2%26anexp%3Dlbe3-R2_B" target=3D"_blank" style=3D=
+"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; display:inline-blo=
+ck; text-align: center; text-decoration: none; height: 36px; line-height: 3=
+6px; padding-left: 8px; padding-right: 8px; min-width: 88px; font-size: 14p=
+x; font-weight: 400; color: #ffffff; background-color: #4184F3; border-radi=
+us: 2px; border-width: 0px; box-shadow: 0 2px 5px 0 rgba(0,0,0,0.4);">SECUR=
+E YOUR ACCOUNT</a><br><br><b>Are you the one who tried signing in?</b><br>G=
+oogle will continue to block sign-in attempts from the app you're using. To=
+ continue using this app, you can allow access to less secure apps, but you=
+r account may be more vulnerable.<br><br><a href=3D"https://accounts.google=
+.com/AccountChooser?Email=3Dualbanymodernpoliticalarchives@gmail.com&amp;co=
+ntinue=3Dhttps://www.google.com/settings/security/lesssecureapps?rfn%3D27%2=
+6rfnc%3D1%26asae%3D2%26anexp%3Dlbe3-R2_B" target=3D"_blank" style=3D"font-f=
+amily: Roboto-Regular,Helvetica,Arial,sans-serif; display:inline-block; tex=
+t-align: center; text-decoration: none; height: 36px; line-height: 36px; pa=
+dding-left: 8px; padding-right: 8px; min-width: 88px; font-size: 14px; font=
+-weight: 400; color: #ffffff; background-color: #4184F3; border-radius: 2px=
+; border-width: 0px; box-shadow: 0 2px 5px 0 rgba(0,0,0,0.4);">ALLOW ACCESS=
+</a><br><br></td></tr><tr height=3D"32px"></tr><tr><td style=3D"font-family=
+: Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 13px; color: #20202=
+0; line-height: 1.5;">Best,<br>The Google Accounts team</td></tr><tr height=
+=3D"16px"></tr><tr><td><table style=3D"font-family: Roboto-Regular,Helvetic=
+a,Arial,sans-serif; font-size: 12px; color: #B9B9B9; line-height: 1.5;"><tr=
+><td>*The location is approximate and determined by the IP address it was c=
+oming from.<br></td></tr><tr><td>This email can't receive replies. For more=
+ information, visit the <a href=3D"https://support.google.com/accounts/answ=
+er/6010255" data-meta-key=3D"help" style=3D"text-decoration: none; color: #=
+4285F4;" target=3D"_blank">Google Accounts Help Center</a>.</td></tr></tabl=
+e></td></tr></table></td></tr><tr height=3D"32px"></tr></table></td></tr><t=
+r height=3D"16"></tr><tr><td style=3D"max-width: 600px; font-family: Roboto=
+-Regular,Helvetica,Arial,sans-serif; font-size: 10px; color: #BCBCBC; line-=
+height: 1.5;"><tr><td><table style=3D"font-family: Roboto-Regular,Helvetica=
+,Arial,sans-serif; font-size: 10px; color: #666666; line-height: 18px; padd=
+ing-bottom: 10px"><tr><td>You received this mandatory email service announc=
+ement to update you about important changes to your Google product or accou=
+nt.</td></tr><tr><td><div style=3D"direction: ltr; text-align: left">&copy;=
+ 2016 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA<=
+/div></td></tr></table></td></tr></td></tr></table></td><td width=3D"32px">=
+</td></tr><tr height=3D"32px"></tr></table></body></html>
+--001a11c01a00163c47053a5bc8d8--
+
+From 1543022330780361443@xxx Thu Aug 18 17:19:26 +0000 2016
+X-GM-THRID: 1543022330780361443
+X-Gmail-Labels: Unread,Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.114.5.228 with SMTP id v4csp348268ldv;
+        Thu, 18 Aug 2016 10:19:26 -0700 (PDT)
+X-Received: by 10.36.121.206 with SMTP id z197mr874166itc.22.1471540766635;
+        Thu, 18 Aug 2016 10:19:26 -0700 (PDT)
+Return-Path: <3Hu61VwgTAJUCD-G3EANz11DJCIH.5DD5A3.1DB@gaia.bounces.google.com>
+Received: from mail-io0-x245.google.com (mail-io0-x245.google.com. [2607:f8b0:4001:c06::245])
+        by mx.google.com with ESMTPS id r95si1862884ioi.214.2016.08.18.10.19.26
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 18 Aug 2016 10:19:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3hu61vwgtajucd-g3eanz11djcih.5dd5a3.1db@gaia.bounces.google.com designates 2607:f8b0:4001:c06::245 as permitted sender) client-ip=2607:f8b0:4001:c06::245;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@accounts.google.com;
+       spf=pass (google.com: domain of 3hu61vwgtajucd-g3eanz11djcih.5dd5a3.1db@gaia.bounces.google.com designates 2607:f8b0:4001:c06::245 as permitted sender) smtp.mailfrom=3Hu61VwgTAJUCD-G3EANz11DJCIH.5DD5A3.1DB@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=accounts.google.com
+Received: by mail-io0-x245.google.com with SMTP id m130so41064381ioa.1
+        for <ualbanymodernpoliticalarchives@gmail.com>; Thu, 18 Aug 2016 10:19:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20120806;
+        h=mime-version:date:feedback-id:message-id:subject:from:to;
+        bh=1He+/uwt/wXYYye669Zy/MLpctH9oIUsoygud999B1o=;
+        b=iXIrMAgOjBKu5m2G6ahtPPUG5qESkkvdSK2tpyMNiI/AYcD2exGICBP+r8ztS+PFmi
+         rC4xAtWo5J8TCDCyknp6+f9/4MxGWP4six8GhHMN2zrG/DVkbFBuKXD8GeWz+mpCHnJG
+         3etFTQ+e+beHRunS/oRTURBRtjKtWg0+H6xxruuS7U63VnY5SGq+tnPjKvPwn8yWKHPu
+         SqX/KrdKXtn7LNTK25am8lsADnYa4wJwg/u8eE4HNFf7jPfSb4Xq5GcVTj4ykRIDtfJQ
+         hT9qG+HaLKM4UfXDEcL6AHgK0KCrRPfFfQ2iU/xmZs6VymhwccGmnuR9eAeT3Tnb3d92
+         N4+g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:feedback-id:message-id:subject
+         :from:to;
+        bh=1He+/uwt/wXYYye669Zy/MLpctH9oIUsoygud999B1o=;
+        b=TxyaL+XfgehHkIa4sbHCFQxoTr/9A0SmqXeFAt6vu8908ESlt1gRZmsxkp3LeKz+Ta
+         QjM810lrMVRhsyVMyVOVeePNn+TjiSaEHd7FdhDYqN/B3vlK30YEehlk6imDBJ8E3Rq5
+         5GZMNtpH1gF/Dp3Qcaro5S29WOZACJvsnz/DThckjaXHk7rxlEb0zP/JKQWMhznC+Rzv
+         KILeoFlHg8aFxUmQ1g+/oL+YrJB29OAQ5D7jpshrVlAk5KlRL9W3wFaGRMXdTD5NnpVX
+         5QqIM/nICGj8s9hJ4+TX0LpX2K4Lz2JSP2WYvnsLO/Ee+VzNs7fvlxCsYx+hq7afwOPt
+         eUkg==
+X-Gm-Message-State: AEkooutQs5SMtgjmKMzZEobGK0bCZMcDS5TIy2e/KQr1bl0U1h56y4qTfNsrle8aA7wdf6KAwmghHj0jE48EwiI1
+MIME-Version: 1.0
+X-Received: by 10.36.149.9 with SMTP id m9mr486446itd.10.1471540766352; Thu,
+ 18 Aug 2016 10:19:26 -0700 (PDT)
+Date: Thu, 18 Aug 2016 17:18:46 +0000 (UTC)
+X-Notifications: XEAAAADoSNH1dYKg0PZ3AWkEyQYs
+X-Account-Notification-Type: 31
+Feedback-ID: 31:account-notifier
+Message-ID: <1LX37sNREfoWpw6SEp2Fmg@notifications.google.com>
+Subject: New sign-in from Firefox on Windows
+From: Google <no-reply@accounts.google.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Content-Type: multipart/alternative; boundary=94eb2c066534a6a5ff053a5bc896
+
+--94eb2c066534a6a5ff053a5bc896
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+TmV3IHNpZ24taW4gZnJvbSBGaXJlZm94IG9uIFdpbmRvd3MNCg0KDQoNCkhpIFVBbGJhbnksDQpZ
+b3VyIEdvb2dsZSBBY2NvdW50IHVhbGJhbnltb2Rlcm5wb2xpdGljYWxhcmNoaXZlc0BnbWFpbC5j
+b20gd2FzIGp1c3QgdXNlZA0KdG8gc2lnbiBpbiBmcm9tIEZpcmVmb3ggb24gV2luZG93cy4NCg0K
+VUFsYmFueSBBcmNoaXZlcw0KdWFsYmFueW1vZGVybnBvbGl0aWNhbGFyY2hpdmVzQGdtYWlsLmNv
+bQ0KDQpXaW5kb3dzDQpUaHVyc2RheSwgQXVndXN0IDE4LCAyMDE2IDE6MTggUE0gKEVhc3Rlcm4g
+RGF5bGlnaHQgVGltZSkNCkFsYmFueSwgTlksIFVTQSoNCkZpcmVmb3gqRG9uJ3QgcmVjb2duaXpl
+IHRoaXMgYWN0aXZpdHk/Kg0KUmV2aWV3IHlvdXIgcmVjZW50bHkgdXNlZCBkZXZpY2VzDQo8aHR0
+cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL0FjY291bnRDaG9vc2VyP0VtYWlsPXVhbGJhbnltb2Rl
+cm5wb2xpdGljYWxhcmNoaXZlc0BnbWFpbC5jb20mY29udGludWU9aHR0cHM6Ly9zZWN1cml0eS5n
+b29nbGUuY29tL3NldHRpbmdzL3NlY3VyaXR5L2FjdGl2aXR5L250LzE0NzE1NDA3MjYwMDA/cmZu
+JTNEMzElMjZyZm5jJTNEMSUyNmFzYWUlM0QyPg0Kbm93Lg0KDQpXaHkgYXJlIHdlIHNlbmRpbmcg
+dGhpcz8gV2UgdGFrZSBzZWN1cml0eSB2ZXJ5IHNlcmlvdXNseSBhbmQgd2Ugd2FudCB0bw0Ka2Vl
+cCB5b3UgaW4gdGhlIGxvb3Agb24gaW1wb3J0YW50IGFjdGlvbnMgaW4geW91ciBhY2NvdW50Lg0K
+V2Ugd2VyZSB1bmFibGUgdG8gZGV0ZXJtaW5lIHdoZXRoZXIgeW91IGhhdmUgdXNlZCB0aGlzIGJy
+b3dzZXIgb3IgZGV2aWNlDQp3aXRoIHlvdXIgYWNjb3VudCBiZWZvcmUuIFRoaXMgY2FuIGhhcHBl
+biB3aGVuIHlvdSBzaWduIGluIGZvciB0aGUgZmlyc3QNCnRpbWUgb24gYSBuZXcgY29tcHV0ZXIs
+IHBob25lIG9yIGJyb3dzZXIsIHdoZW4geW91IHVzZSB5b3VyIGJyb3dzZXIncw0KaW5jb2duaXRv
+IG9yIHByaXZhdGUgYnJvd3NpbmcgbW9kZSBvciBjbGVhciB5b3VyIGNvb2tpZXMsIG9yIHdoZW4g
+c29tZWJvZHkNCmVsc2UgaXMgYWNjZXNzaW5nIHlvdXIgYWNjb3VudC4NCg0KQmVzdCwNClRoZSBH
+b29nbGUgQWNjb3VudHMgdGVhbQ0KDQoNCg0KKlRoZSBsb2NhdGlvbiBpcyBhcHByb3hpbWF0ZSBh
+bmQgZGV0ZXJtaW5lZCBieSB0aGUgSVAgYWRkcmVzcyBpdCB3YXMgY29taW5nDQpmcm9tLg0KDQpU
+aGlzIGVtYWlsIGNhbid0IHJlY2VpdmUgcmVwbGllcy4gVG8gZ2l2ZSB1cyBmZWVkYmFjayBvbiB0
+aGlzIGFsZXJ0LCBjbGljaw0KaGVyZQ0KPGh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL2FjY291
+bnRzL2NvbnRhY3QvZGV2aWNlX2FsZXJ0X2ZlZWRiYWNrP2hsPWVuPi4NCkZvciBtb3JlIGluZm9y
+bWF0aW9uLCB2aXNpdCB0aGUgR29vZ2xlIEFjY291bnRzIEhlbHAgQ2VudGVyDQo8aHR0cHM6Ly9z
+dXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzI3MzMyMDM+Lg0KDQoNCg0KWW91IHJl
+Y2VpdmVkIHRoaXMgbWFuZGF0b3J5IGVtYWlsIHNlcnZpY2UgYW5ub3VuY2VtZW50IHRvIHVwZGF0
+ZSB5b3UgYWJvdXQNCmltcG9ydGFudCBjaGFuZ2VzIHRvIHlvdXIgR29vZ2xlIHByb2R1Y3Qgb3Ig
+YWNjb3VudC4NCsKpIDIwMTYgR29vZ2xlIEluYy4sIDE2MDAgQW1waGl0aGVhdHJlIFBhcmt3YXks
+IE1vdW50YWluIFZpZXcsIENBIDk0MDQzLCBVU0ENCg==
+--94eb2c066534a6a5ff053a5bc896
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en"><head><meta name=3D"format-detection" content=3D"date=3Dn=
+o"><meta name=3D"format-detection" content=3D"email=3Dno"></head><body styl=
+e=3D"margin: 0; padding: 0;" bgcolor=3D"#FFFFFF"><table width=3D"100%" heig=
+ht=3D"100%" style=3D"min-width: 348px;" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0"><tr height=3D"32px"></tr><tr align=3D"center"><td width=3D"32=
+px"></td><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"max-width: 600px;"><tr><td><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0"><tr><td align=3D"left"><img width=3D"92" height=
+=3D"32" src=3D"https://www.gstatic.com/accountalerts/email/googlelogo_color=
+_188x64dp.png" style=3D"display: block; width: 92px; height: 32px;"></td><t=
+d align=3D"right"><img width=3D"32" height=3D"32" style=3D"display: block; =
+width: 32px; height: 32px;" src=3D"https://www.gstatic.com/accountalerts/em=
+ail/keyhole.png"></td></tr></table></td></tr><tr height=3D"16"></tr><tr><td=
+><table bgcolor=3D"#4184F3" width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px s=
+olid #E0E0E0; border-bottom: 0; border-top-left-radius: 3px; border-top-rig=
+ht-radius: 3px;"><tr><td height=3D"72px" colspan=3D"3"></td></tr><tr><td wi=
+dth=3D"32px"></td><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,=
+sans-serif; font-size: 24px; color: #FFFFFF; line-height: 1.25;">New sign-i=
+n from Firefox on Windows</td><td width=3D"32px"></td></tr><tr><td height=
+=3D"18px" colspan=3D"3"></td></tr></table></td></tr><tr><td><table bgcolor=
+=3D"#FAFAFA" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"min-width: 332px; max-width: 600px; border: 1px solid #F0F0F0; b=
+order-bottom: 1px solid #C0C0C0; border-top: 0; border-bottom-left-radius: =
+3px; border-bottom-right-radius: 3px;"><tr height=3D"16px"><td width=3D"32p=
+x" rowspan=3D"3"></td><td></td><td width=3D"32px" rowspan=3D"3"></td></tr><=
+tr><td><table style=3D"min-width: 300px;" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0"><tr><td style=3D"font-family: Roboto-Regular,Helvetica,Aria=
+l,sans-serif; font-size: 13px; color: #202020; line-height: 1.5;">Hi UAlban=
+y,</td></tr><tr><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,sa=
+ns-serif; font-size: 13px; color: #202020; line-height: 1.5;">Your Google A=
+ccount ualbanymodernpoliticalarchives@gmail.com was just used to sign in fr=
+om <span style=3D"white-space:nowrap;">Firefox</span> on <span style=3D"whi=
+te-space:nowrap;">Windows</span>.<table border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" style=3D"margin-top: 48px; margin-bottom: 48px;"><tr valign=
+=3D"middle"><td width=3D"32px" ></td><td align=3D"center" ><img src=3D"http=
+s://www.gstatic.com/accountalerts/email/anonymous_profile_photo.png" width=
+=3D"48px" height=3D"48px" style=3D"width: 48px; height: 48px; display: bloc=
+k; border-radius: 50%;"></td><td width=3D"16px" ></td><td style=3D"line-hei=
+ght: 1.2;"><span style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-=
+serif;font-size: 20px; color: #202020;">UAlbany Archives</span><br><span st=
+yle=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif;font-size: 13=
+px; color: #727272;">ualbanymodernpoliticalarchives@gmail.com</span></td></=
+tr><tr valign=3D"middle"><td width=3D"32px" height=3D"24px"></td><td align=
+=3D"center" height=3D"24px"><img src=3D"https://www.gstatic.com/accountaler=
+ts/email/down_arrow.png" width=3D"4px" height=3D"10px" style=3D"width: 4px;=
+ height: 10px; display: block; "></td></tr><tr valign=3D"top"><td width=3D"=
+32px" ></td><td align=3D"center" ><img src=3D"https://www.gstatic.com/accou=
+ntalerts/devices/windows_laptop_wallpaper_big.png" width=3D"48px" height=3D=
+"48px" style=3D"width: 48px; height: 48px; display: block; "></td><td width=
+=3D"16px" ></td><td style=3D"line-height: 1.2;"><span style=3D"font-family:=
+ Roboto-Regular,Helvetica,Arial,sans-serif; font-size: 16px; color: #202020=
+;">Windows</span><br><span style=3D"font-family: Roboto-Regular,Helvetica,A=
+rial,sans-serif; font-size: 13px; color: #727272;">Thursday, August 18, 201=
+6 1:18 PM (Eastern Daylight Time)<br>Albany, NY, USA*<br>Firefox</span></td=
+></tr></table><b>Don&#39;t recognize this activity?</b><br>Review your <a h=
+ref=3D"https://accounts.google.com/AccountChooser?Email=3Dualbanymodernpoli=
+ticalarchives@gmail.com&amp;continue=3Dhttps://security.google.com/settings=
+/security/activity/nt/1471540726000?rfn%3D31%26rfnc%3D1%26asae%3D2" data-me=
+ta-key=3D"review-devices" style=3D"text-decoration: none; color: #4285F4;" =
+target=3D"_blank">recently used devices</a> now.<br><br>Why are we sending =
+this? We take security very seriously and we want to keep you in the loop o=
+n important actions in your account.<br>We were unable to determine whether=
+ you have used this browser or device with your account before. This can ha=
+ppen when you sign in for the first time on a new computer, phone or browse=
+r, when you use your browser's incognito or private browsing mode or clear =
+your cookies, or when somebody else is accessing your account.</td></tr><tr=
+ height=3D"32px"></tr><tr><td style=3D"font-family: Roboto-Regular,Helvetic=
+a,Arial,sans-serif; font-size: 13px; color: #202020; line-height: 1.5;">Bes=
+t,<br>The Google Accounts team</td></tr><tr height=3D"16px"></tr><tr><td><t=
+able style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-=
+size: 12px; color: #B9B9B9; line-height: 1.5;"><tr><td>*The location is app=
+roximate and determined by the IP address it was coming from.<br></td></tr>=
+<tr><td>This email can't receive replies. To give us feedback on this alert=
+, <a href=3D"https://support.google.com/accounts/contact/device_alert_feedb=
+ack?hl=3Den" data-meta-key=3D"feedback" style=3D"text-decoration: none; col=
+or: #4285F4;" target=3D"_blank">click here</a>.<br>For more information, vi=
+sit the <a href=3D"https://support.google.com/accounts/answer/2733203" data=
+-meta-key=3D"help" style=3D"text-decoration: none; color: #4285F4;" target=
+=3D"_blank">Google Accounts Help Center</a>.</td></tr></table></td></tr></t=
+able></td></tr><tr height=3D"32px"></tr></table></td></tr><tr height=3D"16"=
+></tr><tr><td style=3D"max-width: 600px; font-family: Roboto-Regular,Helvet=
+ica,Arial,sans-serif; font-size: 10px; color: #BCBCBC; line-height: 1.5;"><=
+tr><td><table style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-ser=
+if; font-size: 10px; color: #666666; line-height: 18px; padding-bottom: 10p=
+x"><tr><td>You received this mandatory email service announcement to update=
+ you about important changes to your Google product or account.</td></tr><t=
+r><td><div style=3D"direction: ltr; text-align: left">&copy; 2016 Google In=
+c., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</div></td></tr>=
+</table></td></tr></td></tr></table></td><td width=3D"32px"></td></tr><tr h=
+eight=3D"32px"></tr></table></body></html>
+--94eb2c066534a6a5ff053a5bc896--
+
+From 1543022359012065723@xxx Thu Aug 18 17:19:53 +0000 2016
+X-GM-THRID: 1543022359012065723
+X-Gmail-Labels: Unread,Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.114.5.228 with SMTP id v4csp348447ldv;
+        Thu, 18 Aug 2016 10:19:53 -0700 (PDT)
+X-Received: by 10.37.86.137 with SMTP id k131mr2203296ybb.89.1471540793858;
+        Thu, 18 Aug 2016 10:19:53 -0700 (PDT)
+Return-Path: <3Oe61VwgTALAde-hUfboQSSekdji.WeeWbU.Sec@gaia.bounces.google.com>
+Received: from mail-yw0-x245.google.com (mail-yw0-x245.google.com. [2607:f8b0:4002:c05::245])
+        by mx.google.com with ESMTPS id a140si8761ywe.109.2016.08.18.10.19.53
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 18 Aug 2016 10:19:53 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3oe61vwgtalade-hufboqssekdji.weewbu.sec@gaia.bounces.google.com designates 2607:f8b0:4002:c05::245 as permitted sender) client-ip=2607:f8b0:4002:c05::245;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@accounts.google.com;
+       spf=pass (google.com: domain of 3oe61vwgtalade-hufboqssekdji.weewbu.sec@gaia.bounces.google.com designates 2607:f8b0:4002:c05::245 as permitted sender) smtp.mailfrom=3Oe61VwgTALAde-hUfboQSSekdji.WeeWbU.Sec@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=accounts.google.com
+Received: by mail-yw0-x245.google.com with SMTP id j12so12523089ywb.3
+        for <ualbanymodernpoliticalarchives@gmail.com>; Thu, 18 Aug 2016 10:19:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20120806;
+        h=mime-version:date:feedback-id:message-id:subject:from:to;
+        bh=QaCvfIW1No06KBnKaJH13AON6sWNc9gVoRq8v9kke1k=;
+        b=hIIDKOJNx7xpnbC5wKC2ejj7/PKGux8QFFIHT5yto+K+I/diZ91KmmAqRnDVhGgqXO
+         oYll5XojxSVj5LPvoTQagSbASFLgblOIvzazBotKyASmPU1DHlQP8Gkne6yT3pUoXXod
+         WSTg1VQxeeSDqMEdteUl1qJ9vXZknkIyKkc9AevVcvfwUyAZqXdfyZYkpR/APwEdo9Cr
+         EjzTvjHjaBW5ryMg418ZE7WJDOk4lqztt8cR4cnU+dRY3ktjMRAn7e/uEkD/OGE8Z5YO
+         VKfZ9V/We4kPkw6GDRUjc1tpVxjHTj2S4X0GDQlkQH+D0CIhhFaS4BCmwpF/VgIx1haf
+         DSJA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:feedback-id:message-id:subject
+         :from:to;
+        bh=QaCvfIW1No06KBnKaJH13AON6sWNc9gVoRq8v9kke1k=;
+        b=Rsv9t6tP3G6n7Ve8Mr0xO5MC6yuEkW7D7cOo4VLH1nnvNTwbsIPPpg9LaduB4gm1Qf
+         sUEPOUnK4J1g3+nUAV6EjhS9BFC19fLo6+rCz435RqPnPKahnFJB3yFxJ1NzglCiUi2E
+         jtesaphyN+Yb1VZqHuvtRYiaTpM2yFxKSkMcwjvPD/MTTvgqovPIwBZOiFWs+0HDkQis
+         D5imwBU9cYgmt3k32V8LFqWqDlgG+jJnHNdBGDaaZHIEEBv7HPfTuwKpisy2eVEyzDNH
+         tcwpHuJTkt5TOuPZHUWO4B2T/XbrV645AN77bEGXJPdhP7AergyoMfjamhFcLD480PpY
+         ySPQ==
+X-Gm-Message-State: AEkoousDlGm+b7siB92TAAkv1PnYEitjZqDutOrJcsCbpCKooQAyqdKb8ECdos7aWkhgr3XPQ8dMCreyP1vZmuEv
+MIME-Version: 1.0
+X-Received: by 10.129.163.68 with SMTP id a65mr2286361ywh.12.1471540793584;
+ Thu, 18 Aug 2016 10:19:53 -0700 (PDT)
+Date: Thu, 18 Aug 2016 17:19:48 +0000 (UTC)
+X-Notifications: XEAAAAJvPjaqzONwgVTwhlBBH9Vk
+X-Account-Notification-Type: 28
+Feedback-ID: 28:account-notifier
+Message-ID: <74J_QgYT3DB7tQhRzioY8A@notifications.google.com>
+Subject: Access for less secure apps has been turned on
+From: Google <no-reply@accounts.google.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Content-Type: multipart/alternative; boundary=94eb2c129a88462d8d053a5bca77
+
+--94eb2c129a88462d8d053a5bca77
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+QWNjZXNzIGZvciBsZXNzIHNlY3VyZSBhcHBzIGhhcyBiZWVuIHR1cm5lZCBvbg0KDQoNCg0KSGkg
+VUFsYmFueSwNCllvdSByZWNlbnRseSBjaGFuZ2VkIHlvdXIgc2VjdXJpdHkgc2V0dGluZ3Mgc28g
+dGhhdCB5b3VyIEdvb2dsZSBBY2NvdW50DQp1YWxiYW55bW9kZXJucG9saXRpY2FsYXJjaGl2ZXNA
+Z21haWwuY29tIGlzIG5vIGxvbmdlciBwcm90ZWN0ZWQgYnkgbW9kZXJuDQpzZWN1cml0eSBzdGFu
+ZGFyZHMuDQoNClBsZWFzZSBiZSBhd2FyZSB0aGF0IGl0IGlzIG5vdyBlYXNpZXIgZm9yIGFuIGF0
+dGFja2VyIHRvIGJyZWFrIGludG8geW91cg0KYWNjb3VudC4gWW91IGNhbiBtYWtlIHlvdXIgYWNj
+b3VudCBzYWZlciBhZ2FpbiBieSB1bmRvaW5nIHRoaXMgY2hhbmdlIGhlcmUNCjxodHRwczovL3d3
+dy5nb29nbGUuY29tL3NldHRpbmdzL3NlY3VyaXR5L2xlc3NzZWN1cmVhcHBzPiwgdGhlbiBzd2l0
+Y2hpbmcNCnRvIGFwcHMgbWFkZSBieSBHb29nbGUgc3VjaCBhcyBHbWFpbCB0byBhY2Nlc3MgeW91
+ciBhY2NvdW50Lg0KDQoqRG9uJ3QgcmVjb2duaXplIHRoaXMgYWN0aXZpdHk/Kg0KUmV2aWV3IHlv
+dXIgcmVjZW50bHkgdXNlZCBkZXZpY2VzDQo8aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL0Fj
+Y291bnRDaG9vc2VyP0VtYWlsPXVhbGJhbnltb2Rlcm5wb2xpdGljYWxhcmNoaXZlc0BnbWFpbC5j
+b20mY29udGludWU9aHR0cHM6Ly9zZWN1cml0eS5nb29nbGUuY29tL3NldHRpbmdzL3NlY3VyaXR5
+L2FjdGl2aXR5P3JmbiUzRDI4JTI2cmZuYyUzRDElMjZhc2FlJTNEMj4NCm5vdy4NCg0KQmVzdCwN
+ClRoZSBHb29nbGUgQWNjb3VudHMgdGVhbQ0KDQoNCg0KVGhpcyBlbWFpbCBjYW4ndCByZWNlaXZl
+IHJlcGxpZXMuIEZvciBtb3JlIGluZm9ybWF0aW9uLCB2aXNpdCB0aGUgR29vZ2xlDQpBY2NvdW50
+cyBIZWxwIENlbnRlciA8aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2Vy
+LzYwMTAyNTU+Lg0KDQoNCg0KWW91IHJlY2VpdmVkIHRoaXMgbWFuZGF0b3J5IGVtYWlsIHNlcnZp
+Y2UgYW5ub3VuY2VtZW50IHRvIHVwZGF0ZSB5b3UgYWJvdXQNCmltcG9ydGFudCBjaGFuZ2VzIHRv
+IHlvdXIgR29vZ2xlIHByb2R1Y3Qgb3IgYWNjb3VudC4NCsKpIDIwMTYgR29vZ2xlIEluYy4sIDE2
+MDAgQW1waGl0aGVhdHJlIFBhcmt3YXksIE1vdW50YWluIFZpZXcsIENBIDk0MDQzLCBVU0ENCg==
+--94eb2c129a88462d8d053a5bca77
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en"><head><meta name=3D"format-detection" content=3D"date=3Dn=
+o"><meta name=3D"format-detection" content=3D"email=3Dno"></head><body styl=
+e=3D"margin: 0; padding: 0;" bgcolor=3D"#FFFFFF"><table width=3D"100%" heig=
+ht=3D"100%" style=3D"min-width: 348px;" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0"><tr height=3D"32px"></tr><tr align=3D"center"><td width=3D"32=
+px"></td><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"max-width: 600px;"><tr><td><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0"><tr><td align=3D"left"><img width=3D"92" height=
+=3D"32" src=3D"https://www.gstatic.com/accountalerts/email/googlelogo_color=
+_188x64dp.png" style=3D"display: block; width: 92px; height: 32px;"></td><t=
+d align=3D"right"><img width=3D"32" height=3D"32" style=3D"display: block; =
+width: 32px; height: 32px;" src=3D"https://www.gstatic.com/accountalerts/em=
+ail/wrench.png"></td></tr></table></td></tr><tr height=3D"16"></tr><tr><td>=
+<table bgcolor=3D"#E6E6E6" width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px so=
+lid #E0E0E0; border-bottom: 0; border-top-left-radius: 3px; border-top-righ=
+t-radius: 3px;"><tr><td height=3D"72px" colspan=3D"3"></td></tr><tr><td wid=
+th=3D"32px"></td><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,s=
+ans-serif; font-size: 24px; color: #000000; line-height: 1.25;">Access for =
+less secure apps has been turned on</td><td width=3D"32px"></td></tr><tr><t=
+d height=3D"18px" colspan=3D"3"></td></tr></table></td></tr><tr><td><table =
+bgcolor=3D"#FAFAFA" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px solid #F0=
+F0F0; border-bottom: 1px solid #C0C0C0; border-top: 0; border-bottom-left-r=
+adius: 3px; border-bottom-right-radius: 3px;"><tr height=3D"16px"><td width=
+=3D"32px" rowspan=3D"3"></td><td></td><td width=3D"32px" rowspan=3D"3"></td=
+></tr><tr><td><table style=3D"min-width: 300px;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"><tr><td style=3D"font-family: Roboto-Regular,Helve=
+tica,Arial,sans-serif; font-size: 13px; color: #202020; line-height: 1.5;">=
+Hi UAlbany,</td></tr><tr><td style=3D"font-family: Roboto-Regular,Helvetica=
+,Arial,sans-serif; font-size: 13px; color: #202020; line-height: 1.5;">You =
+recently changed your security settings so that your Google Account ualbany=
+modernpoliticalarchives@gmail.com is no longer protected by modern security=
+ standards.<br><br>Please be aware that it is now easier for an attacker to=
+ break into your account. You can make your account safer again by undoing =
+this change <a href=3D"https://www.google.com/settings/security/lesssecurea=
+pps" style=3D"text-decoration: none; color: #4285F4;" target=3D"_blank">her=
+e</a>, then switching to apps made by Google such as Gmail to access your a=
+ccount.<br><br><b>Don&#39;t recognize this activity?</b><br>Review your <a =
+href=3D"https://accounts.google.com/AccountChooser?Email=3Dualbanymodernpol=
+iticalarchives@gmail.com&amp;continue=3Dhttps://security.google.com/setting=
+s/security/activity?rfn%3D28%26rfnc%3D1%26asae%3D2" data-meta-key=3D"review=
+-devices" style=3D"text-decoration: none; color: #4285F4;" target=3D"_blank=
+">recently used devices</a> now.</td></tr><tr height=3D"32px"></tr><tr><td =
+style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size:=
+ 13px; color: #202020; line-height: 1.5;">Best,<br>The Google Accounts team=
+</td></tr><tr height=3D"16px"></tr><tr><td><table style=3D"font-family: Rob=
+oto-Regular,Helvetica,Arial,sans-serif; font-size: 12px; color: #B9B9B9; li=
+ne-height: 1.5;"><tr><td>This email can't receive replies. For more informa=
+tion, visit the <a href=3D"https://support.google.com/accounts/answer/60102=
+55" data-meta-key=3D"help" style=3D"text-decoration: none; color: #4285F4;"=
+ target=3D"_blank">Google Accounts Help Center</a>.</td></tr></table></td><=
+/tr></table></td></tr><tr height=3D"32px"></tr></table></td></tr><tr height=
+=3D"16"></tr><tr><td style=3D"max-width: 600px; font-family: Roboto-Regular=
+,Helvetica,Arial,sans-serif; font-size: 10px; color: #BCBCBC; line-height: =
+1.5;"><tr><td><table style=3D"font-family: Roboto-Regular,Helvetica,Arial,s=
+ans-serif; font-size: 10px; color: #666666; line-height: 18px; padding-bott=
+om: 10px"><tr><td>You received this mandatory email service announcement to=
+ update you about important changes to your Google product or account.</td>=
+</tr><tr><td><div style=3D"direction: ltr; text-align: left">&copy; 2016 Go=
+ogle Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</div></t=
+d></tr></table></td></tr></td></tr></table></td><td width=3D"32px"></td></t=
+r><tr height=3D"32px"></tr></table></body></html>
+--94eb2c129a88462d8d053a5bca77--
+
+From 1543022391676050982@xxx Thu Aug 18 17:20:24 +0000 2016
+X-GM-THRID: 1543022359012065723
+X-Gmail-Labels: Unread,Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.114.5.228 with SMTP id v4csp348687ldv;
+        Thu, 18 Aug 2016 10:20:24 -0700 (PDT)
+X-Received: by 10.176.1.211 with SMTP id 77mr1419127ual.156.1471540824613;
+        Thu, 18 Aug 2016 10:20:24 -0700 (PDT)
+Return-Path: <3WO61VwgTAM889-CzA6Jvxx9F8ED.19916z.x97@gaia.bounces.google.com>
+Received: from mail-ua0-x248.google.com (mail-ua0-x248.google.com. [2607:f8b0:400c:c08::248])
+        by mx.google.com with ESMTPS id q204si164475vkd.242.2016.08.18.10.20.24
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 18 Aug 2016 10:20:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3wo61vwgtam889-cza6jvxx9f8ed.19916z.x97@gaia.bounces.google.com designates 2607:f8b0:400c:c08::248 as permitted sender) client-ip=2607:f8b0:400c:c08::248;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@accounts.google.com;
+       spf=pass (google.com: domain of 3wo61vwgtam889-cza6jvxx9f8ed.19916z.x97@gaia.bounces.google.com designates 2607:f8b0:400c:c08::248 as permitted sender) smtp.mailfrom=3WO61VwgTAM889-CzA6Jvxx9F8ED.19916z.x97@gaia.bounces.google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=accounts.google.com
+Received: by mail-ua0-x248.google.com with SMTP id r91so24528202uar.0
+        for <ualbanymodernpoliticalarchives@gmail.com>; Thu, 18 Aug 2016 10:20:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=accounts.google.com; s=20120806;
+        h=mime-version:date:feedback-id:message-id:subject:from:to;
+        bh=h5iCaoTqH7ENugELHluXHcei2+O+mTg/AThwPjFRBkg=;
+        b=g7b0vySJweeiXPX5+Pfe/RYSyqx5YO864rnK5LrLrXBOmIVsfG+Seu0pZpBQe5z0J+
+         3rA+2nEq3j20XF/wSXifNCNJrCogCGn/zGepHN1YrjiMbbocz9+phYW3tQGb/1H1HaIP
+         rWzPmzjjGQfygeJ8F7euIlqAowU8BEvdmZTltWVrwTkf8H1O1mZ5eZqhkEoIT0ZnFTKY
+         l08x3SWxJOhDcHG2piywrRQpBIuQF8q24MEpnT9TltA5uCMT/JqhiZxU/5enqD8AuhoY
+         mxUI9aWAqfVpKOCUCS3AwlodSYvqZXoCxe9s/UNH392ZwZg2mTLNvI8D9nyMUZYPa/s2
+         HKmg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:feedback-id:message-id:subject
+         :from:to;
+        bh=h5iCaoTqH7ENugELHluXHcei2+O+mTg/AThwPjFRBkg=;
+        b=e+2Csm5XGWVsfAXHdfTu6uVaYuajynP0SC4/UaumclcWfIRzfUOj1ZocsRDSSpWnLf
+         7sgTd6t+ridqw2wUAhqYn1T8EQi+qI2U6URYOA/bKi6/xacHkKCRZpYZO/+x9lAHyg/t
+         gmQfCEROqA0alLRV5vxwzBuaqljjGNnPqsNB6vTJGfLKaai2qSBRnRLDOG2XIRCru5ZY
+         4ZM2bZSjSP6bFL2kZuoDXdOUOC+WoGrPRN+/N3O4RSIa4Ty7BZArkjFz+lOKAtEV1tHf
+         zK2aF+Gk5lI7YUvGnU0l8KUu03OP/kHQxEKioI1GkEPlLkJkKRqFBiSwpbaETHmODIFo
+         k0KA==
+X-Gm-Message-State: AEkoouvW5qH2XeAcAgr39qdxjVykrY8Ox2wB5nhWBMWZMJqucONAI3LxzbwfoKy8oC852S0d6alv35TDYSZTRlQB
+MIME-Version: 1.0
+X-Received: by 10.176.64.225 with SMTP id i88mr2257458uad.5.1471540824349;
+ Thu, 18 Aug 2016 10:20:24 -0700 (PDT)
+Date: Thu, 18 Aug 2016 17:20:19 +0000 (UTC)
+X-Notifications: XEAAAAIzmjuZKZ4TXxsXmLS-1M6A
+X-Account-Notification-Type: 28
+Feedback-ID: 28:account-notifier
+Message-ID: <qfYTXlRfD4b1YYnsoC2TVw@notifications.google.com>
+Subject: Access for less secure apps has been turned on
+From: Google <no-reply@accounts.google.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Content-Type: multipart/alternative; boundary=94eb2c12370a1b9ef2053a5bcc63
+
+--94eb2c12370a1b9ef2053a5bcc63
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+QWNjZXNzIGZvciBsZXNzIHNlY3VyZSBhcHBzIGhhcyBiZWVuIHR1cm5lZCBvbg0KDQoNCg0KSGkg
+VUFsYmFueSwNCllvdSByZWNlbnRseSBjaGFuZ2VkIHlvdXIgc2VjdXJpdHkgc2V0dGluZ3Mgc28g
+dGhhdCB5b3VyIEdvb2dsZSBBY2NvdW50DQp1YWxiYW55bW9kZXJucG9saXRpY2FsYXJjaGl2ZXNA
+Z21haWwuY29tIGlzIG5vIGxvbmdlciBwcm90ZWN0ZWQgYnkgbW9kZXJuDQpzZWN1cml0eSBzdGFu
+ZGFyZHMuDQoNClBsZWFzZSBiZSBhd2FyZSB0aGF0IGl0IGlzIG5vdyBlYXNpZXIgZm9yIGFuIGF0
+dGFja2VyIHRvIGJyZWFrIGludG8geW91cg0KYWNjb3VudC4gWW91IGNhbiBtYWtlIHlvdXIgYWNj
+b3VudCBzYWZlciBhZ2FpbiBieSB1bmRvaW5nIHRoaXMgY2hhbmdlIGhlcmUNCjxodHRwczovL3d3
+dy5nb29nbGUuY29tL3NldHRpbmdzL3NlY3VyaXR5L2xlc3NzZWN1cmVhcHBzPiwgdGhlbiBzd2l0
+Y2hpbmcNCnRvIGFwcHMgbWFkZSBieSBHb29nbGUgc3VjaCBhcyBHbWFpbCB0byBhY2Nlc3MgeW91
+ciBhY2NvdW50Lg0KDQoqRG9uJ3QgcmVjb2duaXplIHRoaXMgYWN0aXZpdHk/Kg0KUmV2aWV3IHlv
+dXIgcmVjZW50bHkgdXNlZCBkZXZpY2VzDQo8aHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL0Fj
+Y291bnRDaG9vc2VyP0VtYWlsPXVhbGJhbnltb2Rlcm5wb2xpdGljYWxhcmNoaXZlc0BnbWFpbC5j
+b20mY29udGludWU9aHR0cHM6Ly9zZWN1cml0eS5nb29nbGUuY29tL3NldHRpbmdzL3NlY3VyaXR5
+L2FjdGl2aXR5P3JmbiUzRDI4JTI2cmZuYyUzRDElMjZhc2FlJTNEMj4NCm5vdy4NCg0KQmVzdCwN
+ClRoZSBHb29nbGUgQWNjb3VudHMgdGVhbQ0KDQoNCg0KVGhpcyBlbWFpbCBjYW4ndCByZWNlaXZl
+IHJlcGxpZXMuIEZvciBtb3JlIGluZm9ybWF0aW9uLCB2aXNpdCB0aGUgR29vZ2xlDQpBY2NvdW50
+cyBIZWxwIENlbnRlciA8aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2Vy
+LzYwMTAyNTU+Lg0KDQoNCg0KWW91IHJlY2VpdmVkIHRoaXMgbWFuZGF0b3J5IGVtYWlsIHNlcnZp
+Y2UgYW5ub3VuY2VtZW50IHRvIHVwZGF0ZSB5b3UgYWJvdXQNCmltcG9ydGFudCBjaGFuZ2VzIHRv
+IHlvdXIgR29vZ2xlIHByb2R1Y3Qgb3IgYWNjb3VudC4NCsKpIDIwMTYgR29vZ2xlIEluYy4sIDE2
+MDAgQW1waGl0aGVhdHJlIFBhcmt3YXksIE1vdW50YWluIFZpZXcsIENBIDk0MDQzLCBVU0ENCg==
+--94eb2c12370a1b9ef2053a5bcc63
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en"><head><meta name=3D"format-detection" content=3D"date=3Dn=
+o"><meta name=3D"format-detection" content=3D"email=3Dno"></head><body styl=
+e=3D"margin: 0; padding: 0;" bgcolor=3D"#FFFFFF"><table width=3D"100%" heig=
+ht=3D"100%" style=3D"min-width: 348px;" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0"><tr height=3D"32px"></tr><tr align=3D"center"><td width=3D"32=
+px"></td><td><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"max-width: 600px;"><tr><td><table width=3D"100%" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0"><tr><td align=3D"left"><img width=3D"92" height=
+=3D"32" src=3D"https://www.gstatic.com/accountalerts/email/googlelogo_color=
+_188x64dp.png" style=3D"display: block; width: 92px; height: 32px;"></td><t=
+d align=3D"right"><img width=3D"32" height=3D"32" style=3D"display: block; =
+width: 32px; height: 32px;" src=3D"https://www.gstatic.com/accountalerts/em=
+ail/wrench.png"></td></tr></table></td></tr><tr height=3D"16"></tr><tr><td>=
+<table bgcolor=3D"#E6E6E6" width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px so=
+lid #E0E0E0; border-bottom: 0; border-top-left-radius: 3px; border-top-righ=
+t-radius: 3px;"><tr><td height=3D"72px" colspan=3D"3"></td></tr><tr><td wid=
+th=3D"32px"></td><td style=3D"font-family: Roboto-Regular,Helvetica,Arial,s=
+ans-serif; font-size: 24px; color: #000000; line-height: 1.25;">Access for =
+less secure apps has been turned on</td><td width=3D"32px"></td></tr><tr><t=
+d height=3D"18px" colspan=3D"3"></td></tr></table></td></tr><tr><td><table =
+bgcolor=3D"#FAFAFA" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"min-width: 332px; max-width: 600px; border: 1px solid #F0=
+F0F0; border-bottom: 1px solid #C0C0C0; border-top: 0; border-bottom-left-r=
+adius: 3px; border-bottom-right-radius: 3px;"><tr height=3D"16px"><td width=
+=3D"32px" rowspan=3D"3"></td><td></td><td width=3D"32px" rowspan=3D"3"></td=
+></tr><tr><td><table style=3D"min-width: 300px;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"><tr><td style=3D"font-family: Roboto-Regular,Helve=
+tica,Arial,sans-serif; font-size: 13px; color: #202020; line-height: 1.5;">=
+Hi UAlbany,</td></tr><tr><td style=3D"font-family: Roboto-Regular,Helvetica=
+,Arial,sans-serif; font-size: 13px; color: #202020; line-height: 1.5;">You =
+recently changed your security settings so that your Google Account ualbany=
+modernpoliticalarchives@gmail.com is no longer protected by modern security=
+ standards.<br><br>Please be aware that it is now easier for an attacker to=
+ break into your account. You can make your account safer again by undoing =
+this change <a href=3D"https://www.google.com/settings/security/lesssecurea=
+pps" style=3D"text-decoration: none; color: #4285F4;" target=3D"_blank">her=
+e</a>, then switching to apps made by Google such as Gmail to access your a=
+ccount.<br><br><b>Don&#39;t recognize this activity?</b><br>Review your <a =
+href=3D"https://accounts.google.com/AccountChooser?Email=3Dualbanymodernpol=
+iticalarchives@gmail.com&amp;continue=3Dhttps://security.google.com/setting=
+s/security/activity?rfn%3D28%26rfnc%3D1%26asae%3D2" data-meta-key=3D"review=
+-devices" style=3D"text-decoration: none; color: #4285F4;" target=3D"_blank=
+">recently used devices</a> now.</td></tr><tr height=3D"32px"></tr><tr><td =
+style=3D"font-family: Roboto-Regular,Helvetica,Arial,sans-serif; font-size:=
+ 13px; color: #202020; line-height: 1.5;">Best,<br>The Google Accounts team=
+</td></tr><tr height=3D"16px"></tr><tr><td><table style=3D"font-family: Rob=
+oto-Regular,Helvetica,Arial,sans-serif; font-size: 12px; color: #B9B9B9; li=
+ne-height: 1.5;"><tr><td>This email can't receive replies. For more informa=
+tion, visit the <a href=3D"https://support.google.com/accounts/answer/60102=
+55" data-meta-key=3D"help" style=3D"text-decoration: none; color: #4285F4;"=
+ target=3D"_blank">Google Accounts Help Center</a>.</td></tr></table></td><=
+/tr></table></td></tr><tr height=3D"32px"></tr></table></td></tr><tr height=
+=3D"16"></tr><tr><td style=3D"max-width: 600px; font-family: Roboto-Regular=
+,Helvetica,Arial,sans-serif; font-size: 10px; color: #BCBCBC; line-height: =
+1.5;"><tr><td><table style=3D"font-family: Roboto-Regular,Helvetica,Arial,s=
+ans-serif; font-size: 10px; color: #666666; line-height: 18px; padding-bott=
+om: 10px"><tr><td>You received this mandatory email service announcement to=
+ update you about important changes to your Google product or account.</td>=
+</tr><tr><td><div style=3D"direction: ltr; text-align: left">&copy; 2016 Go=
+ogle Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</div></t=
+d></tr></table></td></tr></td></tr></table></td><td width=3D"32px"></td></t=
+r><tr height=3D"32px"></tr></table></body></html>
+--94eb2c12370a1b9ef2053a5bcc63--
+
+From 1537935897433910316@xxx Thu Jun 23 13:52:45 +0000 2016
+X-GM-THRID: 1537935897433910316
+X-Gmail-Labels: Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.159.32.15 with SMTP id 15csp544631uam;
+        Thu, 23 Jun 2016 06:52:45 -0700 (PDT)
+X-Received: by 10.176.4.48 with SMTP id 45mr15249592uav.127.1466689965656;
+        Thu, 23 Jun 2016 06:52:45 -0700 (PDT)
+Return-Path: <3qulrVwwKAO0PcSn-cdgTeanVddVaT.Rdb@scoutcamp.bounces.google.com>
+Received: from mail-qk0-x246.google.com (mail-qk0-x246.google.com. [2607:f8b0:400d:c09::246])
+        by mx.google.com with ESMTPS id 50si7945uah.107.2016.06.23.06.52.42
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 23 Jun 2016 06:52:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3qulrvwwkao0pcsn-cdgteanvddvat.rdb@scoutcamp.bounces.google.com designates 2607:f8b0:400d:c09::246 as permitted sender) client-ip=2607:f8b0:400d:c09::246;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@google.com;
+       spf=pass (google.com: domain of 3qulrvwwkao0pcsn-cdgteanvddvat.rdb@scoutcamp.bounces.google.com designates 2607:f8b0:400d:c09::246 as permitted sender) smtp.mailfrom=3qulrVwwKAO0PcSn-cdgTeanVddVaT.Rdb@scoutcamp.bounces.google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=google.com
+Received: by mail-qk0-x246.google.com with SMTP id r136so48869328qke.1
+        for <ualbanymodernpoliticalarchives@gmail.com>; Thu, 23 Jun 2016 06:52:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:feedback-id:message-id:date:subject:from:to;
+        bh=szwUwX2nfV1OjenPFgtCWifJKwcrnuzN3oAwjIxaZeU=;
+        b=SyrgIVadQuf2B63y5u7KabPNPEoKGHiPHJYVl27i7cFiTIyC9utIHhnjHkGbMoDrWs
+         gXEwNoCQhxjRjpYx+FpUuAnLPMxU+ZuR1TEohBdbQ8WZaWE9DLttllLFEWzgt0SWMZNl
+         84O8uMWduRqlXiFYI71Q12TRkI1kTJ9MK9/UvbUWCKKgsITOR88tfpGUWRxquhIurWiR
+         DoGG3vuByemDMk9zIRkoPGPlN1JVN+0WcWcuEHvYq7imkjmASOs5T8wgv+af37z7jVZy
+         25r8YRC7zFk9NW+g7LX7pLHNqPV+G4ZDW/gV/8G3fl/I9gtEujxnmm60Ln3PLb5E5whS
+         gNbQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:reply-to:feedback-id:message-id
+         :date:subject:from:to;
+        bh=szwUwX2nfV1OjenPFgtCWifJKwcrnuzN3oAwjIxaZeU=;
+        b=h9h+fyKphwdX2ZMwU7CJj+9BNdvpL7gqy2y+lV/MDA9uUIy18I5nZh4p4kXfSYH12t
+         ECAaulnqGC5bd7vBFkibCWj8DesXtUNyq9C95chN0QDFo2UcXdmvNZlCOfvYdLlMN5wi
+         LxiMYZngEqwfrOJqCka50FLew7UjGBbFdckZq0aKAhf+nYJ+npUU0PtJUpV8jBQdwwh3
+         bHeRpPMS2VE7tcecHcfMN/lD+wDc/PApNn+OTPpV+XjmLOSHSwnYsX7VXIF2D5zjKHBV
+         65HeuHQeflLDExhbPsZiyNOBjk3zVh9qiMzYosyVXTAaAY2XiN/wHijhH8JJ7ZojaLak
+         0Wgg==
+X-Gm-Message-State: ALyK8tIQlQyPtk+dV7SAl2zLxmiU9t+n8CazAz0VZxfruMYjMl4ftFDoWwEIrCoVB67E74M=
+MIME-Version: 1.0
+X-Received: by 10.159.39.38 with SMTP id a35mr15375813uaa.92.1466689962258;
+ Thu, 23 Jun 2016 06:52:42 -0700 (PDT)
+Reply-To: Andy from Google <andy-noreply@google.com>
+X-Google-Id: SP#6395862091563008
+Feedback-ID: Len:D1752016:C377502:gamma
+Message-ID: <aad3793892b4891.1466689961655.100038985.377502.en.d9c49a37ba14f4e@google.com>
+Date: Thu, 23 Jun 2016 13:52:42 +0000
+Subject: UAlbany, welcome to your new Google Account
+From: Andy from Google <andy-noreply@google.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Content-Type: multipart/alternative; boundary=94eb2c123e4c3234a50535f25ea8
+
+--94eb2c123e4c3234a50535f25ea8
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+SGkgVUFsYmFueSwNCg0KSeKAmW0gc28gZ2xhZCB5b3UgZGVjaWRlZCB0byB0cnkgb3V0IEdtYWls
+LiBIZXJlIGFyZSBhIGZldyB0aXBzIHRvIGdldCB5b3UgdXAgIA0KYW5kIHJ1bm5pbmcgZmFzdC4N
+Cg0KLS0tLS0tLS0NCg0KR21haWwgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUv
+bWt0L3AvbFlxUDlyaEJQQ0k0OE1BMXBZTzlMdXczUHFhWEFMN2tPQm9vbVdqaWRvdENwSmVPdHV6
+RUJDZ2phbVFSaC1uUTNtTE5udnJXOTdHWjl5M1BXNl9NMlNiWXZlaEtocDZ2RUtscG5tQVJfTnBh
+TndDQzY5ZVRfU2xxYWV1VThnSGxSRlBYVURfUnp0dVJ5QT09Pg0KDQpHbWFpbCBvbiB0aGUgZ28N
+Cg0KICBXaXRoIEdtYWlsIGZvciBBbmRyb2lkICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2Fw
+cHNlcnZlL21rdC9wL3pFa09WMS0tTDRUYXd3WEh0cUw2b0pOWHVSUm1WdGhnUGs5eTdXVE16Yk42
+SFp5RkZWZWdXdldWSE5xMzhRTWVweDh6alhpY0dxcnMwTFBELV9YWExmR3dkc0F5YnE4bEhIdmZk
+TVI5cE9uckEwOHFwWE1LSnRnZVljSVhPbjRqOXMwdG1VSENXVlktWDFjdTc3ZWZGLWRNcE9RMnRo
+bkUxTERSY1VkUi1lZm9yaFZHPiAgDQphbmQgaU9TICANCjxodHRwczovL3d3dy5nb29nbGUuY29t
+L2FwcHNlcnZlL21rdC9wL3ZYREFqSjhHM21FZXdTZmlOMlhDRnQ5S3lxVllVV1NBblNkNVlfbDZ2
+TzBmS2ZGZ01nSWxUQ3AzUS1GR2JsUEJvR19ZTlRyeUg1dzc3RHJSWmNuSURRUWdGcExhSTNiR1Jq
+VThmOWh1b2FYYnBDa0s2bzdzOHhrUHJEeUVNZkI0cVJZWDAxcmdxcG89PiwgIA0KeW91IGdldCBy
+ZWFsLXRpbWUgbm90aWZpY2F0aW9ucyBzbyB5b3UgZG9uJ3QgbWlzcyBpbXBvcnRhbnQgZW1haWxz
+Lg0KDQotLS0tLS0tLQ0KDQpEcml2ZSAgDQo8aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2
+ZS9ta3QvcC9OMm1tSjY5ckpyc3ZjYjRjWERiTlk0WUs3aWF6WXdMYVZTcFgxRzNBNGpzQ2o4WHFo
+MUctT2x3WVVzZGNYRmdmbjU0WEt1TUhhcjJxUVZjMDJBaEVKNTUtNkdyZDNna2gwb1dBMjBSTEdK
+aUhzZV91STYzSGlqZWMxdkU9Pg0KDQpUaGUgYmVzdCBvZiBHb29nbGUNCg0KV2hlbiB5b3Ugc2ln
+biB1cCBmb3IgR21haWwgeW91IGdldCBhIEdvb2dsZSBBY2NvdW50ICANCjxodHRwczovL3d3dy5n
+b29nbGUuY29tL2FwcHNlcnZlL21rdC9wL2Z4ZlBQcXFHV3cza3ZtU3JTUnU0NDB4c2d6cFgzX2My
+N0FpU1U4R0g0Q1VYNWFXOWFFbGQwcTJnNGpTNjJPWWdZU3hiMDZuc1FaNENmUklVaDdRRHZDZ0dj
+TzNwNUZlSzRfZEhyd3dwMEhNa1BTZnNXdTVVSEV5YWFEel9PWjBOWVkyazctUVpDRUxLPiAgDQp0
+aGF0IGdpdmVzIHlvdSBhY2Nlc3MgdG8gbG90cyBvZiBHb29nbGUgc3R1ZmYgbGlrZSAxNUdCIG9m
+IGZyZWUgc3RvcmFnZSBpbiAgDQpEcml2ZSAgDQo8aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hcHBz
+ZXJ2ZS9ta3QvcC9EaThqX0tSbEZ0T1hOQ0tJdGRIY1Z6clE3VVRoemd1azhZRGJoTkVkVWlmNG1k
+M3pTTldXT281T2xaXzFLcWJKX0dfSDRkWXZjUmNNaExzSUM2QTBlUXQtUGk1M2lWUS16Qlp3bUlY
+X2xhYzFmZ0dtQ2N1Yzk2SmpGOFl4Pi4gIA0KQ2hlY2sgb3V0IG1vcmUgdGlwcyAgDQo8aHR0cHM6
+Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvcC9KbXFHaFI2S2JjcVRSUllQNDhJb1pPcXJo
+bUEwU1cyQjdVNjdId2swWmFSQ1V6dEl4RlAtejZ2V1dCVm14eWxMbW9rcFFxN19nWUl3UVVzbDlH
+X1ZNWmctRngwOHVGRmo5ZWZwRGJlcDY1ZzBibWY4M1NOcEowQnJ5ZEdKZHc9PT4uDQotLS0tLS0t
+LQ0KDQpUcnVzdCBzaGllbGQgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0
+L3AveXFsOEVtNVRkbDJmRGZPeFVKV0VFUUtzakUzU3p1NjFqWnhMdlVnMWhVSzRMOGZvTzMxSmRF
+c0tVeXl2NEUzVWJra0JRdTlScmpxV3BHTjlrbGo2V0dhRFA3VEN3eW5PQ2x4a1RtSEFOdnM5TjFO
+QVNtVzBvZDlmWWVXZXAwSXA+DQoNCllvdeKAmXJlIGluIGNvbnRyb2wNCg0KQ2hvb3NlIHdoYXTi
+gJlzIHJpZ2h0IGZvciB5b3UuIFlvdSBjYW4gcmV2aWV3IGFuZCBhZGp1c3QgeW91ciBwcml2YWN5
+IGFuZCAgDQpzZWN1cml0eSBzZXR0aW5ncyBhbnkgdGltZSBhdCBNeSBBY2NvdW50ICANCjxodHRw
+czovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wLzJydUcxRE1uVTFRNDV1c1IyQjhubUJX
+U3FGR1F4NkNhWmszUnpVYU92YXAxVDVYNUp0TkxBRjdHMGFoZ1IwNk1pLXpmNGFwOFFwaGc2T2w5
+ZEk4X0VoLVFGR1VRM3N3X244NU9NNTlHVmpydWExNFgtMHZaUkxMV2s2R1VrR0swNk1qOWdRPT0+
+Lg0KDQotLS0tLS0tLQ0KDQpSZXBsaWVzIHRvIHRoaXMgZW1haWwgYXJlbuKAmXQgbW9uaXRvcmVk
+LCBidXQgaWYgeW91IGhhdmUgYSBxdWVzdGlvbiB0cnkgdGhlICANCkhlbHAgQ2VudGVyICANCjxo
+dHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL0tWZ0pXQ3Nycl94VWtBXzVTTGR6
+RmxfdHpRM3VxeVliV25vUHRhSDh5eVdYZmtPUE9wTjZxZVNOTHYtcTRCWTk3Umh4U3VlMlRUZjJ2
+ak94c3N5R1VLTjlqNFBXeVZDRGhObHd6bFpMbVQwV1FwSkhmR1VuWTl5bDFRPT0+ICANCm9yIHBv
+c3QgaXQgdG8gdGhlIEdtYWlsIEhlbHAgRm9ydW0gIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20v
+YXBwc2VydmUvbWt0L3AvY09FU2hmMHc4dEtYeGtvcFJxVm1uaDltdE83RjFmYVRMZ1lHZmJONjhj
+Mk5FT2tac0xNeUlJcTkyaHFvMWxWc0doRWlpLUNaVUhqWks4Zjd4OGJQQVM0aWwtU0k1ZkhwaUVO
+Nm5hZS02cGNUclhfRF8xRDVDNFdTNkhON0NOTVZUQlJ2eGJSUjRkYlhLYkFWdGl0cmpjMUh6emFm
+djdVd241R2l4Rlg5MDEySFl3T2pTOFR4alY5QjZReHNRTmhlMk1tUXUtNFZfNXVPS0FDWTJQWVRZ
+Nkd0OEVTMEFudz0+ICANCndoZXJlIG15IHRlYW0gYW5kIG90aGVyIGV4cGVydCB1c2VycyBhbnN3
+ZXIgcXVlc3Rpb25zLg0KDQoNCkVuam95IHlvdXIgbmV3IGFjY291bnQsDQoNCkFuZHkgCQ0KDQpH
+bWFpbCBDb21tdW5pdHkgTWFuYWdlcg0KDQoNCktlZXAgaW4gdG91Y2g6IFR3aXR0ZXIgIA0KPGh0
+dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvT1JINmE4N0kyQ3Ztai0yS3pjVjN5
+Yi02cHZHVlFHYm1CTGRDeHhtUHA2cW5PdERwM0lRZzRsZzMyaFh4ajVWSTRYM3dhYnRGMmtNbXVN
+Nm5JeUhpc2dwZXI4VnJidExLX1NwUlNMSUt6QXN5Z0N4aGgyY25CYVFaWE9HTUV4dWpUaTQ9Piwg
+IA0KRmFjZWJvb2sgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvemQ0
+MHA0Z3JIamxzZHF4QllBUkdVcEdacVJXMzdrdTd2VlhDSnNZOG03alFVSzVFVWs2VjluMWx4dnl2
+WDNlRkFKMWtmQ0liRkd0WldUek5IRHBxbndoSW5QdHhIVjVhQnF4RXJsQUZ0aXVfTWJEZ2QtQlZr
+dmtxREtXWm1nPT0+LCAgDQpHb29nbGUrICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNl
+cnZlL21rdC9wL054X3cybXNQZVozcTAzRmh4TWV5UEFLNDhaNFhackdIZWVzckViMEdRbkZ0ajRX
+TjFTOS1fUllCT3VobHNQZ1hDNGZlMFlkc0xuUWFHTHJUTU9mR3M2QnpOcXBQTjVBTzExdTNRMzJZ
+N09CN1htX09aU3diVG0xTEpieUozRVZOc2c9PT4NCg0KDQpHZXQgR21haWwgb24gdGhlIGdvLg0K
+DQpHb29nbGUgUGxheSAgDQo8aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvcC80
+NGxFakpqTUFsb2tieEdmRzhXSldXZXMtWHM3V0MzNnpTTmVseTJ4RjVOY2tMQ1FBN0QyTWF5VlpU
+TWx5U252R1c0SzBhR0laMmd3ZmZINGFKbkZJSVhXVkpvc2hNTk53ZFFHWUtocUVROEllMTZYV2Vs
+SV90bkEzMUM4N3FjMEtNa0JTaVF5Si1xaVhkSTI4a3RyckFIUWctOVQyNkhtZ3NxRlpOdzYyM1dP
+S2R1ZT4NCg0KQXBwIFN0b3JlICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21r
+dC9wL19rc0lIOUJxUmJGd2YxZUpRSDVjcktVdGs5ejEwTDBqTDU4V3ZvZHZqalJlQVZrNWdONW9n
+QmFBM09zcHV1T3Y2bTdSUEQ5c1JWSk54MDltY3lScERMR0dSNk52UFRZMjdnUGRVM3BMMUU3Z29Y
+dFd4dGt0aWcteDlNZ1N3eUNmcFRzM1M2ci1DX3c9Pg0KDQoNCkdvb2dsZSAgDQo8aHR0cHM6Ly93
+d3cuZ29vZ2xlLmNvbS9hcHBzZXJ2ZS9ta3QvcC9HTENSYmtVbjdQZy1hcW5sMEtfUnB2dWRzSlAx
+NzB6amd4NHcySlRjbk1UcFBEY0gzeVh2NzNrZDRROFNGZ1ZHTEZWNF9fdkQ0bDZSdlFsVFRqTkdo
+b3lNTXRRRDh2QjRyY2k3cXdxWUVsbnUwVnUwZnZYcDJGZ2YxQT09Pg0KDQoNCkdvb2dsZSBTZWFy
+Y2ggIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvelJmbG5RUkt5Q1JJ
+cUk2a1dTZG9UMmYxZFdrUjZONlZtVVNKcWZleFpXX0d1THFHX2tydktMbFZVRDYydWdqaVdBUUc5
+Q2V3Sm1oOHNxcDZMMXhBc1ZDZWJCMEs0M3lXYXNZbnlaOG9KX1pJaVFkMEw3SG1HUWxxRFE9PT4N
+Cg0KR21haWwgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvRFE3MjFa
+VlI2WllUSE4yaEhPS1JXUGw0R2laWVAyc3FsSVIzVldjeE1qblc2LWhnMm8xREM5YjVPY1FPOEdu
+QUxzT0VfQXdLV2FTMV95WVZURHZSdmVYbC03QnNYY2JwWXlmalp0WmVCTVJWOFhlQlBQZDJfWkpN
+eGRXSmNfNW9Xd2ltM0F2bEhnS2F0TVk9Pg0KDQpNYXBzICANCjxodHRwczovL3d3dy5nb29nbGUu
+Y29tL2FwcHNlcnZlL21rdC9wL1BtT29OVUZSMVpKRjhMYUVjRUc4aDV4WXFEeXpQRDR5LTAyb2gy
+elUxM3JXT1A3R2Q2Wk43R1g1Qlpfd0RXVFRZOVAwQUhXMGVUNVBua0tSWGJkR014LVN4aTFaMDc1
+OWRJRElBRjVOUDNUQWphV3NFSmxKdVI0UlRFUGY3Zz09Pg0KDQpZb3VUdWJlICANCjxodHRwczov
+L3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL2lTNGhRVDg0SmtwY3VkVm9SUnYzbUd3S0JG
+anphckN0U0hpX2ItZ3lyZkE4TVpNeWd3NThLRkI3eFV5S2VwLUtQYkFlM2s3NVdOWmd2WEkzSVFR
+b0l1Q1llWWZhWU1YSEg0cVhXV0FZZVFvVWh0Z1JRRTJsSnc9PT4NCg0KRHJpdmUgIA0KPGh0dHBz
+Oi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0L3AvU3cwNk9RNEk2UmhqWll3S3dlN1pFRVBI
+dGdpYm96R3N5R3RoUUp4d1oyU2V1MEU3bWdBdGxmM0RSR0tEUlJPU0JvRm9zTG44SHBYR0RQUDhQ
+TEFtdHF1YzIxVFAzQThMT0VVZWtMZ1ZobG1udVZqakZIQl9FdzBjanJTNT4NCg0KUGhvdG9zICAN
+CjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL21qYV9oTFJ6X3diTXk1cDlx
+ejl5RFFOVDZDeC1hUk81SnBRYVpyUWZSWkl4NjBWN0FaVnlzdjdxcHllbjZYcm9ZWnVwSlp4a2Vk
+OVI0Z09tMTV0M3RYNF9iNWRsUHQ2RVJzTTRjTDZlc1V5NVdfRWxHTjFTVTQ3QlBHUHpwdz09Pg0K
+DQpQbGF5ICANCjxodHRwczovL3d3dy5nb29nbGUuY29tL2FwcHNlcnZlL21rdC9wL0VHTzRYQl8z
+LUkwUEVPQkpCUVVydzRyRk9LY3F5MHllQjdGQmcyckNBQnF6blJOZGhPRGM0Yi1yWi1SNUJSUDJz
+dHV3dnpmVVg4VE12TlhqeHlCNEV6SDk3X194MFNjZzlJZmVXT19NdFFiWVNxYVh5MC13WnRXdVhu
+TnBxVDg9Pg0KDQpDaHJvbWUgIA0KPGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vYXBwc2VydmUvbWt0
+L3AvTHJUb2lVcmttRm1OTFVjbzJTckhoUWhocjU3c0NsbjVtTDFnV0szcDJ3R19oRWJNZFZid2hC
+dUhDWExaMGJXSHdIZWpEX0o3dW4wanFfeDNVWjNraDZRdDZNUVM1RlRmLVpHQk1LbHp0OFFkY1hW
+VlAtcGFIems3cUgzSHJobU14dkk9Pg0KDQoNCsKpIDIwMTYgR29vZ2xlIEluYy4gMTYwMCBBbXBo
+aXRoZWF0cmUgUGFya3dheSwgTW91bnRhaW4gVmlldywgQ0EgOTQwNDMNClRoaXMgZW1haWwgd2Fz
+IHNlbnQgdG8geW91IGJlY2F1c2UgeW91IGNyZWF0ZWQgYSBHb29nbGUgQWNjb3VudC4NCg==
+--94eb2c123e4c3234a50535f25ea8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D1">
+    <!--<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1.0"/>
+    <meta name=3D"viewport" content=3D"target-densitydpi=3Ddevice-dpi"/> --=
+>
+    <title>Get more from your new Google Account</title>
+</head>
+<body style=3D"padding: 0; margin: 0;">
+    <style>
+@media screen{@font-face{font-family:'Open Sans';font-style:normal;font-wei=
+ght:300;src:local('Open Sans Light'),local('OpenSans-Light'),url(http://fon=
+ts.gstatic.com/s/opensans/v9/DXI1ORHCpsQm3Vp6mXoaTRampu5_7CjHW5spxoeN3Vs.wo=
+ff2) format('woff2'),url(http://fonts.gstatic.com/s/opensans/v9/DXI1ORHCpsQ=
+m3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format('woff')}}body{padding:0;margi=
+n:0}@media only screen and (max-width:520px){-webkit-text-size-adjust:100%}
+</style>
+<center>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" wi=
+dth=3D"520" bgcolor=3D"#ffffff" style=3D"background: #ffffff; max-width: 52=
+0px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; -=
+ms-text-size-adjust: 100%;">
+  <tr>
+    <td width=3D"20" bgcolor=3D"#eeeeee" style=3D"background: #eeeeee;"></t=
+d>
+		<td width=3D"480" style=3D"-webkit-font-smoothing: antialiased; -webkit-t=
+ext-size-adjust: none; -ms-text-size-adjust: 100%;">
+			<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+				<tr>
+					<td height=3D"20" bgcolor=3D"#eeeeee" style=3D"background: #eeeeee;"><=
+/td>
+				</tr>
+				<tr>
+					<td>
+  				 <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"cen=
+ter" width=3D"100%" style=3D"border-bottom: 1px solid #eeeeee;">
+            <tr>
+    			    <td height=3D"49"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center" class=3D"whom" style=3D'color:#4285f4; fon=
+t-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:32px=
+; font-weight:300; line-height:46px; margin:0; padding:0 25px 0 25px; text-=
+align:center'>Hi UAlbany,</td>
+             </tr>
+             <!--[if !mso]><!-- -->
+              <tr>
+        	      <td height=3D"20"></td>
+              </tr>
+            <!--<![endif]-->
+           =20
+            <!--[if mso]>
+              <tr>
+                <td height=3D"7">&nbsp;</td>
+              </tr>
+            <![endif]-->
+            <tr>
+      		    <td align=3D"center" class=3D"parasec" style=3D'color:#757575; =
+font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:1=
+7px; font-weight:300; line-height:24px; margin:0; padding:0 25px 0 25px; te=
+xt-align:center'> I=E2=80=99m so glad you decided to try out Gmail.  Here a=
+re a few tips to get you up and running fast.</td>
+             </tr>
+             <tr>
+      		    <td height=3D"30">
+
+</td>
+             </tr>
+            =20
+  				 </table>
+					</td>
+				</tr>
+        <tr>
+          <td>
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" width=3D"100%" style=3D"border-bottom: 1px solid #eeeeee;">
+            <tr>
+      		    <td height=3D"32"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center">
+              <a href=3D"https://www.google.com/appserve/mkt/p/lYqP9rhBPCI4=
+8MA1pYO9Luw3PqaXAL7kOBoomWjidotCpJeOtuzEBCgjamQRh-nQ3mLNnvrW97GZ9y3PW6_M2Sb=
+YvehKhp6vEKlpnmAR_NpaNwCC69eT_SlqaeuU8gHlRFPXUD_RztuRyA=3D=3D" target=3D"_b=
+lank" style=3D"color:#4285f4; text-decoration:underline">
+              <img width=3D"64" border=3D"0" src=3D"https://services.google=
+.com/fh/files/emails/owe_gmail_128dp.png" alt=3D"Gmail" style=3D"width: 64p=
+x; text-align: center; border: none;">
+              </a>
+              </td>
+             </tr>
+             <tr>
+      		    <td height=3D"15"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center" class=3D"paraheading" style=3D'color:#7575=
+75; font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-si=
+ze:24px; font-weight:300; line-height:33px; margin:0; padding:0 25px 0 25px=
+; text-align:center'>Gmail on the go</td>
+             </tr>
+             <tr>
+      		    <td height=3D"4" style=3D"line-height: 4px; font-size: 4px;"></=
+td>
+             </tr>
+             <tr>
+               <td align=3D"center" class=3D"para" style=3D'color:#757575; =
+font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:1=
+7px; font-weight:300; line-height:24px; margin:0; padding:0 25px 0 25px; te=
+xt-align:center'> With Gmail for <a href=3D"https://www.google.com/appserve=
+/mkt/p/zEkOV1--L4TawwXHtqL6oJNXuRRmVthgPk9y7WTMzbN6HZyFFVegWvWVHNq38QMepx8z=
+jXicGqrs0LPD-_XXLfGwdsAybq8lHHvfdMR9pOnrA08qpXMKJtgeYcIXOn4j9s0tmUHCWVY-X1c=
+u77efF-dMpOQ2thnE1LDRcUdR-eforhVG" target=3D"_blank" style=3D"color:#4285f4=
+; text-decoration:underline">Android</a> and <a href=3D"https://www.google.=
+com/appserve/mkt/p/vXDAjJ8G3mEewSfiN2XCFt9KyqVYUWSAnSd5Y_l6vO0fKfFgMgIlTCp3=
+Q-FGblPBoG_YNTryH5w77DrRZcnIDQQgFpLaI3bGRjU8f9huoaXbpCkK6o7s8xkPrDyEMfB4qRY=
+X01rgqpo=3D" target=3D"_blank" style=3D"color:#4285f4; text-decoration:unde=
+rline">iOS</a>, you get real-time notifications so you don't miss important=
+ emails.</td>
+             </tr>
+             <tr>
+        	    <td height=3D"30"></td>
+             </tr>
+           </table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" width=3D"100%" style=3D"border-bottom: 1px solid #eeeeee;">
+            <tr>
+        	    <td height=3D"32"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center">
+              <a href=3D"https://www.google.com/appserve/mkt/p/N2mmJ69rJrsv=
+cb4cXDbNY4YK7iazYwLaVSpX1G3A4jsCj8Xqh1G-OlwYUsdcXFgfn54XKuMHar2qQVc02AhEJ55=
+-6Grd3gkh0oWA20RLGJiHse_uI63Hijec1vE=3D" target=3D"_blank" style=3D"color:#=
+4285f4; text-decoration:underline">
+             <img width=3D"64" border=3D"0" src=3D"https://services.google.=
+com/fh/files/emails/owe_drive_128dp.png" alt=3D"Drive" style=3D"width: 64px=
+; text-align: center; border: none;">
+             </a>=20
+              </td>
+             </tr>
+             <tr>
+      		    <td height=3D"15"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center" class=3D"paraheading" style=3D'color:#7575=
+75; font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-si=
+ze:24px; font-weight:300; line-height:33px; margin:0; padding:0 25px 0 25px=
+; text-align:center'>The best of Google</td>
+             </tr>
+             <tr>
+      		    <td height=3D"4" style=3D"line-height: 4px; font-size: 4px;"></=
+td>
+             </tr>
+             <tr>
+               <td align=3D"center" class=3D"para" style=3D'color:#757575; =
+font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:1=
+7px; font-weight:300; line-height:24px; margin:0; padding:0 25px 0 25px; te=
+xt-align:center'>When you sign up for Gmail you get a <a href=3D"https://ww=
+w.google.com/appserve/mkt/p/fxfPPqqGWw3kvmSrSRu440xsgzpX3_c27AiSU8GH4CUX5aW=
+9aEld0q2g4jS62OYgYSxb06nsQZ4CfRIUh7QDvCgGcO3p5FeK4_dHrwwp0HMkPSfsWu5UHEyaaD=
+z_OZ0NYY2k7-QZCELK" target=3D"_blank" style=3D"color:#4285f4; text-decorati=
+on:underline;white-space:nowrap;">Google Account</a> that gives you access =
+to lots of Google stuff like 15GB of free storage in <a href=3D"https://www=
+.google.com/appserve/mkt/p/Di8j_KRlFtOXNCKItdHcVzrQ7UThzguk8YDbhNEdUif4md3z=
+SNWWOo5OlZ_1KqbJ_G_H4dYvcRcMhLsIC6A0eQt-Pi53iVQ-zBZwmIX_lac1fgGmCcuc96JjF8Y=
+x" target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">Dri=
+ve</a>. Check out more <a href=3D"https://www.google.com/appserve/mkt/p/Jmq=
+GhR6KbcqTRRYP48IoZOqrhmA0SW2B7U67Hwk0ZaRCUztIxFP-z6vWWBVmxylLmokpQq7_gYIwQU=
+sl9G_VMZg-Fx08uFFj9efpDbep65g0bmf83SNpJ0BrydGJdw=3D=3D" target=3D"_blank" s=
+tyle=3D"color:#4285f4; text-decoration:underline">tips</a>.</td>
+             </tr>
+             <tr>
+        	    <td height=3D"30"></td>
+             </tr>
+           </table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" width=3D"100%" style=3D"border-bottom: 1px solid #eeeeee;">
+            <tr>
+              <td height=3D"32"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center">
+              <a href=3D"https://www.google.com/appserve/mkt/p/yql8Em5Tdl2f=
+DfOxUJWEEQKsjE3Szu61jZxLvUg1hUK4L8foO31JdEsKUyyv4E3UbkkBQu9RrjqWpGN9klj6WGa=
+DP7TCwynOClxkTmHANvs9N1NASmW0od9fYeWep0Ip" target=3D"_blank" style=3D"color=
+:#4285f4; text-decoration:underline">
+             <img width=3D"60" height=3D"77" src=3D"https://services.google=
+.com/fh/files/emails/shield_logo_150_rt.png" alt=3D"Trust shield" border=3D=
+"0" style=3D"width: 60px; height: 77px; text-align: center; border: none;">
+              </a>
+              </td>
+             =20
+             </tr>
+             <tr>
+      		    <td height=3D"15"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center" class=3D"paraheading" style=3D'color:#7575=
+75; font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-si=
+ze:24px; font-weight:300; line-height:33px; margin:0; padding:0 25px 0 25px=
+; text-align:center'>You=E2=80=99re in control</td>
+             </tr>
+             <tr>
+      		    <td height=3D"4" style=3D"line-height: 4px; font-size: 4px;"></=
+td>
+             </tr>
+             <tr>
+               <td align=3D"center" class=3D"para1" style=3D'color:#757575;=
+ font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:=
+17px; font-weight:300; line-height:24px; margin:0; padding:0 20px 0 20px; t=
+ext-align:center'>Choose what=E2=80=99s right for you. You can review and a=
+djust your privacy and security settings any time at <a href=3D"https://www=
+.google.com/appserve/mkt/p/2ruG1DMnU1Q45usR2B8nmBWSqFGQx6CaZk3RzUaOvap1T5X5=
+JtNLAF7G0ahgR06Mi-zf4ap8Qphg6Ol9dI8_Eh-QFGUQ3sw_n85OM59GVjrua14X-0vZRLLWk6G=
+UkGK06Mj9gQ=3D=3D" target=3D"_blank" style=3D"color:#4285f4; text-decoratio=
+n:underline">My Account</a>.</td>
+             </tr>
+             <tr>
+        	    <td height=3D"30"></td>
+             </tr>
+           </table>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" width=3D"100%">
+            <tr>
+              <td height=3D"27"></td>
+             </tr>
+             <tr>
+        	    <td align=3D"center" class=3D"parasec" style=3D'color:#757575;=
+ font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:=
+17px; font-weight:300; line-height:24px; margin:0; padding:0 25px 0 25px; t=
+ext-align:center'>Replies to this email aren=E2=80=99t monitored, but if yo=
+u have a question try the <a href=3D"https://www.google.com/appserve/mkt/p/=
+KVgJWCsrr_xUkA_5SLdzFl_tzQ3uqyYbWnoPtaH8yyWXfkOPOpN6qeSNLv-q4BY97RhxSue2TTf=
+2vjOxssyGUKN9j4PWyVCDhNlwzlZLmT0WQpJHfGUnY9yl1Q=3D=3D" target=3D"_blank" st=
+yle=3D"text-decoration:underline; color: #4285f4;">Help Center</a> or post =
+it to the <a href=3D"https://www.google.com/appserve/mkt/p/cOEShf0w8tKXxkop=
+RqVmnh9mtO7F1faTLgYGfbN68c2NEOkZsLMyIIq92hqo1lVsGhEii-CZUHjZK8f7x8bPAS4il-S=
+I5fHpiEN6nae-6pcTrX_D_1D5C4WS6HN7CNMVTBRvxbRR4dbXKbAVtitrjc1Hzzafv7Uwn5GixF=
+X9012HYwOjS8TxjV9B6QxsQNhe2MmQu-4V_5uOKACY2PYTY6Gt8ES0Anw=3D" target=3D"_bl=
+ank" style=3D"color:#4285f4; text-decoration:underline; white-space: nowrap=
+!important;">Gmail Help Forum</a> where my team and other expert users answ=
+er questions.
+
+</td>
+             </tr>
+             <tr>
+      		    <td height=3D"25"></td>
+             </tr>
+             <tr>
+      		    <td align=3D"center" class=3D"parasec" style=3D'color:#757575; =
+font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:1=
+7px; font-weight:300; line-height:24px; margin:0; padding:0 25px 0 25px; te=
+xt-align:center'>Enjoy your new account,</td>
+             </tr>
+            =20
+             <tr>
+        	    <td align=3D"center" style=3D"padding-top:13px; padding-bottom=
+:8px;">
+              <img border=3D"0" src=3D"https://services.google.com/fh/files=
+/emails/andy.png" alt=3D"Andy" style=3D"text-align: center; border: none;" =
+width=3D"75" height=3D"45">
+                            </td>
+             </tr>
+            =20
+            =20
+            =20
+            =20
+             <tr>
+               <td align=3D"center" class=3D"parasec" style=3D'color:#75757=
+5; font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-siz=
+e:17px; font-weight:300; line-height:24px; margin:0; padding:0 25px 0 25px;=
+ text-align:center'>
+               Gmail Community Manager
+                </td>
+             </tr>
+             <tr>
+              <td height=3D"35"></td>
+             </tr>
+             <tr>
+               <td align=3D"center" class=3D"para" style=3D'color:#757575; =
+font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-serif; font-size:1=
+7px; font-weight:300; line-height:24px; margin:0; padding:0 25px 0 25px; te=
+xt-align:center'> Keep in touch: <a href=3D"https://www.google.com/appserve=
+/mkt/p/ORH6a87I2Cvmj-2KzcV3yb-6pvGVQGbmBLdCxxmPp6qnOtDp3IQg4lg32hXxj5VI4X3w=
+abtF2kMmuM6nIyHisgper8VrbtLK_SpRSLIKzAsygCxhh2cnBaQZXOGMExujTi4=3D" target=
+=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">Twitter</a>,=
+ <a href=3D"https://www.google.com/appserve/mkt/p/zd40p4grHjlsdqxBYARGUpGZq=
+RW37ku7vVXCJsY8m7jQUK5EUk6V9n1lxvyvX3eFAJ1kfCIbFGtZWTzNHDpqnwhInPtxHV5aBqxE=
+rlAFtiu_MbDgd-BVkvkqDKWZmg=3D=3D" target=3D"_blank" style=3D"color:#4285f4;=
+ text-decoration:underline">Facebook</a>, <a href=3D"https://www.google.com=
+/appserve/mkt/p/Nx_w2msPeZ3q03FhxMeyPAK48Z4XZrGHeesrEb0GQnFtj4WN1S9-_RYBOuh=
+lsPgXC4fe0YdsLnQaGLrTMOfGs6BzNqpPN5AO11u3Q32Y7OB7Xm_OZSwbTm1LJbyJ3EVNsg=3D=
+=3D" target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">G=
+oogle+</a> </td>
+             </tr>
+             <tr>
+              <td height=3D"27"></td>
+             </tr>
+              <tr>
+              <td>
+                 <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"100%">
+<tr>
+<td colspan=3D"3" align=3D"center" style=3D"text-align: center; font-family=
+: 'Roboto',OpenSans,'Open Sans',Arial,sans-serif; font-size: 17px; line-hei=
+ght: 24px; font-weight: 300; color: #757575;">Get Gmail on the go.
+</td>
+</tr>
+<tr>
+<td colspan=3D"3" style=3D"height:10px">
+</td>
+</tr>
+<tr>
+<td style=3D"text-align:right; line-height:10px;" width=3D"229">
+<a href=3D"https://www.google.com/appserve/mkt/p/44lEjJjMAlokbxGfG8WJWWes-X=
+s7WC36zSNely2xF5NckLCQA7D2MayVZTMlySnvGW4K0aGIZ2gwffH4aJnFIIXWVJoshMNNwdQGY=
+KhqEQ8Ie16XWelI_tnA31C87qc0KMkBSiQyJ-qiXdI28ktrrAHQg-9T26HmgsqFZNw623WOKdue=
+" target=3D"_blank" style=3D"color:#4285f4; text-decoration:underline"><img=
+ src=3D"https://services.google.com/fh/files/emails/en_generic_rgb_wo_60.pn=
+g" alt=3D"Google Play" width=3D"162" height=3D"48" style=3D"max-width: none=
+; height: 48px; width:162px; outline: none; display: block; -ms-interpolati=
+on-mode: bicubic; border-top-width: 0; border-right-width: 0; border-bottom=
+-width: 0; border-left-width: 0;" align=3D"right"></a>
+</td>
+<td width=3D"21" height=3D"48" style=3D"width:21px;height:48px">=20
+</td>
+<td style=3D"text-align:left; line-height:10px;" width=3D"230">
+<a href=3D"https://www.google.com/appserve/mkt/p/_ksIH9BqRbFwf1eJQH5crKUtk9=
+z10L0jL58WvodvjjReAVk5gN5ogBaA3OspuuOv6m7RPD9sRVJNx09mcyRpDLGGR6NvPTY27gPdU=
+3pL1E7goXtWxtktig-x9MgSwyCfpTs3S6r-C_w=3D" target=3D"_blank" style=3D"color=
+:#4285f4; text-decoration:underline"><img src=3D"https://services.google.co=
+m/fh/files/emails/one_wel_email_itunes_icon.png" alt=3D"App Store" width=3D=
+"162" height=3D"48" style=3D"max-width: none; width:162; height: 48px; outl=
+ine: none; display: block; -ms-interpolation-mode: bicubic; border-top-widt=
+h: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;"=
+ align=3D"left"></a>
+</td>
+
+</tr>
+</table>
+              </td>
+
+             </tr>
+
+
+            =20
+             <tr>
+              <td height=3D"36"></td>
+
+             </tr>
+            =20
+            =20
+            =20
+            =20
+            =20
+             <tr>
+               <td align=3D"center">
+               <a href=3D"https://www.google.com/appserve/mkt/p/GLCRbkUn7Pg=
+-aqnl0K_RpvudsJP170zjgx4w2JTcnMTpPDcH3yXv73kd4Q8SFgVGLFV4__vD4l6RvQlTTjNGho=
+yMMtQD8vB4rci7qwqYElnu0Vu0fvXp2Fgf1A=3D=3D" target=3D"_blank" style=3D"colo=
+r:#4285f4; text-decoration:underline">
+               <img width=3D"134" height=3D"46" border=3D"0" src=3D"https:/=
+/services.google.com/fh/files/emails/google_log_new.png" alt=3D"Google" sty=
+le=3D"width: 134px; height: 46px; text-align: center; border: none;">
+               </a>
+               </td>
+             </tr>
+             <tr>
+              <td height=3D"31"></td>
+             </tr>
+             <tr>
+              <td align=3D"center">
+                <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"center" width=3D"405" class=3D"strip" style=3D"padding-left:4px">=20
+                  <tr>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                      <a href=3D"https://www.google.com/appserve/mkt/p/zRfl=
+nQRKyCRIqI6kWSdoT2f1dWkR6N6VmUSJqfexZW_GuLqG_krvKLlVUD62ugjiWAQG9CewJmh8sqp=
+6L1xAsVCebB0K43yWasYnyZ8oJ_ZIiQd0L7HmGQlqDQ=3D=3D" target=3D"_blank" style=
+=3D"color:#4285f4; text-decoration:underline">
+                        <img width=3D"32" border=3D"0" src=3D"https://servi=
+ces.google.com/fh/files/emails/owe_googleg_32dp.png" alt=3D"Google Search" =
+style=3D"width: 32px; text-align: center; border: none;">
+                      </a>
+                    </td>
+                   =20
+                    <td width=3D"20" style=3D"margin:0; padding:0"></td>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                    <a href=3D"https://www.google.com/appserve/mkt/p/DQ721Z=
+VR6ZYTHN2hHOKRWPl4GiZYP2sqlIR3VWcxMjnW6-hg2o1DC9b5OcQO8GnALsOE_AwKWaS1_yYVT=
+DvRveXl-7BsXcbpYyfjZtZeBMRV8XeBPPd2_ZJMxdWJc_5oWwim3AvlHgKatMY=3D" target=
+=3D"_blank" style=3D"color:#4285f4; text-decoration:underline">
+                    <img src=3D"https://services.google.com/fh/files/emails=
+/owe-new_gmail_32dp.png" width=3D"32" alt=3D"Gmail">
+                      </a>
+                    </td>
+                   =20
+                    <td width=3D"18" style=3D"margin:0; padding:0"></td>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                    <a href=3D"https://www.google.com/appserve/mkt/p/PmOoNU=
+FR1ZJF8LaEcEG8h5xYqDyzPD4y-02oh2zU13rWOP7Gd6ZN7GX5BZ_wDWTTY9P0AHW0eT5PnkKRX=
+bdGMx-Sxi1Z0759dIDIAF5NP3TAjaWsEJlJuR4RTEPf7g=3D=3D" target=3D"_blank" styl=
+e=3D"color:#4285f4; text-decoration:underline">
+                    <img width=3D"32" border=3D"0" src=3D"https://services.=
+google.com/fh/files/emails/owe_maps_32dp.png" alt=3D"Maps" style=3D"width: =
+32px; text-align: center; border: none;">
+                      </a>
+                    </td>
+                   =20
+                   =20
+                    <td width=3D"22" style=3D"margin:0; padding:0"></td>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                    <a href=3D"https://www.google.com/appserve/mkt/p/iS4hQT=
+84JkpcudVoRRv3mGwKBFjzarCtSHi_b-gyrfA8MZMygw58KFB7xUyKep-KPbAe3k75WNZgvXI3I=
+QQoIuCYeYfaYMXHH4qXWWAYeQoUhtgRQE2lJw=3D=3D" target=3D"_blank" style=3D"col=
+or:#4285f4; text-decoration:underline">
+                    <img width=3D"32" border=3D"0" src=3D"https://services.=
+google.com/fh/files/emails/owe_youtube_32dp.png" alt=3D"YouTube" style=3D"w=
+idth: 32px; text-align: center; border: none; -ms-interpolation-mode: bicub=
+ic;">
+                      </a>
+                    </td>
+                   =20
+                    <td width=3D"22" style=3D"margin:0; padding:0"></td>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                    <a href=3D"https://www.google.com/appserve/mkt/p/Sw06OQ=
+4I6RhjZYwKwe7ZEEPHtgibozGsyGthQJxwZ2Seu0E7mgAtlf3DRGKDRROSBoFosLn8HpXGDPP8P=
+LAmtquc21TP3A8LOEUekLgVhlmnuVjjFHB_Ew0cjrS5" target=3D"_blank" style=3D"col=
+or:#4285f4; text-decoration:underline">
+                    <img width=3D"32" border=3D"0" src=3D"https://services.=
+google.com/fh/files/emails/owe_drive_32dp.png" alt=3D"Drive" style=3D"width=
+: 32px; text-align: center; border: none;">
+                      </a>
+                    </td>
+                   =20
+                    <td width=3D"17" style=3D"margin:0; padding:0"></td>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                    <a href=3D"https://www.google.com/appserve/mkt/p/mja_hL=
+Rz_wbMy5p9qz9yDQNT6Cx-aRO5JpQaZrQfRZIx60V7AZVysv7qpyen6XroYZupJZxked9R4gOm1=
+5t3tX4_b5dlPt6ERsM4cL6esUy5W_ElGN1SU47BPGPzpw=3D=3D" target=3D"_blank" styl=
+e=3D"color:#4285f4; text-decoration:underline">
+                      <img width=3D"32" border=3D"0" src=3D"https://service=
+s.google.com/fh/files/emails/owe_photos_32dp.png" alt=3D"Photos" style=3D"w=
+idth: 32px; text-align: center; border: none;">=20
+                    </a>
+                    </td>=20
+                   =20
+                    <td width=3D"16" style=3D"margin:0; padding:0"></td>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                      <a href=3D"https://www.google.com/appserve/mkt/p/EGO4=
+XB_3-I0PEOBJBQUrw4rFOKcqy0yeB7FBg2rCABqznRNdhODc4b-rZ-R5BRP2stuwvzfUX8TMvNX=
+jxyB4EzH97__x0Scg9IfeWO_MtQbYSqaXy0-wZtWuXnNpqT8=3D" target=3D"_blank" styl=
+e=3D"color:#4285f4; text-decoration:underline">
+                        <img width=3D"32" border=3D"0" src=3D"https://servi=
+ces.google.com/fh/files/emails/owe_play_32dp.png" alt=3D"Play" style=3D"wid=
+th: 32px; text-align: center; border: none;">=20
+                      </a>
+                    </td>                   =20
+                    <td width=3D"18" style=3D"margin:0; padding:0"></td>
+                    <td width=3D"32" class=3D"prod-icon" style=3D"margin:0;=
+ padding:0 0 0 0">
+                      <a href=3D"https://www.google.com/appserve/mkt/p/LrTo=
+iUrkmFmNLUco2SrHhQhhr57sCln5mL1gWK3p2wG_hEbMdVbwhBuHCXLZ0bWHwHejD_J7un0jq_x=
+3UZ3kh6Qt6MQS5FTf-ZGBMKlzt8QdcXVVP-paHzk7qH3HrhmMxvI=3D" target=3D"_blank" =
+style=3D"color:#4285f4; text-decoration:underline">
+                       <img width=3D"32" border=3D"0" src=3D"https://servic=
+es.google.com/fh/files/emails/owe_chrome_32dp.png" alt=3D"Chrome" style=3D"=
+width: 32px; text-align: center; border: none;">
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+             </tr>
+             <tr>
+  				<td height=3D"28"></td>
+				</tr>
+        <tr>
+          <td height=3D"19" bgcolor=3D"#eeeeee" style=3D"background: #eeeee=
+e;"></td>
+          </tr>
+             <tr>
+             <td class=3D"footer" valign=3D"middle" style=3D'background:#ee=
+e; color:#777; font-family:"Roboto", OpenSans, "Open Sans", Arial, sans-ser=
+if; font-size:10px; font-weight:300; line-height:14px; margin:0; padding:0 =
+6px 0 6px; text-align:center' align=3D"center">
+                =C2=A9 2016 Google Inc. 1600 Amphitheatre Parkway, Mountain=
+ View, CA 94043<br>This email was sent to you because you created a Google =
+Account.
+            </td>
+             </tr>
+           </table>
+          </td>
+        </tr>
+       =20
+				<tr>
+					<td height=3D"18" bgcolor=3D"#eeeeee" style=3D"background: #eeeeee;"><=
+/td>
+				</tr>
+			</table>
+		</td>
+		<td width=3D"20" bgcolor=3D"#eeeeee" style=3D"background: #eeeeee;"></td>
+	</tr>
+</table>
+<div style=3D"display:none; white-space:nowrap; font:15px courier; line-hei=
+ght:0;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</center>
+<img height=3D"1" src=3D"https://www.google.com/appserve/mkt/img/HNyBwPmNAz=
+MmK90flobpHxvbj7Fs.gif" width=3D"3">
+</body>
+</html>
+
+--94eb2c123e4c3234a50535f25ea8--
+
+From 1537939153526368958@xxx Thu Jun 23 14:44:30 +0000 2016
+X-GM-THRID: 1537939153526368958
+X-Gmail-Labels: Important,Inbox
+Delivered-To: ualbanymodernpoliticalarchives@gmail.com
+Received: by 10.159.32.15 with SMTP id 15csp570869uam;
+        Thu, 23 Jun 2016 07:44:31 -0700 (PDT)
+X-Received: by 10.55.187.4 with SMTP id l4mr45741214qkf.123.1466693071358;
+        Thu, 23 Jun 2016 07:44:31 -0700 (PDT)
+Return-Path: <info@jerrynadler.com>
+Received: from mailout637.ngpweb.com (mailout637.ngpweb.com. [192.82.209.1])
+        by mx.google.com with ESMTPS id c130si399713qkb.126.2016.06.23.07.44.31
+        for <ualbanymodernpoliticalarchives@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 23 Jun 2016 07:44:31 -0700 (PDT)
+Received-SPF: neutral (google.com: 192.82.209.1 is neither permitted nor denied by best guess record for domain of info@jerrynadler.com) client-ip=192.82.209.1;
+Authentication-Results: mx.google.com;
+       dkim=temperror (no key for signature) header.i=@jerrynadler.com;
+       spf=neutral (google.com: 192.82.209.1 is neither permitted nor denied by best guess record for domain of info@jerrynadler.com) smtp.mailfrom=info@jerrynadler.com
+Return-Path: <info@jerrynadler.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=jerrynadler.com; s=ngpweb3; c=simple/simple;
+	q=dns/txt; i=@jerrynadler.com; t=1466693070;
+	h=Sender:From:Subject:List-Unsubscribe:Date:To:Reply-To:Message-ID:MIME-Version:
+	Content-Type;
+	bh=YgS1t6u8DKpJX1dl4SYgOoYShmM=;
+	b=AvZdN0AX+qrbFqTcxmzYDjHt0ma2YvqxU8iUO58erPLKqXGtQOvmHPla8PTnS3Ul
+	99JtXgdVuZfsTAjk4gJXjqNTHR7ngyJzVSK4XjVRFscLfJkPsP2rV1KsTeBQSa2q
+	N/FR5ArzPSOj4QzLlej/bK2CvGHiIQlBcJ0bPQhdEf8=;
+X-MSFBL: RiOuyKu2xXwXPQpLzPPVxTc7gBKDpi6Q2UYEbRcuGiY=|eyJyIjoidWFsYmFueW1
+	vZGVybnBvbGl0aWNhbGFyY2hpdmVzQGdtYWlsLmNvbSIsImIiOiJtYWlsb3V0NjM
+	3IiwiZyI6InRyYW5zYWN0aW9uYWxncm91cCIsInUiOiJpbmZvIn0=
+Received: from [10.11.74.231] ([10.11.74.231:61459] helo=NSV11OBJOB1201)
+	by asv11mtam001.ngpweb.com (envelope-from <info@jerrynadler.com>)
+	(ecelerity 4.2.1.51032 r(Core:4.2.1.4)) with ESMTP
+	id 51/F5-11141-EC5FB675; Thu, 23 Jun 2016 10:44:30 -0400
+X-Binding: transactional
+Reply-To: info@jerrynadler.com
+From: "Nadler for Congress" <info@jerrynadler.com>
+To: ualbanymodernpoliticalarchives@gmail.com
+Message-ID: <a6e213b376f34b4f839059e4cc19f2f8@jerrynadler.com>
+Date: Thu, 23 Jun 2016 10:44:26 -0400
+Subject: Thank you for your submission
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----A5B6B6AF6565407280DE337DA45320FE"
+
+------A5B6B6AF6565407280DE337DA45320FE
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Friend,
+
+Thank you for joining our campaign=2E   =20
+
+Contact Information:   =20
+  =20
+ =20
+ =20
+=C2=A0=C2=A012222
+------A5B6B6AF6565407280DE337DA45320FE
+Content-type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>
+=09Thank you for joining our campaign=2E</p>
+
+------A5B6B6AF6565407280DE337DA45320FE--
+
+
