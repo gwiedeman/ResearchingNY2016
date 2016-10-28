@@ -30,6 +30,44 @@ University at Albany, SUNY
 
 ---
 
+# New tools
+
+* Becoming easier to use
+
+* OCR
+* APIs
+* NLP
+* Community-developed tools
+	* Twac and Twarc reports
+* Web Archiving
+
+
+---
+
+## OCR: Still pretty rough
+
+* Geography texts
+
+---
+
+### Student Newspapers (1916-1985)
+
+
+---
+
+### LOC's Chronicing America API
+
+
+---
+
+### Potiential of Born-digital
+
+* MPA Experimental Email Archives
+
+
+
+---
+
 ###What is the Role of Libraries and Archives?
 
 * Potential of Communal Space
