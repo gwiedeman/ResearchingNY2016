@@ -7,13 +7,18 @@ startTime = time.time()
 startTimeReadable = str(time.strftime("%Y-%m-%d %H:%M:%S"))
 print ("Start Time: " + startTimeReadable)
 
+__location__ = os.path.dirname(os.path.realpath(__file__))
+
 wordToke = WordPunctTokenizer()
 stanfordPath = "/home/bcadmin/Projects/RNYImages/stanford-ner-2015-12-09"
 st = StanfordNERTagger(os.path.join(stanfordPath, 'classifiers/english.all.3class.distsim.crf.ser.gz'), os.path.join(stanfordPath, 'stanford-ner-3.6.0.jar'))
 
-dataPath = "/home/bcadmin/Projects/ResearchingNY2016/ocrASP"
-outPath = "/home/bcadmin/Projects/ResearchingNY2016/outASP"
-alertPath = "/media/bcadmin/wwwroot/eresources/UA_requests/alert.txt"
+dataPath = os.path.join(__location__, "ocrASP")
+outPath = os.path.join(__location__, "outASP")
+if os.name == "nt":
+	__location__
+else:
+	alertPath = "/media/bcadmin/wwwroot/eresources/UA_requests/alert.txt"
 
 fileTotal = 0
 for root, dirs, files in os.walk(dataPath):
