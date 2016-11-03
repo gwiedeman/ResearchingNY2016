@@ -1,0 +1,268 @@
+ 
+
+Haw Much Is That PC in the Window?
+
+A Shopper’s Guide to Microcomputers
+
+By Wlnn Rosch
+
+nce confronted with the overselection of personal comput-
+
+ers staring from shelves like puppy dogs wanting homes,
+
+" you’re apt to gasp, “i need a computer to figure out which is
+
+ the best computer to buy." Alas, you'd be right. The only
+
+way most people learn about the advantages and shortcomings of
+
+computers (mostly the latter) and what to look for in buying one, is
+to get stuck with the wrong machine.
+
+Before you make an expensive mistake, you should carefully con-
+sider your prospective computer purchase. Your goal is to match
+your woefully small budget (any budget is by definition woefully
+small) with your computing needs. Then comes the hard part—
+finding an affordable machine that ﬁlls your needs.
+
+One of the difﬁculties of the decision-making process is knowing
+
+00mmodore 64
+
+The Commodore 64. called C64 by its fans and Commode-door 64 by the more
+observant. has a lot going for it: it‘s cheap. More than that, it's really cheap! You
+can probably find one in your local toy store (literally!) for 3150 or less.
+
+But don‘t be misled by the tiny price tag. You‘ll also need to buy a disk drive
+that's at least that expensive as well as such options as a monitor and printer to
+make a complete system.
+
+As fits its toy store origin. the C64 is child's play to use: the easiest computer
+to plug into your television set. the
+easiest to start programming with be‘
+cause of its built-in BASIC program
+tniug language. and perhaps the easi»
+est to get addicted to because more
+games are available for it than nearly
+any other machine.
+
+Alas. the cognoscenti don‘t con-
+sider tlte C64 :1 real computer be
+cause its modest price buys only
+modest power. As personal cotnptlb
+crs go, the C(H is slow.
+
+While most computers take bttt a
+minute or so to duplicate a disk. plan
+on fifteen minutes shullling disks to
+make a copy using Commodore's
+software 'l'oo. Commodore disks also have a relatively limited capacity.
+
+Designed for connecting to television sets. the C64 also limits you to 10-
+colttmn onscreen displays which are insufficient for most spreadsheets and
+powerful what-you~sce-is-what-youget word processors.
+
+Although the C-(H does give you a few language choices besides BASIC~
+including Logo. lﬁtscal and Pilot ~~ its limited powers preclude rttnning the old
+mainframe languages utost colleges still inllict on their students, I‘OR'I‘RAN
+and COBOL.
+
+Further. the cm is not expandable its memory is forever limited to (i-i
+kilobytes (thousands of characters) and it's designed to connch only to its
+own accessories, giving you a choice much narrower than is available with
+other machines. In particular. the supply of Commodorecompatible inexpen-
+sive typewriterquality printers is limited. In fact. the on-papcr quality of the
+lowest priced Commodore printer is little better than embarrassing.
+
+litu Illc Cot is a big bargain. It will make an adequate word processor for
+assigmncnts and. using a relatively incxpeusvic Commodore modem. works
+well as a tcrmmal to talk \\'Illl more powerful computers. such as your school's
+mainframe
+
+Commodore 64
+
+h‘ .‘lIH/It‘l‘xalll/
+
+the strengths and weaknesses of different computer ‘families'. For
+the most part, a computer family is distinguished by its operating
+system, a program that tells the machine itself—the computer
+hardware—how to deal with other programs—the computer soft-
+ware.
+
+It's important for you to ﬁnd the right operating system because
+programs written for one operating system cannot be used with
+another. If you're not careful, you may ﬁnd that the programs that
+you most want to use won't run on the computer you've bought.
+
+The ﬁve best choices in computerfamilies and operating systems
+to accompany you through college are. in general order of rising
+price, the Commodore 64, the Radio Shack 100 and 200, the Apple
+II, the Apple Macintosh and the IBM PC.
+
+Radio Shack 100 and 200
+
+The Radio Shack Models 100 and 200 have earned a loyal following among
+journalists as portable notepads. A rudimentary built~in word processor and a
+memory that never forgets (even when the power is turned off) make it a
+perfect writer's tool.
+
+The Radio Shack machines are the easiest to use of all. To process words. you
+don‘t need to know how to do anything other than type. Almost all computer
+commands use their own keys.
+
+As a general purpose computer, however. the 100 and 200 suffer from a
+supply of software that's a bit meager when it comes to anything but wordwork.
+If you look hard. you might ﬁnd a spreadsheet or two and a more powerful
+word processoL
+
+The I00 and 200 give you essentially one language choice a stripped-down
+version of BASIC that comes built into the machine. Memory is limited to an
+ofﬁcial 32 kilobytes. although outside suppliers will let you add in up to three
+times that amount.
+
+Radio Shack sells enhancements for this tiny twosome that add some of the
+functions of desktop computers. including a disk drive and a video display.
+Alas, to take advantage of these enhancements you end up giving tip the ma
+chine's wonderful portability. Moreover. the connectors chosen for the hook-
+up won't endure more than several plugging and unpluggings.
+
+Despite these shortfalls. however, the Models 100 and 200 make excellent
+College companions Even the 24 kilobyte model of the 100 (priced at about
+$500) is sufficient for writing a ten‘
+page, double-spaced report. The
+built-in BASIC is powerful enough to
+back though most Science and math
+assignments.
+
+Although you might not want to
+use the clacker keyboard for taking
+notes in class. you can carry your 100
+or 200 to the library and write reports
+or type things otit in the solitude of a
+park or favorite camptts coffeehouse.
+
+NEC sells lookalike computers
+that are actually made in the same
+factory as the Radio shacks. Often
+they are less expensive. but for a
+good reason: the NIiC machines lack
+the built in modem that's inside both Radio Shack models. Once you start
+using the machine. you're likely to find that the modem is one of its most
+useful features, you need nothing else to communicate with other computers.
+
+Radio Shack Model 200
+
+October I 985
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We not 01%); give you the man
+‘ , ' e
+
+also give you  time-
+
+_If you think the best way to pay for college is to
+pgltfttogftfor a few years and Join the military, you’re
+
+rig .
+
+Because with the New GI Bill, you can join the
+Army National Guard and get a guaranteed minimum
+of $18,000 for college.
+
+But best of all, you serve two days a month
+and two weeks a car. Which means you can go to
+school full-time. tght now. On us.
+
+So the question you have to ask yourself is not,
+can you afford college.
+
+The question is, can you afford to wait.
+
+For moreanformatton about the Army Guard and
+the New GI Bill, ﬁll out the attached coupon and mail
+it in. Or call 800-838-7600*
+
+‘In Hawaii: 737-5255; Puerto Rico: 7214550: Guam: 477-9957; Vi ‘u Islands (St. Cnixi:
+773-6438: New Jersey: 800-452-5794. In Alaska consult your lucalnrilitme directory. I
+
+Army National Guard
+
+___————_______ﬁ
+
+"a m
+m m u
+an u out) w mm a up.“ to sum um“... mat
+
+for  ._ ,
+
+MAIL TO: “WWW. P.0. Box 6000, Clifton, NJ 07015 1I
+
+mm or I
+
+ 
+
+NAME
+
+ 
+
+A DDR ESS
+
+ 
+
+utr sIAIh/ZII’
+
+AREA CODE I'IIUNE
+
+US CITIZEN LI YES Lil N0
+
+ 
+
+SOCIAL SECURITY NUMBER
+
+OCCUPATION
+
+STUDENT Ll HIGH SCHOOL lIC()I.l.EliE
+PRIOR MILITARY SERVICE Ll YES LI 0
+
+BRANCH RANK AFN/MUS
+
+n... was-44 utmruwu
+
+mlanltlrnlwlnnvlunu mt. t
+ulllumluuluuum t. n... “It! «I m \nuI-lv an...»
+m
+
+Americans At Their Best.
+
+BIR'I‘II DATE
+
+|
+l
+l
+l
+l
+-|
+
+m.
+|
+Ip‘l
+"-""l
+J
+
+AIAMMC“105NP
+
+ 
+
