@@ -43,7 +43,7 @@ for root, dirs, files in os.walk(dataPath):
 		dataFile = open(text, 'r')
 		sourceText = dataFile.read()
 
-		yearOut = os.path.join(outPath, os.path.basename(root))
+		yearOut = os.path.join(outPath, file.split("_")[0])
 		if not os.path.isdir(yearOut):
 			os.mkdir(yearOut)
 
