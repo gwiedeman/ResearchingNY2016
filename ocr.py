@@ -24,4 +24,3 @@ for root, dirs, files in os.walk(images):
 		print ("Reading file " + str(fileCount) + " of " + str(fileTotal))
 		process = Popen(['tesseract', path, os.path.join(outpath, file)], stdout=PIPE, stderr=PIPE)
 		stdout, stderr = process.communicate()
-		
