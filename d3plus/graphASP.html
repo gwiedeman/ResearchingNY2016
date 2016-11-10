@@ -1,0 +1,652 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<!-- load D3js -->
+<script src="js/d3.js"></script>
+
+<!-- load D3plus after D3js -->
+<script src="js/d3plus.js"></script>
+
+<!-- create container element for visualization -->
+<div id="viz"></div>
+
+<script>
+  // sample data array
+  var sample_data =   [
+  {
+    "value": 44,
+    "name": "Clinton",
+    "Issue": "2014_21"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2014_22"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_01"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_02"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_03"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_04"
+  },
+  {
+    "value": 1,
+    "name": "Clinton",
+    "Issue": "2015_05"
+  },
+  {
+    "value": 5,
+    "name": "Clinton",
+    "Issue": "2015_06"
+  },
+  {
+    "value": 4,
+    "name": "Clinton",
+    "Issue": "2015_07"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_08"
+  },
+  {
+    "value": 1,
+    "name": "Clinton",
+    "Issue": "2015_09"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_10"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_12"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_13"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_14"
+  },
+  {
+    "value": 3,
+    "name": "Clinton",
+    "Issue": "2015_15"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_16"
+  },
+  {
+    "value": 1,
+    "name": "Clinton",
+    "Issue": "2015_17"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_18"
+  },
+  {
+    "value": 10,
+    "name": "Clinton",
+    "Issue": "2015_19"
+  },
+  {
+    "value": 1,
+    "name": "Clinton",
+    "Issue": "2015_20"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_21"
+  },
+  {
+    "value": 3,
+    "name": "Clinton",
+    "Issue": "2015_22"
+  },
+  {
+    "value": 0,
+    "name": "Clinton",
+    "Issue": "2015_23"
+  },
+  {
+    "value": 1,
+    "name": "Clinton",
+    "Issue": "2015_24"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2014_21"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2014_22"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_01"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_02"
+  },
+  {
+    "value": 1,
+    "name": "Sanders",
+    "Issue": "2015_03"
+  },
+  {
+    "value": 2,
+    "name": "Sanders",
+    "Issue": "2015_04"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_05"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_06"
+  },
+  {
+    "value": 1,
+    "name": "Sanders",
+    "Issue": "2015_07"
+  },
+  {
+    "value": 2,
+    "name": "Sanders",
+    "Issue": "2015_08"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_09"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_10"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_12"
+  },
+  {
+    "value": 2,
+    "name": "Sanders",
+    "Issue": "2015_13"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_14"
+  },
+  {
+    "value": 3,
+    "name": "Sanders",
+    "Issue": "2015_15"
+  },
+  {
+    "value": 9,
+    "name": "Sanders",
+    "Issue": "2015_16"
+  },
+  {
+    "value": 1,
+    "name": "Sanders",
+    "Issue": "2015_17"
+  },
+  {
+    "value": 5,
+    "name": "Sanders",
+    "Issue": "2015_18"
+  },
+  {
+    "value": 11,
+    "name": "Sanders",
+    "Issue": "2015_19"
+  },
+  {
+    "value": 3,
+    "name": "Sanders",
+    "Issue": "2015_20"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_21"
+  },
+  {
+    "value": 4,
+    "name": "Sanders",
+    "Issue": "2015_22"
+  },
+  {
+    "value": 1,
+    "name": "Sanders",
+    "Issue": "2015_23"
+  },
+  {
+    "value": 0,
+    "name": "Sanders",
+    "Issue": "2015_24"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2014_21"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2014_22"
+  },
+  {
+    "value": 23,
+    "name": "Trump",
+    "Issue": "2015_01"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_02"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_03"
+  },
+  {
+    "value": 2,
+    "name": "Trump",
+    "Issue": "2015_04"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_05"
+  },
+  {
+    "value": 3,
+    "name": "Trump",
+    "Issue": "2015_06"
+  },
+  {
+    "value": 1,
+    "name": "Trump",
+    "Issue": "2015_07"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_08"
+  },
+  {
+    "value": 1,
+    "name": "Trump",
+    "Issue": "2015_09"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_10"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_12"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_13"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_14"
+  },
+  {
+    "value": 9,
+    "name": "Trump",
+    "Issue": "2015_15"
+  },
+  {
+    "value": 5,
+    "name": "Trump",
+    "Issue": "2015_16"
+  },
+  {
+    "value": 2,
+    "name": "Trump",
+    "Issue": "2015_17"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_18"
+  },
+  {
+    "value": 6,
+    "name": "Trump",
+    "Issue": "2015_19"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_20"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_21"
+  },
+  {
+    "value": 14,
+    "name": "Trump",
+    "Issue": "2015_22"
+  },
+  {
+    "value": 0,
+    "name": "Trump",
+    "Issue": "2015_23"
+  },
+  {
+    "value": 1,
+    "name": "Trump",
+    "Issue": "2015_24"
+  },
+  {
+    "value": 8,
+    "name": "Obama",
+    "Issue": "2014_21"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2014_22"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_01"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_02"
+  },
+  {
+    "value": 1,
+    "name": "Obama",
+    "Issue": "2015_03"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_04"
+  },
+  {
+    "value": 1,
+    "name": "Obama",
+    "Issue": "2015_05"
+  },
+  {
+    "value": 1,
+    "name": "Obama",
+    "Issue": "2015_06"
+  },
+  {
+    "value": 2,
+    "name": "Obama",
+    "Issue": "2015_07"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_08"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_09"
+  },
+  {
+    "value": 7,
+    "name": "Obama",
+    "Issue": "2015_10"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_12"
+  },
+  {
+    "value": 11,
+    "name": "Obama",
+    "Issue": "2015_13"
+  },
+  {
+    "value": 1,
+    "name": "Obama",
+    "Issue": "2015_14"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_15"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_16"
+  },
+  {
+    "value": 10,
+    "name": "Obama",
+    "Issue": "2015_17"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_18"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_19"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_20"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_21"
+  },
+  {
+    "value": 1,
+    "name": "Obama",
+    "Issue": "2015_22"
+  },
+  {
+    "value": 0,
+    "name": "Obama",
+    "Issue": "2015_23"
+  },
+  {
+    "value": 1,
+    "name": "Obama",
+    "Issue": "2015_24"
+  },
+  {
+    "value": 2,
+    "name": "Cruz",
+    "Issue": "2014_21"
+  },
+  {
+    "value": 2,
+    "name": "Cruz",
+    "Issue": "2014_22"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_01"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_02"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_03"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_04"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_05"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_06"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_07"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_08"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_09"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_10"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_12"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_13"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_14"
+  },
+  {
+    "value": 5,
+    "name": "Cruz",
+    "Issue": "2015_15"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_16"
+  },
+  {
+    "value": 1,
+    "name": "Cruz",
+    "Issue": "2015_17"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_18"
+  },
+  {
+    "value": 3,
+    "name": "Cruz",
+    "Issue": "2015_19"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_20"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_21"
+  },
+  {
+    "value": 1,
+    "name": "Cruz",
+    "Issue": "2015_22"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_23"
+  },
+  {
+    "value": 0,
+    "name": "Cruz",
+    "Issue": "2015_24"
+  }
+]
+  // instantiate d3plus
+  var visualization = d3plus.viz()
+    .container("#viz")  // container DIV to hold the visualization
+    .data(sample_data)  // data to use with the visualization
+    .type("line")       // visualization type
+    .id("name")         // key for which our data is unique on
+    .text("name")       // key to use for display text
+    .y("value")         // key to use for y-axis
+    .x("Issue")          // key to use for x-axis
+    .draw()             // finally, draw the visualization!
+</script>
