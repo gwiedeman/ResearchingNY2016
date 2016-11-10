@@ -33,7 +33,7 @@ else:
 
 				issueList = ["2014_21", "2014_22", "2015_1", "2015_2","2015_3","2015_4","2015_5","2015_6","2015_7","2015_8","2015_9","2015_10","2015_12","2015_13","2015_14","2015_15","2015_16","2015_17","2015_18","2015_19","2015_20","2015_21","2015_22","2015_23", "2015_24"]
 				for issueNumber in issueList:
-					newLine = {"year": issueNumber, "name": key, "value": 0}
+					newLine = {"Issue": issueNumber, "name": key, "value": 0}
 					jsonData.append(newLine)
 
 
@@ -45,7 +45,7 @@ else:
 
 						if entity.lower() == key.lower():
 							for line in jsonData:
-								if line["year"] == issue and line["name"] == key:
+								if line["Issue"] == issue and line["name"] == key:
 									line["value"] = line["value"] + 1
 
 jsonText = json.dumps(jsonData, indent=2)

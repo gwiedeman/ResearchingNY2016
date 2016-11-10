@@ -1,627 +1,627 @@
 [
   {
     "value": 44,
-    "year": "2014_21",
+    "Issue": "2014_21",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2014_22",
+    "Issue": "2014_22",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_1",
+    "Issue": "2015_1",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_2",
+    "Issue": "2015_2",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_3",
+    "Issue": "2015_3",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_4",
+    "Issue": "2015_4",
     "name": "Clinton"
   },
   {
     "value": 1,
-    "year": "2015_5",
+    "Issue": "2015_5",
     "name": "Clinton"
   },
   {
     "value": 5,
-    "year": "2015_6",
+    "Issue": "2015_6",
     "name": "Clinton"
   },
   {
     "value": 4,
-    "year": "2015_7",
+    "Issue": "2015_7",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_8",
+    "Issue": "2015_8",
     "name": "Clinton"
   },
   {
     "value": 1,
-    "year": "2015_9",
+    "Issue": "2015_9",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_10",
+    "Issue": "2015_10",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_12",
+    "Issue": "2015_12",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_13",
+    "Issue": "2015_13",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_14",
+    "Issue": "2015_14",
     "name": "Clinton"
   },
   {
     "value": 3,
-    "year": "2015_15",
+    "Issue": "2015_15",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_16",
+    "Issue": "2015_16",
     "name": "Clinton"
   },
   {
     "value": 1,
-    "year": "2015_17",
+    "Issue": "2015_17",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_18",
+    "Issue": "2015_18",
     "name": "Clinton"
   },
   {
     "value": 10,
-    "year": "2015_19",
+    "Issue": "2015_19",
     "name": "Clinton"
   },
   {
     "value": 1,
-    "year": "2015_20",
+    "Issue": "2015_20",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_21",
+    "Issue": "2015_21",
     "name": "Clinton"
   },
   {
     "value": 3,
-    "year": "2015_22",
+    "Issue": "2015_22",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2015_23",
+    "Issue": "2015_23",
     "name": "Clinton"
   },
   {
     "value": 1,
-    "year": "2015_24",
+    "Issue": "2015_24",
     "name": "Clinton"
   },
   {
     "value": 0,
-    "year": "2014_21",
+    "Issue": "2014_21",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2014_22",
+    "Issue": "2014_22",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_1",
+    "Issue": "2015_1",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_2",
+    "Issue": "2015_2",
     "name": "Sanders"
   },
   {
     "value": 1,
-    "year": "2015_3",
+    "Issue": "2015_3",
     "name": "Sanders"
   },
   {
     "value": 2,
-    "year": "2015_4",
+    "Issue": "2015_4",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_5",
+    "Issue": "2015_5",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_6",
+    "Issue": "2015_6",
     "name": "Sanders"
   },
   {
     "value": 1,
-    "year": "2015_7",
+    "Issue": "2015_7",
     "name": "Sanders"
   },
   {
     "value": 2,
-    "year": "2015_8",
+    "Issue": "2015_8",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_9",
+    "Issue": "2015_9",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_10",
+    "Issue": "2015_10",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_12",
+    "Issue": "2015_12",
     "name": "Sanders"
   },
   {
     "value": 2,
-    "year": "2015_13",
+    "Issue": "2015_13",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_14",
+    "Issue": "2015_14",
     "name": "Sanders"
   },
   {
     "value": 3,
-    "year": "2015_15",
+    "Issue": "2015_15",
     "name": "Sanders"
   },
   {
     "value": 9,
-    "year": "2015_16",
+    "Issue": "2015_16",
     "name": "Sanders"
   },
   {
     "value": 1,
-    "year": "2015_17",
+    "Issue": "2015_17",
     "name": "Sanders"
   },
   {
     "value": 5,
-    "year": "2015_18",
+    "Issue": "2015_18",
     "name": "Sanders"
   },
   {
     "value": 11,
-    "year": "2015_19",
+    "Issue": "2015_19",
     "name": "Sanders"
   },
   {
     "value": 3,
-    "year": "2015_20",
+    "Issue": "2015_20",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_21",
+    "Issue": "2015_21",
     "name": "Sanders"
   },
   {
     "value": 4,
-    "year": "2015_22",
+    "Issue": "2015_22",
     "name": "Sanders"
   },
   {
     "value": 1,
-    "year": "2015_23",
+    "Issue": "2015_23",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2015_24",
+    "Issue": "2015_24",
     "name": "Sanders"
   },
   {
     "value": 0,
-    "year": "2014_21",
+    "Issue": "2014_21",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2014_22",
+    "Issue": "2014_22",
     "name": "Trump"
   },
   {
     "value": 23,
-    "year": "2015_1",
+    "Issue": "2015_1",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_2",
+    "Issue": "2015_2",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_3",
+    "Issue": "2015_3",
     "name": "Trump"
   },
   {
     "value": 2,
-    "year": "2015_4",
+    "Issue": "2015_4",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_5",
+    "Issue": "2015_5",
     "name": "Trump"
   },
   {
     "value": 3,
-    "year": "2015_6",
+    "Issue": "2015_6",
     "name": "Trump"
   },
   {
     "value": 1,
-    "year": "2015_7",
+    "Issue": "2015_7",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_8",
+    "Issue": "2015_8",
     "name": "Trump"
   },
   {
     "value": 1,
-    "year": "2015_9",
+    "Issue": "2015_9",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_10",
+    "Issue": "2015_10",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_12",
+    "Issue": "2015_12",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_13",
+    "Issue": "2015_13",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_14",
+    "Issue": "2015_14",
     "name": "Trump"
   },
   {
     "value": 9,
-    "year": "2015_15",
+    "Issue": "2015_15",
     "name": "Trump"
   },
   {
     "value": 5,
-    "year": "2015_16",
+    "Issue": "2015_16",
     "name": "Trump"
   },
   {
     "value": 2,
-    "year": "2015_17",
+    "Issue": "2015_17",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_18",
+    "Issue": "2015_18",
     "name": "Trump"
   },
   {
     "value": 6,
-    "year": "2015_19",
+    "Issue": "2015_19",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_20",
+    "Issue": "2015_20",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_21",
+    "Issue": "2015_21",
     "name": "Trump"
   },
   {
     "value": 14,
-    "year": "2015_22",
+    "Issue": "2015_22",
     "name": "Trump"
   },
   {
     "value": 0,
-    "year": "2015_23",
+    "Issue": "2015_23",
     "name": "Trump"
   },
   {
     "value": 1,
-    "year": "2015_24",
+    "Issue": "2015_24",
     "name": "Trump"
   },
   {
     "value": 8,
-    "year": "2014_21",
+    "Issue": "2014_21",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2014_22",
+    "Issue": "2014_22",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_1",
+    "Issue": "2015_1",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_2",
+    "Issue": "2015_2",
     "name": "Obama"
   },
   {
     "value": 1,
-    "year": "2015_3",
+    "Issue": "2015_3",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_4",
+    "Issue": "2015_4",
     "name": "Obama"
   },
   {
     "value": 1,
-    "year": "2015_5",
+    "Issue": "2015_5",
     "name": "Obama"
   },
   {
     "value": 1,
-    "year": "2015_6",
+    "Issue": "2015_6",
     "name": "Obama"
   },
   {
     "value": 2,
-    "year": "2015_7",
+    "Issue": "2015_7",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_8",
+    "Issue": "2015_8",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_9",
+    "Issue": "2015_9",
     "name": "Obama"
   },
   {
     "value": 7,
-    "year": "2015_10",
+    "Issue": "2015_10",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_12",
+    "Issue": "2015_12",
     "name": "Obama"
   },
   {
     "value": 11,
-    "year": "2015_13",
+    "Issue": "2015_13",
     "name": "Obama"
   },
   {
     "value": 1,
-    "year": "2015_14",
+    "Issue": "2015_14",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_15",
+    "Issue": "2015_15",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_16",
+    "Issue": "2015_16",
     "name": "Obama"
   },
   {
     "value": 10,
-    "year": "2015_17",
+    "Issue": "2015_17",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_18",
+    "Issue": "2015_18",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_19",
+    "Issue": "2015_19",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_20",
+    "Issue": "2015_20",
     "name": "Obama"
   },
   {
     "value": 0,
-    "year": "2015_21",
-    "name": "Obama"
-  },
-  {
-    "value": 1,
-    "year": "2015_22",
-    "name": "Obama"
-  },
-  {
-    "value": 0,
-    "year": "2015_23",
+    "Issue": "2015_21",
     "name": "Obama"
   },
   {
     "value": 1,
-    "year": "2015_24",
+    "Issue": "2015_22",
+    "name": "Obama"
+  },
+  {
+    "value": 0,
+    "Issue": "2015_23",
+    "name": "Obama"
+  },
+  {
+    "value": 1,
+    "Issue": "2015_24",
     "name": "Obama"
   },
   {
     "value": 2,
-    "year": "2014_21",
+    "Issue": "2014_21",
     "name": "Cruz"
   },
   {
     "value": 2,
-    "year": "2014_22",
+    "Issue": "2014_22",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_1",
+    "Issue": "2015_1",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_2",
+    "Issue": "2015_2",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_3",
+    "Issue": "2015_3",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_4",
+    "Issue": "2015_4",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_5",
+    "Issue": "2015_5",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_6",
+    "Issue": "2015_6",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_7",
+    "Issue": "2015_7",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_8",
+    "Issue": "2015_8",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_9",
+    "Issue": "2015_9",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_10",
+    "Issue": "2015_10",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_12",
+    "Issue": "2015_12",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_13",
+    "Issue": "2015_13",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_14",
+    "Issue": "2015_14",
     "name": "Cruz"
   },
   {
     "value": 5,
-    "year": "2015_15",
+    "Issue": "2015_15",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_16",
+    "Issue": "2015_16",
     "name": "Cruz"
   },
   {
     "value": 1,
-    "year": "2015_17",
+    "Issue": "2015_17",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_18",
+    "Issue": "2015_18",
     "name": "Cruz"
   },
   {
     "value": 3,
-    "year": "2015_19",
+    "Issue": "2015_19",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_20",
+    "Issue": "2015_20",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_21",
+    "Issue": "2015_21",
     "name": "Cruz"
   },
   {
     "value": 1,
-    "year": "2015_22",
+    "Issue": "2015_22",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_23",
+    "Issue": "2015_23",
     "name": "Cruz"
   },
   {
     "value": 0,
-    "year": "2015_24",
+    "Issue": "2015_24",
     "name": "Cruz"
   }
 ]
