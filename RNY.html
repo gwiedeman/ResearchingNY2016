@@ -1,4 +1,22 @@
-## APIs, WARCs, and NPL
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>reveal-md</title>
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/theme/night.css" id="theme">
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="lib/css/zenburn.css">
+
+        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
+        <script>
+          document.write( '<link rel="stylesheet" href="css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
+        </script>
+    </head>
+    <body>
+
+        <div class="reveal">
+            <div class="slides"><section  data-markdown><script type="text/template">## APIs, WARCs, and NPL
 #### technology, archives, and new opportunities for historical research
 
 <br/>
@@ -8,9 +26,7 @@ University Archivist<br/>
 M.E. Grenander Department of Special Collections & Archives<br/>
 University at Albany, SUNY<br/>
 @gregwiedeman
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Archives are changing
 
 * Digitization and Born-digital archives
@@ -24,9 +40,7 @@ University at Albany, SUNY<br/>
 	
 * More and More source material is becoming available for computational use
 
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ###  Research Tools Becoming More Accessible
 
 * Becoming easier to use
@@ -36,17 +50,13 @@ University at Albany, SUNY<br/>
 * Community-developed tools
 * Web Archiving
 * Visualization tools
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Outline
 
 * Show how easy these tools can be
 * Point to real research being done
 * Talk about archives and libraries can support
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## 19th Century Textbooks
 
 * Widely used, copied & reprinted, relied upon for teaching
@@ -63,28 +73,19 @@ University at Albany, SUNY<br/>
 	* Arabia
 	* Egypt
 	* Barbary States
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/Morse1.jpg" -->
 ### Jedidiah Morse, 1826
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/Morse2.jpg" -->
 ### Jedidiah Morse, 1826
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/Willard.jpg" -->
 ### Emma Willard, 1835
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/Mitchell2.jpg" -->
 ### S. Augustus Mitchell, 1847
-
----
+</script></section><section  data-markdown><script type="text/template">
 ## Archives have Stuff
 
 * Student Newspapers (1916-1985)
@@ -92,12 +93,9 @@ University at Albany, SUNY<br/>
 	* Albany Student Press (ASP)
 * digitized from old microfilm
 * already have high resolution TIFF masters
-
----
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/aspExample.png" -->
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Processing
 
 * Changed to B&W and Greyscale with ImageMagik
@@ -108,8 +106,7 @@ University at Albany, SUNY<br/>
 	* write to text files
 	* ASP took 11+ days
 	
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Processing
 
 ~~~~
@@ -131,24 +128,17 @@ for root, dirs, files in os.walk(images):
 		stdout, stderr = process.communicate()
 
 ~~~~
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/geoTextFiles.png" -->
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/textFiles.png" -->
-
----
+</script></section><section  data-markdown><script type="text/template">
 ## Terrible OCR
 <!-- .slide: data-background="images/geoOCR.png" -->
-
----
+</script></section><section  data-markdown><script type="text/template">
 ## Okay OCR
 <!-- .slide: data-background="images/ocrText.png" -->
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## New Sources
 
 * Collecting born-digital ASP since 2014
@@ -167,11 +157,9 @@ for pdfFile in os.listdir(os.path.join(__location__, "pdf")):
 	process = Popen(['C:\Program Files\mupdf\mutool.exe', 'draw', '-F', 'txt', '-o', outPath, pdfPath], stdout=PIPE, stderr=PIPE)
 	stdout, stderr = process.communicate()
 ~~~~
-
----
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/bdASPExample.png" -->
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## New Sources
 
 ~~~~
@@ -269,9 +257,7 @@ conservation habits with
 them for the rest of their 
 life.”
 ~~~~
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Extract Entities
 
 * Natural Language Processing
@@ -283,8 +269,7 @@ life.”
 * <a href="http://archival-integration.blogspot.com/2015/10/methods-and-tools-for-characterizing.html">Has been used with born-digital archives</a>
 	
 <img src="images/tree.gif"/>
-
----
+</script></section><section  data-markdown><script type="text/template">
 ## NLP.py
 ~~~~
 from nltk.tag import StanfordNERTagger
@@ -332,13 +317,9 @@ for root, dirs, files in os.walk(dataPath):
 
 
 ~~~~
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="images/csvOutput.png" -->
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## makeCloud.py
 
 ~~~~
@@ -389,46 +370,34 @@ plt.axis('off')
 plt.show()
 
 ~~~~
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/geoText-locations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Geography Texts - Locations</h3>
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/geoText-people.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Geography Texts - People</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/geoText-organizations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Geography Texts - Organizations</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/ocrASP-locations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Student Newspapers - Locations</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/ocrASP-people.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Student Newspapers - People</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/ocrASP-organizations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 100px">Student Newspapers - Organizations</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/bdASP-locations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Born-Digital ASP - Locations</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/bdASP-people.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Born-Digital ASP - People</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/bdASP-organizations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Born-Digital ASP - Organizations</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 ### LOC's Chronicing America API
 
 * Entire National Digital Newspaper Program is now accessible
@@ -436,13 +405,10 @@ plt.show()
 * Chronicling America Data Challenge winners
 	* http://americaspublicbible.org/
 	* http://www.americanlynchingdata.com/
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/bdASP-people.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 60px">Born-Digital ASP - Graphing Politicians</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Graph Entities
 
 ~~~~
@@ -510,8 +476,7 @@ f.close()
 
 ~~~~
 
-
----
+</script></section><section  data-markdown><script type="text/template">
 ### D3plus
 
 * Simple JS visualization Library
@@ -521,10 +486,10 @@ f.close()
 <meta charset="utf-8">
 
 <!-- load D3js -->
-<script src="js/d3.js"></script>
+<script src="js/d3.js">__SCRIPT_END__
 
 <!-- load D3plus after D3js -->
-<script src="js/d3plus.js"></script>
+<script src="js/d3plus.js">__SCRIPT_END__
 
 <!-- create container element for visualization -->
 <div id="viz"></div>
@@ -555,12 +520,11 @@ f.close()
     .y("value")         // key to use for y-axis
     .x("Issue")          // key to use for x-axis
     .draw()             // finally, draw the visualization!
-</script>
+__SCRIPT_END__
 
 ~~~~
 * <a href="d3plus/graphASP.html">graphASP.html</a>
----
-
+</script></section><section  data-markdown><script type="text/template">
 ### Potiential of Born-digital
 
 * Modern Political Archive - Experimental Email Archives
@@ -568,9 +532,7 @@ f.close()
 	* Collected with Gmail account 
 	* June 23, 2016 - Election Day
 	* 553 emails
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Processing
 
 * used Python mailbox library to parse .mbox
@@ -580,22 +542,16 @@ f.close()
 	* extract entities
 * <a href="d3plus/emailSenders.html">D3plus bar graph to show senders</a>
 * makeCloud.py for entities
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/email-locations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Email - Locations</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/email-people.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Email - People</h3>
----
-
+</script></section><section  data-markdown><script type="text/template">
 <!-- .slide: data-background="clouds/email-organizations.png" -->
 <h3 style="color: black; position:absolute; top: -350px; left: 150px">Email - Organizations</h3>
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Community-Developed Tools
 
 * <a href="https://github.com/DocNow/twarc">twarc</a>
@@ -608,9 +564,7 @@ twarc.py --search #ny19 > ny19.json
 ~~~~
 
 <img src="images/tweets.png"/>
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Community-Developed Tools
 
 ~~~~
@@ -631,9 +585,7 @@ d3graph.py --mode replies projects/ny19 > projects/ny19/ny19-replies.html
 d3wordcloud.py -t local -i 1H projects/ny19 > projects/ny19/ny19-wordcloud_hourly.html
 ~~~~
 <a href="twarcExamples/ny19-wordcloud_hourly.html">ny19-wordcloud_hourly.html</a>
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Web Archives
 
 * UAlbany Special Collections & Archives has been preserving the web since 2013
@@ -641,9 +593,7 @@ d3wordcloud.py -t local -i 1H projects/ny19 > projects/ny19/ny19-wordcloud_hourl
 	* Preservation of permentant public records
 * This year expanded to NY Modern Political Archive
 * Web archives links have begun to appear in finding aids
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ## Research Potential
 
 * twarc DocNow community
@@ -655,9 +605,7 @@ d3wordcloud.py -t local -i 1H projects/ny19 > projects/ny19/ny19-wordcloud_hourl
 * <a href="https://cchs.gwu.edu/program-extremism">George Washington University Program on Extremism</a>
 	* <a href="https://cchs.gwu.edu/sites/cchs.gwu.edu/files/downloads/Berger_Occasional%20Paper.pdf">The Islamic State’s Diminishing Returns on Twitter: How suspensions are limiting the social networks of English-speaking ISIS supporters</a>
 	* <a href="https://cchs.gwu.edu/sites/cchs.gwu.edu/files/downloads/Nazis%20v.%20ISIS%20Final_0.pdf">Nazis vs. ISIS on Twitter:A Comparative Study of White Nationalist and ISIS Online Social Media Networks</a>
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ###What is the Role of Libraries and Archives?
 
 * Potential of Communal Space
@@ -665,13 +613,61 @@ d3wordcloud.py -t local -i 1H projects/ny19 > projects/ny19/ny19-wordcloud_hourl
 <br/><br/>
 * Always-streached budgets
 * Lack of expertise
-
----
-
+</script></section><section  data-markdown><script type="text/template">
 ##What should Historians do?
 
 * <a href="http://guides.library.cornell.edu/c.php?g=31362&p=809414">Look for grant funding</a>
 * Advocate for Institutional Support
 * Build Connections
 * Experiment<br/><br/>
-<a href="twarcExamples/ny19-wordcloud_hourly.html">Questions?</a>
+<a href="twarcExamples/ny19-wordcloud_hourly.html">Questions?</a></script></section></div>
+        </div>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.js"></script>
+
+        <script>
+            function extend() {
+              var target = {};
+              for (var i = 0; i < arguments.length; i++) {
+                var source = arguments[i];
+                for (var key in source) {
+                  if (source.hasOwnProperty(key)) {
+                    target[key] = source[key];
+                  }
+                }
+              }
+              return target;
+            }
+
+            // Optional libraries used to extend on reveal.js
+            var deps = [
+              { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+              { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector('[data-markdown]'); } },
+              { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+              { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+              { src: 'plugin/math/math.js', async: true }
+            ];
+
+            // default options to init reveal.js
+            var defaultOptions = {
+              controls: true,
+              progress: true,
+              history: true,
+              center: true,
+              transition: 'default',
+              dependencies: deps
+            };
+
+            // options from URL query string
+            var queryOptions = Reveal.getQueryHash() || {};
+
+            var options = {};
+            options = extend(defaultOptions, options, queryOptions);
+            Reveal.initialize(options);
+        </script>
+        
+          <script src="/scripts/ResearchingNY2016"></script>
+    </body>
+</html>
